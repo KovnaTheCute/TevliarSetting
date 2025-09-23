@@ -21,18 +21,13 @@ skillsaves:
 - Perception: +10 
 damage_resistances: Cold, Necrotic, Psychic
 damage_immunities: Fire, Poison, Bludgeoning, Piercing, and Slashing from non-magical attacks
-condition_immunities: 
-senses: string
-languages: string
-cr: Number
-spells: 
-- 
-- 
-- 
--
+condition_immunities: Charmed, Frightened, Paralyzed, Posioned
+senses: Truesight 120 ft., passive perception 20
+languages: Abyssal, Infernal, telepathy 120 ft.
+cr: 21
 traits: 
-- name: 
-  desc:
+- name: Essence of Chaos Unleashed.
+  desc: While the Avatar is summoned, it radiates a destructive aura in a 120-foot radius. This aura has the following effects
 - name: 
   desc: 
 actions: 
