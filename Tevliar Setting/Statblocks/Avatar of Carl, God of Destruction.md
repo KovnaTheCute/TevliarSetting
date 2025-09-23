@@ -38,7 +38,9 @@ actions:
 - name: Multiattack.
   desc: "The Avatar makes three attacks: two with its Chaos Hammer and one with Chaos Blast."
 - name: Chaos Hammer.
-  desc: "Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 29 (4d10 + 8) bludgeoning damage plus 22 (5d8) fire damage. On a hit roll a d6: <br> 1. The target is knocked back 20 feet. <br> 2. The target is stunned until the start of its next turn"
+  desc: "Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 29 (4d10 + 8) bludgeoning damage plus 22 (5d8) fire damage. On a hit roll a d6: <br> 1. The target is knocked back 20 feet. <br> 2. The target is stunned until the start of its next turn. <br> 3. The target is knocked prone. <br> 4. The target suffers disadvantage on attack rolls until the end of its next turn. <br> 5. The target takes an additional 15 (3d10) force damage. <br> 6. The Avatar immediately makes another Chaos Hammer attack against either the same target or a different one in range."
+- name: Chaos Blast.
+  desc: "Ranged Spell Attack: +13 to hit, range 120 ft., one target. Hit: 31 (7d8) fire damage plus 27 (3d10) force damage. If the target fails a DC 21 Constitution saving throw, it is knocked prone and disoriented, having disadvantage "
 legendary_actions: 
 - name: 
   desc: 
