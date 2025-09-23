@@ -44,8 +44,9 @@ actions:
 - name: Chaos Flame (Recharge 5-6).
   desc: "The Avatar releases a cone of chaotic flame in a 90-foot cone. Each creature in the area must make a DC 21 Dexterity saving throw, taking 63 (14d8) fire damage on a failed save, or half as much on a successful one. Creatures that fail the save are also knocked back 20 feet and are stunned until the end of their next turn."
 legendary_actions: 
-- name: 
-  desc: 
+  
+- name: Chaos Strike.
+  desc: "The Avatar makes one Chaos Hammer Attack."
 - name: 
   desc: 
 bonus_actions: 
