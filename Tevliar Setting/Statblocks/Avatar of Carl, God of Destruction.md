@@ -2,26 +2,25 @@
 ```statblock 
 layout: Basic 5e 
 name: Avatar of Carl, God of Destruction
-size: 
-type: 
-subtype: 
-alignment: 
-ac: Number
-hp: Number
-hit_dice: 
-speed: 
-stats: 
-fage_stats: 
+size: Large
+type: Fiend
+alignment: Chaotic Evil
+ac: 19
+hp: 385
+hit_dice: 30d10 + 210
+speed: 60 ft., fly 80 ft. (Hover)
+stats: [26, 22, 24, 18, 16, 22]
 saves: 
-- dash: 
-- potato: 
-- stew: 
+- Strength: +15
+- Dexterity: +13 
+- Constitution: +14
+- Wisdom: +10
+- Charisma: +13
 skillsaves: 
-- fake-skill: 
-- turtle: 
-damage_vulnerabilities: 
-damage_resistances: 
-damage_immunities: 
+- Intimidation: +13 
+- Perception: +10 
+damage_resistances: Cold, Necrotic, Psychic
+damage_immunities: Fire, Poison, Bludgeoning, Piercing, and Slashing from non-magical attacks
 condition_immunities: 
 senses: string
 languages: string
