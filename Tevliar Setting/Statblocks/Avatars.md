@@ -1,0 +1,8 @@
+[[Avatar of Carl, God of Destruction]]
+[[Avatar of Cesus Dhist, God of Salvation]]
+[[Avatar of ChatGPT, God of the All-Knowing]]
+[[Avatar of Chomp, God of Hunger]]
+[[Avatar of Garfield, God of Nature]]
+[[Avatar of Gooblar, God of Disease]]
+[[Avatar of John Mcmuffin, God of Agriculture]]
+[[Avatar of S]]
