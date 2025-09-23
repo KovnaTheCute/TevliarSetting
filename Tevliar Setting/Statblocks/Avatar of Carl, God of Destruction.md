@@ -27,7 +27,7 @@ languages: Abyssal, Infernal, telepathy 120 ft.
 cr: 21
 traits: 
 - name: Essence of Chaos Unleashed.
-  desc: While the Avatar is summoned, it radiates a destructive aura in a 120-foot radius. This aura has the following effects
+  desc: "While the Avatar is summoned, it radiates a destructive aura in a 120-foot radius. This aura has the following effects: <br> - Flame of anarchy. At the start of each of the Avatar's turns, creatures of its choice within 30 feet must succeed on a DC 23 Dexterity saving throw or take 21 (6d6) fire damage. Objects and structures in the area take double damage. <br> - "
 - name: 
   desc: 
 actions: 
