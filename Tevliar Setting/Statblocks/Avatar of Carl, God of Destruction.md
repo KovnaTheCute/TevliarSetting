@@ -35,10 +35,10 @@ traits:
 - name: Destructive Presence.
   desc: Any creature within 20 feet of the Avatar has disadvantage on saving throws against being frightened and must roll on the wild magic table when casting spells.
 actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+- name: Multiattack.
+  desc: "The Avatar makes three attacks: two with its Chaos Hammer and one with Chaos Blast."
+- name: Chaos Hammer.
+  desc: "Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 29 (4d10 + 8) bludgeoning damage plus 22 (5d8) fire damage. On a hit roll a d6: <br> 1. The target is knocked back 20 feet. <br> 2. The target is stunned until the start of its next turn"
 legendary_actions: 
 - name: 
   desc: 
