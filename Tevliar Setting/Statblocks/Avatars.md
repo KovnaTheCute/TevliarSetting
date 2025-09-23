@@ -5,4 +5,6 @@
 [[Avatar of Garfield, God of Nature]]
 [[Avatar of Gooblar, God of Disease]]
 [[Avatar of John Mcmuffin, God of Agriculture]]
-[[Avatar of S]]
+[[Avatar of Soluna, God of Cycles]]
+[[Avatar of Tiacat, God of Dragons]]
+[[Avatar of Turial, God of Death]]
