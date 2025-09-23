@@ -40,7 +40,9 @@ actions:
 - name: Chaos Hammer.
   desc: "Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 29 (4d10 + 8) bludgeoning damage plus 22 (5d8) fire damage. On a hit roll a d6: <br> 1. The target is knocked back 20 feet. <br> 2. The target is stunned until the start of its next turn. <br> 3. The target is knocked prone. <br> 4. The target suffers disadvantage on attack rolls until the end of its next turn. <br> 5. The target takes an additional 15 (3d10) force damage. <br> 6. The Avatar immediately makes another Chaos Hammer attack against either the same target or a different one in range."
 - name: Chaos Blast.
-  desc: "Ranged Spell Attack: +13 to hit, range 120 ft., one target. Hit: 31 (7d8) fire damage plus 27 (3d10) force damage. If the target fails a DC 21 Constitution saving throw, it is knocked prone and disoriented, having disadvantage "
+  desc: "Ranged Spell Attack: +13 to hit, range 120 ft., one target. Hit: 31 (7d8) fire damage plus 27 (3d10) force damage. If the target fails a DC 21 Constitution saving throw, it is knocked prone and disoriented, having disadvantage attacks until the end of its next turn."
+- name: Chaos Flame (Recharge 5-6).
+  desc: "The Avatar releases a cone of chaotic flame in a 90-foot cone. Each creature in the area must make a DC 21 Dexterity saving throw, taking 63 (14d8) fire damage on a failed save, or half as much on a successful one. Creatures that fail the save are also knocked back 20 feet and are stunned until the end of their next turn."
 legendary_actions: 
 - name: 
   desc: 
