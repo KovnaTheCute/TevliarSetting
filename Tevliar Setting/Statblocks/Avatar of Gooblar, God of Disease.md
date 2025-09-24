@@ -53,3 +53,31 @@ bonus_actions:
 ```
 
 ### Description:
+Avatars of Gooblar, the God of Disease, are revolting mountains of corrupted flesh, their forms swollen with pus, tumors, and writhing infestations. Their sagging bodies split open with every movement, releasing streams of bile, clouds of buzzing flies, and choking waves of noxious miasma. Their grotesque forms are never stable—one might drip with fungal growths while another crawls with worms and leeches, but all radiate the same aura of pestilence and inevitability.
+
+**Incarnations of Decay.** Gooblar’s Avatars embody the paradox of disease: death and suffering intertwined with renewal and adaptation. Where they walk, crops wither and rot, rivers turn brackish, and beasts stagger in fever—yet survivors often emerge stronger, carrying strange immunities or mutations that ripple through future generations.
+
+**Alien Mercy.** These Avatars do not hate mortals, nor do they seek to destroy them outright. To Gooblar, illness is a gift, a trial that separates the weak from the strong. An Avatar may just as readily cure a victim as infect them, only to watch the cycle of affliction and recovery continue. Their laughter is a bubbling, phlegm-ridden sound that echoes with both mockery and strange, paternal pride.
+
+**Heralds of Pestilence.** Their presence alone heralds catastrophe. Fields collapse into sludge, vermin breed unchecked, and mortals fall ill by the thousands. Armies falter before them, not by blade or flame, but through fever and coughing fits that strip away their resolve. Yet wherever one of these Avatars falls, the land itself transforms—choked with pestilent growths, yes, but also blossoming into strange ecosystems teeming with mutated flora and resilient fauna.
+
+**The Cycle of Sickness.** Above all else, the Avatar embodies Gooblar’s greatest truth: every affliction has its place. Sickness leads to death, death leads to renewal, and renewal strengthens life. To encounter an Avatar of Gooblar is to stand before the very engine of entropy and rebirth, wrapped in flesh, rot, and plague.
+
+**Primordial Nature.** Avatar's of Gooblar do not require air, food, water, or sleep.
+
+### Diseases of Gooblar
+
+|d12|Disease|Description|Mechanical Effect|
+|---|---|---|---|
+|1|**Cackle Fever**|Victim bursts into uncontrollable laughter at random, spitting blood between fits.|Whenever the creature is under stress (combat, spellcasting, etc.), it must succeed on a DC 13 Wisdom save or become incapacitated with laughter until the start of its next turn. Lasts 1d10 days.|
+|2|**Sewer Plague**|Fever and exhaustion accompanied by foul-smelling sores.|Creature makes a DC 11 Con save each long rest. On a fail, they gain 1 level of exhaustion. On a success, the exhaustion level decreases by 1. Lasts until cured.|
+|3|**Rotlung Fever**|Victim coughs up phlegm and blood; lungs fill with mucus.|Speed halved, disadvantage on Con saves. Each dawn, DC 14 Con save or take 1d8 necrotic damage.|
+|4|**Wormskin**|Tiny parasites burrow under the skin, creating writhing lumps.|At the start of each turn in combat, take 1 piercing damage per round until cured. Disadvantage on Charisma checks.|
+|5|**Pus Blight**|Skin boils swell and rupture in oozing streams.|Creature has disadvantage on attack rolls and Dexterity saves. If they take slashing or piercing damage, pus sprays: creatures within 5 ft. make a DC 13 Con save or be poisoned until the end of their next turn.|
+|6|**Blackrot**|A wasting disease that blackens flesh.|HP maximum reduced by 1d6 each dawn. If reduced to 0 by this disease, the creature dies and their corpse grows mushrooms.|
+|7|**Miretongue**|Tongue swells and splits, leaking green mucus.|Victim cannot speak clearly; verbal spell components require a DC 15 Con save or the spell fails. Disadvantage on Persuasion.|
+|8|**Slimeflux**|Stomach produces corrosive bile that vomits forth at random.|Each short or long rest, DC 13 Con save. On a fail, vomit bile: take 2d6 acid damage, then gain advantage on next Con save vs disease.|
+|9|**Creeping Chill**|Victim shakes violently, covered in clammy sweat.|Speed reduced by 10 ft., disadvantage on Strength and Dexterity checks.|
+|10|**Boneplague**|Victim’s bones ache and grow brittle, cracking under strain.|Vulnerability to bludgeoning damage. Any fall damage is doubled.|
+|11|**Blister Veins**|Veins bulge and glow with feverish red light.|At start of each turn in combat, DC 13 Con save or take 1d4 fire damage as body overheats.|
+|12|**Grubflesh**|Larvae squirm beneath the skin, devouring muscle.|Each dawn, lose 1d4 Strength permanently until cured. At Strength 0, victim dies as body collapse|
