@@ -55,4 +55,12 @@ legendary_actions:
 ```
 
 ### Description:
-A being born of just a splinter of Carl's destructive power. They take a variety of forms yet they always wield a great hammer.
+An Avatar of Carl is not a mere servant or messenger—it is the walking embodiment of annihilation. Born of Carl’s will, each Avatar exists only to bring ruin. Wherever it manifests, cities crumble, armies scatter, and kingdoms fall to ash. The very air around it warps with destructive energy, burning away both body and soul.
+
+**Chaotic Forms.** Avatars take many forms, each one shaped by the whim of Carl’s chaotic essence. Some appear as armored fiends with blazing wings, others as hulking monstrosities clad in fire and shadow, but all are united by a single mark—the great warhammer of chaos that they wield in battle. This weapon is more than steel; it is a fragment of Carl’s divine fury, capable of shattering mountains and sundering magic.
+
+**Heralds of Annihilation.** Avatars are summoned only in times of great upheaval—when entire nations draw Carl’s gaze, or when mortals dare to tamper with forbidden magics. Their arrival is not subtle. Storms of flame precede them, the ground cracks beneath their steps, and their destructive aura corrodes the will of even the bravest defenders. To stand before an Avatar is to stand against the will of destruction itself.
+
+**Chaos Unbound.** No two Avatars fight alike. Their very essence is unstable, and each battle unleashes unpredictable bursts of carnage. Walls collapse without warning, allies are consumed by firestorms, and spells falter under waves of chaotic interference. Even seasoned heroes can find themselves undone by the Avatar’s shifting power, for Carl’s chaos is not bound by mortal law.
+
+**Immortal Instruments.** Though powerful beyond reckoning, Avatars are not Carl himself. They are vessels, fragments of his infinite essence, unleashed upon the mortal world to enforce his creed of destruction. They do not rest, they do not retreat, and they do not bargain. They exist for one purpose only: to break.
