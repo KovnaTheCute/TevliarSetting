@@ -65,19 +65,48 @@ Avatars of Gooblar, the God of Disease, are revolting mountains of corrupted fle
 
 **Primordial Nature.** Avatar's of Gooblar do not require air, food, water, or sleep.
 
-### Diseases of Gooblar
+## Diseases of Gooblar
+Note: Diseases acn be cured by Lesser Restoration, Heal, or other powerful divine/arcane magic. Mundane remedies may alleviate symptoms but rarely cure outright.
 
-|d12|Disease|Description|Mechanical Effect|
-|---|---|---|---|
-|1|**Cackle Fever**|Victim bursts into uncontrollable laughter at random, spitting blood between fits.|Whenever the creature is under stress (combat, spellcasting, etc.), it must succeed on a DC 13 Wisdom save or become incapacitated with laughter until the start of its next turn. Lasts 1d10 days.|
-|2|**Sewer Plague**|Fever and exhaustion accompanied by foul-smelling sores.|Creature makes a DC 11 Con save each long rest. On a fail, they gain 1 level of exhaustion. On a success, the exhaustion level decreases by 1. Lasts until cured.|
-|3|**Rotlung Fever**|Victim coughs up phlegm and blood; lungs fill with mucus.|Speed halved, disadvantage on Con saves. Each dawn, DC 14 Con save or take 1d8 necrotic damage.|
-|4|**Wormskin**|Tiny parasites burrow under the skin, creating writhing lumps.|At the start of each turn in combat, take 1 piercing damage per round until cured. Disadvantage on Charisma checks.|
-|5|**Pus Blight**|Skin boils swell and rupture in oozing streams.|Creature has disadvantage on attack rolls and Dexterity saves. If they take slashing or piercing damage, pus sprays: creatures within 5 ft. make a DC 13 Con save or be poisoned until the end of their next turn.|
-|6|**Blackrot**|A wasting disease that blackens flesh.|HP maximum reduced by 1d6 each dawn. If reduced to 0 by this disease, the creature dies and their corpse grows mushrooms.|
-|7|**Miretongue**|Tongue swells and splits, leaking green mucus.|Victim cannot speak clearly; verbal spell components require a DC 15 Con save or the spell fails. Disadvantage on Persuasion.|
-|8|**Slimeflux**|Stomach produces corrosive bile that vomits forth at random.|Each short or long rest, DC 13 Con save. On a fail, vomit bile: take 2d6 acid damage, then gain advantage on next Con save vs disease.|
-|9|**Creeping Chill**|Victim shakes violently, covered in clammy sweat.|Speed reduced by 10 ft., disadvantage on Strength and Dexterity checks.|
-|10|**Boneplague**|Victim’s bones ache and grow brittle, cracking under strain.|Vulnerability to bludgeoning damage. Any fall damage is doubled.|
-|11|**Blister Veins**|Veins bulge and glow with feverish red light.|At start of each turn in combat, DC 13 Con save or take 1d4 fire damage as body overheats.|
-|12|**Grubflesh**|Larvae squirm beneath the skin, devouring muscle.|Each dawn, lose 1d4 Strength permanently until cured. At Strength 0, victim dies as body collapse|
+|d12|Disease|
+|---|---|
+|1|Cackle Fever|
+|2|Sewer Plague|
+|3|Rotlung Fever|
+|4|Wormskin|
+|5|Pus Blight|
+|6|Blackrot|
+|7|Miretongue|
+|8|Slimeflux|
+|9|Creeping Chill|
+|10|Boneplague|
+|11|Blister Veins|
+|12|Grubflesh|
+
+---
+
+### Disease Descriptions
+
+**Cackle Fever.** Victims burst into uncontrollable fits of laughter, often spitting blood between gasps. Whenever they are under stress—such as in combat or casting a spell—they must succeed on a DC 13 Wisdom saving throw or become incapacitated with laughter until the start of their next turn. This fever lasts 1d10 days unless cured.
+
+**Sewer Plague.** A sickness that fills the body with fever, chills, and foul-smelling sores. Each long rest, the victim makes a DC 11 Constitution saving throw. On a failure, they gain 1 level of exhaustion; on a success, they recover 1 level instead. The disease persists until magically cured.
+
+**Rotlung Fever.** The victim’s lungs fill with mucus and blood, making every breath painful. Their speed is halved, and they suffer disadvantage on Constitution saving throws. Each dawn, they must make a DC 14 Constitution save or take 1d8 necrotic damage.
+
+**Wormskin.** Tiny parasites burrow beneath the flesh, writhing visibly under the skin. At the start of each turn in combat, the victim takes 1 piercing damage. They also suffer disadvantage on Charisma checks as their appearance grows increasingly disturbing.
+
+**Pus Blight.** The body erupts in painful boils that ooze with yellow pus. Victims have disadvantage on attack rolls and Dexterity saving throws. When they take slashing or piercing damage, pus sprays outward—creatures within 5 feet must make a DC 13 Constitution saving throw or become poisoned until the end of their next turn.
+
+**Blackrot.** A wasting infection that blackens and withers the flesh. Each dawn, the victim’s hit point maximum is reduced by 1d6. If reduced to 0 by this disease, they die and their body becomes host to fungal growths.
+
+**Miretongue.** The tongue swells grotesquely, splitting and dripping green mucus. The victim cannot speak clearly; verbal spell components require a DC 15 Constitution saving throw to succeed. They also suffer disadvantage on Persuasion checks.
+
+**Slimeflux.** The stomach overproduces corrosive bile, forcing the victim to vomit acid at random. Each short or long rest, they must succeed on a DC 13 Constitution saving throw or take 2d6 acid damage. If they fail, they gain advantage on their next saving throw against disease.
+
+**Creeping Chill.** The body shakes violently under a feverish chill, leaving the victim drenched in cold sweat. Their speed is reduced by 10 feet, and they suffer disadvantage on Strength and Dexterity ability checks.
+
+**Boneplague.** A disease that hollows the bones, leaving them brittle. Victims gain vulnerability to bludgeoning damage. In addition, any damage taken from falling is doubled.
+
+**Blister Veins.** Veins swell and glow red-hot as the body overheats. At the start of each of their turns in combat, the victim must succeed on a DC 13 Constitution saving throw or take 1d4 fire damage.
+
+**Grubflesh.** Fat, pale larvae squirm beneath the skin, eating away at muscle tissue. Each dawn, the victim permanently loses 1d4 Strength unless cured. A creature reduced to Strength 0 dies as their body collapses into a mass of writhing grubs.
