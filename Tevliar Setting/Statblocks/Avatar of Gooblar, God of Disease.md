@@ -39,10 +39,12 @@ actions:
 - name: Putrid Breath (Recharge 5-6).
   desc: "The Avatar exhales a 60-foot cone of noxious fumes. Creatures in the area must make a DC 21 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a success. Creatures that fail the save are poisoned for 1 minute."
 legendary_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+- name: Spreading Blight.
+  desc: "The Avatar causes a creature within 30 feet to be surrounded by a cloud of spores. The target and creatures within 10 feet of it must make a DC 21 Constitution saving throw or take 18 (4d8) poison damage."
+- name: Cycle of Renewal (Costs 2 Actions).
+  desc: "The Avatar removes one disease or poison affecting a creature and grants them temporary hit points equal to 5 multiplied by their constitution modifier."
+- name: Miasmic Explosion (Costs 3 Actions).
+  desc: "The Avatar releases a burst of diseased energy. All creatures of its choice within 30 feet take 28 (8d6) poison damage and must succeed on a DC 21 Constitution saving throw or be Blinded until the end of their next turn. Additionally creatures that fail the save contract a disease."
 bonus_actions: 
 - name: Disease Ridden Touch.
   desc: "The Avatar can end any disease afflicting a creature by touching them. For each disease removed, the Avatar chooses a new disease to afflict the creature unless the creature succeeds on a DC 21 Constitution saving throw."
