@@ -64,3 +64,5 @@ An Avatar of Carl is not a mere servant or messenger—it is the walking embodim
 **Chaos Unbound.** No two Avatars fight alike. Their very essence is unstable, and each battle unleashes unpredictable bursts of carnage. Walls collapse without warning, allies are consumed by firestorms, and spells falter under waves of chaotic interference. Even seasoned heroes can find themselves undone by the Avatar’s shifting power, for Carl’s chaos is not bound by mortal law.
 
 **Immortal Instruments.** Though powerful beyond reckoning, Avatars are not Carl himself. They are vessels, fragments of his infinite essence, unleashed upon the mortal world to enforce his creed of destruction. They do not rest, they do not retreat, and they do not bargain. They exist for one purpose only: to break.
+
+**Fiendish Nature.** Avatars of Carl do not require air, food, water, or sleep.
