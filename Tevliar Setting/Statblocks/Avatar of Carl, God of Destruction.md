@@ -44,12 +44,14 @@ actions:
 - name: Chaos Flame (Recharge 5-6).
   desc: "The Avatar releases a cone of chaotic flame in a 90-foot cone. Each creature in the area must make a DC 21 Dexterity saving throw, taking 63 (14d8) fire damage on a failed save, or half as much on a successful one. Creatures that fail the save are also knocked back 20 feet and are stunned until the end of their next turn."
 legendary_actions: 
-- name:
-  desc: The Avatar of Carl can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creatures turn. The Avatar regains spend legendary actions at the start of its turn.
 - name: Chaos Strike.
   desc: "The Avatar makes one Chaos Hammer Attack."
-- name: 
-  desc: 
+- name: Flame Surge.
+  desc: "The Avatar ignites the ground in a 20-foot radius around it. Each creature in the area must make a DC 21 Dexterity saving throw, taking 18 (4d8) fire damage and being knocked prone on a failed save."
+- name: Worldbreaker (Costs 2 Actions).
+  desc: "The Avatar slams the ground, creating a shockwave in a 30-foot radius. Each creature in the area must make a DC 21 Dexterity saving throw or take 40 (9d8) force damage and be knocked prone."
+- name: Inferno of Carl (Costs 3 Actions).
+  desc: "The Avatar releases chaotic flame energy in a 30-foot radius. All creatures in the area must make a DC 21 Constitution saving throw or take 58 (13d8) fire damage and have their movement speed halved for 1 minute. On a successful save, they take half damage and suffer no further effects."
 ```
 
 ### Description:
