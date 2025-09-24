@@ -28,7 +28,7 @@ traits:
 - name: Essence of Gooblar.
   desc: "The Avatar radiates an aura of adaptation and trial in a 120-foot radius while it remains on the Material Plane, with the following effects: <br> - Infectious Resilience. Creatures of the Avatar’s choice regain 30 hit points at the start of their turn while within the aura. <br> - Miasmic Influence. All creatures within the aura must make a DC 21 Constitution saving throw at the start of their turn or be poisoned for 1 minute. Poisoned creatures take 14 (4d6) poison damage at the start of their turns. <br> - Contagious Adaptation. Any creature within the aura that suffers from a disease gains advantage on Constitution saving throws and regenerates 10 hit points at the start of their turns. <br> When the Avatar is reduced to 0 hit points or its summoning ends, it dissipates, leaving behind a 60-foot-radius miasma that lingers for 1 hour. Creatures entering the area take 21 (6d6) poison damage and must succeed on a DC 21 Constitution saving throw or be infected with a random disease (e.g., cackle fever or sewer plague)."
 - name: Disease Cycle.
-  desc: "When the Avatar takes damage, roll a d6: <br> - 1-2: The Avatar releases a burst of necrotic energy; creatures within 10 feet take 10 (3d6) necrotic damage. <br> - 3-4: The Avatar heals itself for 30 hit points. <br> - 5-6: All conditions affecting the Avatar end."
+  desc: "When the Avatar takes damage cycle to the next phase of the cycle. When the cycle completes cycle back to the beginning: <br> - Phase 1: Spreading the illness. Noxious fumes ooze out of orifaces in the Avatars flesh. All creatures within 10 feet of the Avatar must succeed a DC 21 Constitution Saving throw or contract a new disease. <br> - Phase 2: Deathly Ill. The Avatar deals 4d10_ <br> - 5-6: All conditions affecting the Avatar end."
 - name: Legendary Resistence (3/Day).
   desc: "If the Avatar fails a saving throw, it can choose to succeed instead."
 actions: 
@@ -46,11 +46,8 @@ legendary_actions:
 bonus_actions: 
 - name: Disease Ridden Touch.
   desc: "The Avatar can end any disease afflicting a creature by touching them. For each disease removed, the Avatar chooses a new disease to afflict the creature unless the creature succeeds on a DC 21 Constitution saving throw."
-- name: 
-  desc: 
-reactions: 
-- name: 
-  desc:
+- name: Blessing of Adaptation.
+  desc: "The Avatar uses its bonus action to target a creature within 60 feet and imbues them with fortitude. The creature gains immunity to poison and disease for 1 minute and heals for 25 hit points immediately."
 ```
 
 ### Description:
