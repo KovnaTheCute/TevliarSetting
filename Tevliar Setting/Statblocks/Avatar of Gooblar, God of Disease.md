@@ -23,7 +23,7 @@ damage_immunities: Acid, Poison, necrotic; Bludgeoning, Piercing, and Slashing f
 condition_immunities: Charmed, Frightened, Poisoned
 senses: Truesight 120 ft., passive perception 23
 languages: Primordial, telepathy 120 ft.
-cr: 21
+cr: 23
 traits: 
 - name: Essence of Gooblar.
   desc: "The Avatar radiates an aura of adaptation and trial in a 120-foot radius while it remains on the Material Plane, with the following effects: <br> - Infectious Resilience. Creatures of the Avatar’s choice regain 30 hit points at the start of their turn while within the aura. <br> - Miasmic Influence. All creatures within the aura must make a DC 21 Constitution saving throw at the start of their turn or be poisoned for 1 minute. Poisoned creatures take 14 (4d6) poison damage at the start of their turns. <br> - Contagious Adaptation. Any creature within the aura that suffers from a disease gains advantage on Constitution saving throws and regenerates 10 hit points at the start of their turns. <br> When the Avatar is reduced to 0 hit points or its summoning ends, it dissipates, leaving behind a 60-foot-radius miasma that lingers for 1 hour. Creatures entering the area take 21 (6d6) poison damage and must succeed on a DC 21 Constitution saving throw or be infected with a random disease (e.g., cackle fever or sewer plague)."
