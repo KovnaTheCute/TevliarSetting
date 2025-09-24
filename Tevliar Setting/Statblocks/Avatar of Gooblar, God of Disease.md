@@ -15,14 +15,14 @@ saves:
 - Wisdom: +13
 - Charisma: +12
 skillsaves: 
-- fake-skill: 
-- turtle: 
-damage_vulnerabilities: 
-damage_resistances: 
-damage_immunities: 
-condition_immunities: 
-senses: string
-languages: string
+- Medicine: +13
+- Insight: +13
+- Perception: +13 
+damage_resistances: Cold, Fire, Lightning
+damage_immunities: Acid, Poison, necrotic; Bludgeoning, Piercing, and Slashing from non-magical attacks.
+condition_immunities: Charmed, Frightened, Poisoned
+senses: Truesight 120 ft., passive perception 23
+languages: Primordial, telepathy
 cr: Number
 spells: 
 - 
