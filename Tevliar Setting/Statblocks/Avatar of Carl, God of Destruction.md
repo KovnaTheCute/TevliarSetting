@@ -44,19 +44,13 @@ actions:
 - name: Chaos Flame (Recharge 5-6).
   desc: "The Avatar releases a cone of chaotic flame in a 90-foot cone. Each creature in the area must make a DC 21 Dexterity saving throw, taking 63 (14d8) fire damage on a failed save, or half as much on a successful one. Creatures that fail the save are also knocked back 20 feet and are stunned until the end of their next turn."
 legendary_actions: 
-  
+- name:
+  desc: The Avatar of Carl can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creatures turn. The Avatar regains spend legendary actions at the start of its turn.
 - name: Chaos Strike.
   desc: "The Avatar makes one Chaos Hammer Attack."
 - name: 
   desc: 
-bonus_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-reactions: 
-- name: 
-  desc:
 ```
 
 ### Description:
+A being born of just a splinter of Carl's destructive power. They take a variety of forms yet they always wield a great hammer.
