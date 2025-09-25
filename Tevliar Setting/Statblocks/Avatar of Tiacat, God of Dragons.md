@@ -27,8 +27,11 @@ senses: Blindsight 120 ft., Darkvision 240 ft., telepathy 120 ft.
 languages: Common, Draconic, Telepathy 120 ft.
 cr: 22
 traits: 
-- name: 
-  desc:
+- name: Essence of the Dragon God.
+  desc: "While the Avatar is summoned, it radiates a divine aura in a 120-foot radius. This aura has the following effects: <br> - Dominance of Dragons. Dragons within the aura have advantage on attack rolls and saving throws. Creatures other than dragons must make a DC 23 Wisdom saving throw at the start of their turn or become Frightened for 1 minute. A creature that succeeds on the saving throw is immune to this effect for 24 hours. <br> - Elemental Fury. When the Avatar deals damage with its breath weapon, it chooses one of the following damage types: lightning, acid, poison, cold, or fire. The damage type persists until the end of its next turn. <br> - Majestic Presence. The Avatar can grant creatures within the aura temporary hit points equal to 20 + the creature’s level as a bonus action.
+    
+
+When the Avatar is reduced to 0 hit points or its summoning ends, it dissipates, leaving behind a 120-foot-radius area of elemental ruin that lingers for 1 hour. Creatures entering this area for the first time on a turn take 22 (4d10) damage of a randomly determined type (lightning, acid, poison, cold, or fire)."
 - name: 
   desc: 
 actions: 
