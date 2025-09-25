@@ -9,8 +9,7 @@ ac: 23
 hp: 525
 hit_dice: (30d20 + 210)
 speed: 60 ft., fly 120 ft.
-stats: 
-fage_stats: 
+stats: [30, 14, 25, 22, 18, 26]
 saves: 
 - dash: 
 - potato: 
