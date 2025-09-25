@@ -8,17 +8,17 @@ alignment: Neutral
 ac: 22
 hp: 450
 hit_dice: 36d10 + 252
-speed: 
-stats: 
-fage_stats: 
+speed: 50 ft., fly 90 ft. (Hover)
+stats: [22, 18, 24, 20, 26, 22]
 saves: 
-- dash: 
-- potato: 
-- stew: 
+- Dexterity: +11
+- Constitution: +14
+- Wisdom: +15
 skillsaves: 
-- fake-skill: 
-- turtle: 
-damage_vulnerabilities: 
+- Arcana: +12
+- History: +12
+- Insight: +15
+- Perception: +15
 damage_resistances: 
 damage_immunities: 
 condition_immunities: 
