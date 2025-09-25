@@ -47,15 +47,9 @@ legendary_actions:
 - name: Lunar Smite.
   desc: "The Avatar makes one Radiant Strike attack."
 - name: Phase Shift (Costs 2 Actions).
-  desc: "**The Avatar immediately changes its Lunar Phase and triggers the associated effect.**"
-bonus_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-reactions: 
-- name: 
-  desc:
+  desc: "The Avatar immediately changes its Lunar Phase and triggers the associated effect."
+- name: Temporal Reversal (Costs 3 Actions).
+  desc: "The Avatar forces all creatures of its choice within 30 feet to repeat the last saving throw they succeeded on during the current round. If they fail, they suffer the effect of the failed saving throw immediately."
 ```
 
 ### Description:
