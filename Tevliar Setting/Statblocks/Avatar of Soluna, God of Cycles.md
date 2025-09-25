@@ -35,15 +35,19 @@ traits:
 - name: Legendary Resistance (3/Day).
   desc: "If the Avatar fails a saving throw, it can choose to succeed instead."
 actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+- name: Multiattack.
+  desc: "The Avatar makes three Radiant Strike attacks or two Radiant strike attacks and uses Temporal Blast."
+- name: Radiant Strike.
+  desc: "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 30 (6d6 + 6) radiant damage plus 14 (4d6) necrotic damage."
+- name: Temporal Blast (Recharge 5-6).
+  desc: "The Avatar releases a surge of temporal energy in a 30-foot radius. Creatures of Soluna’s choice must succeed on a DC 22 Constitution saving throw or take 45 (10d8) radiant damage and be Stunned until the end of their next turn."
+- name: Never Ending Cycle.
+  desc: "The Avatar chooses a dead creature within 60 feet and restores it to life with half its hit points. The creature suffers 2 levels of exhaustion upon revival."
 legendary_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+- name: Lunar Smite.
+  desc: "The Avatar makes one Radiant Strike attack."
+- name: Phase Shift (Costs 2 Actions).
+  desc: "**The Avatar immediately changes its Lunar Phase and triggers the associated effect.**"
 bonus_actions: 
 - name: 
   desc: 
