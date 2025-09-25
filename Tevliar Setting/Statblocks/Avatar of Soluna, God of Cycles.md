@@ -19,9 +19,9 @@ skillsaves:
 - History: +12
 - Insight: +15
 - Perception: +15
-damage_resistances: 
-damage_immunities: 
-condition_immunities: 
+damage_resistances: Radiant, Psychic
+damage_immunities: Necrotic, Poison; Bludgeoning, Piercing, and Slashing from non-magical attacks
+condition_immunities: Charmed, Frightened, Poisoned
 senses: string
 languages: string
 cr: Number
