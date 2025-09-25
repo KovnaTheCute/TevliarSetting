@@ -53,3 +53,14 @@ legendary_actions:
 ```
 
 ### Description:
+The Avatar of Soluna manifests as a towering figure wreathed in both light and shadow, its form shifting seamlessly between radiant brilliance and abyssal obscurity. Upon its brow floats a silver crown wrought from fractured moons, and in its chest glows the ceaseless ticking of an astral clock. To gaze upon it is to feel the weight of eternity pressing in—birth, death, and rebirth unfolding all at once.
+
+**The First of the Primordials.** Soluna is the eldest of the gods, one of the three Primordials who shaped existence itself. Her Avatars embody her timeless dominion over cycles: the waxing and waning of the moon, the turning of the seasons, the flow of time, and the endless loop of life and death. To mortals, she is the silent hand that guides all things toward their inevitable rhythm.
+
+**Time Incarnate.** These Avatars stand outside the flow of mortal chronology. They act twice in battle, their motions slipping between moments as though time bends to accommodate them. Neither time magic nor manipulation can bind them—their gaze alone unravels the work of spells meant to halt or hasten.
+
+**Keeper of Balance.** The Avatar does not serve good or evil, law or chaos, but balance. Where healing runs rampant, it calls forth death; where death overflows, it restores life. To Soluna, the cycle is not cruelty nor mercy, but necessity. Her Avatars are feared not for malice, but for their impartiality—blessing one soul with rebirth even as another is struck down by radiant decay.
+
+**Phases of the Moon.** Ever shifting, the Avatar reflects the lunar phases in battle: glowing with full brilliance to blind foes, vanishing into shadow under the new moon, or channeling waning and waxing tides of harm and healing. Mortals who face such a being often speak of losing track of time entirely, their memories dissolving into fragments of day and night.
+
+**Celestial Nature.** As divine emanations of Soluna herself, these Avatars require no air, food, water, or sleep.
