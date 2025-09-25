@@ -22,8 +22,8 @@ skillsaves:
 damage_resistances: Radiant, Psychic
 damage_immunities: Necrotic, Poison; Bludgeoning, Piercing, and Slashing from non-magical attacks
 condition_immunities: Charmed, Frightened, Poisoned
-senses: string
-languages: string
+senses: Truesight 120 ft., passive perception 25
+languages: Celestial, Telepathy 120 ft.
 cr: Number
 spells: 
 - 
