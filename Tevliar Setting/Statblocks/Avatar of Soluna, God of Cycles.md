@@ -27,11 +27,11 @@ languages: Celestial, Telepathy 120 ft.
 cr: 22
 traits: 
 - name: Essence of Soluna
-  desc: "The Avatar radiates an aura of temporal and cyclical stability in a 120-foot radius while it remains on the Material Plane, with the following effects: <br> - Harmonic Balance. At the start of each creature’s turn, if they have taken damage since the start of their last turn, they heal 10 hit points. If they have healed since their last turn, they take 10 radiant or necrotic damage (Soluna’s choice). If they have taken damage and healed do whichever affected the creatures hit points more. <br> - Temporal Flux. Enemies within the aura must succeed on a DC 22 Wisdom saving throw at the start of their turn or have their speed reduced to 0 until the start of their next turn. <br> - Cycle of Renewal. When a creature dies within the aura, Soluna’s choice of either a glowing moonlit flower or a shadowy withered seed appears at their location. The flower can be consumed as an action to heal 25 hit points, or the seed can be thrown as a weapon, dealing 25 necrotic damage on a hit. <br> When the Avatar is reduced to 0 hit points or its summoning ends, it dissipates,  leaving behind an astral ring in a 60-foot radius that lingers for 1 hour. Creatures within the ring must succeed on a DC 22 Wisdom saving throw or be under the effects of the spell slow until they leave the area.
-
-**"
-- name: 
-  desc: 
+  desc: "The Avatar radiates an aura of temporal and cyclical stability in a 120-foot radius while it remains on the Material Plane, with the following effects: <br> - Harmonic Balance. At the start of each creature’s turn, if they have taken damage since the start of their last turn, they heal 10 hit points. If they have healed since their last turn, they take 10 radiant or necrotic damage (Soluna’s choice). If they have taken damage and healed do whichever affected the creatures hit points more. <br> - Temporal Flux. Enemies within the aura must succeed on a DC 22 Wisdom saving throw at the start of their turn or have their speed reduced to 0 until the start of their next turn. <br> - Cycle of Renewal. When a creature dies within the aura, Soluna’s choice of either a glowing moonlit flower or a shadowy withered seed appears at their location. The flower can be consumed as an action to heal 25 hit points, or the seed can be thrown as a weapon, dealing 25 necrotic damage on a hit. <br> When the Avatar is reduced to 0 hit points or its summoning ends, it dissipates,  leaving behind an astral ring in a 60-foot radius that lingers for 1 hour. Creatures within the ring must succeed on a DC 22 Wisdom saving throw or be under the effects of the spell slow until they leave the area."
+- name: Eternal Watcher.
+  desc: "The Avatar is unaffected by time-altering effects such as time stop. It also acts twice in initiative order and regains its legendary actions at the start of both of its turns."
+- name: Lunar Phases.
+  desc: ""
 actions: 
 - name: 
   desc: 
