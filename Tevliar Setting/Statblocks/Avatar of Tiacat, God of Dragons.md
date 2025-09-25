@@ -38,6 +38,12 @@ actions:
   desc: "The Avatar makes three melee attacks."
 - name: Bite. 
   desc: "Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 25 (3d10 + 10) piercing damage plus 14 (4d6) elemental damage of the Avatar’s choice."
+- name: Claw.
+  desc: "Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 10) slashing damage."
+- name: Tail.
+  desc: "Melee Weapon Attack: +17 to hit, reach 20 ft., one target. Hit: 20 (3d6 + 10) bludgeoning damage, and the target must succeed on a DC 23 Strength saving throw or be knocked prone."
+- name: Breath Weapon (Recharge 3-6)
+  desc: "The Avatar exhales destructive energy in a 90-foot cone or a 120-foot line that is 10 feet wide. Creatures in the area must make a DC 23 Dexterity saving throw, taking 88 (16d10) damage of the chosen elemental type on a failed save, or half as much on a successful one."
 legendary_actions: 
 - name: 
   desc: 
