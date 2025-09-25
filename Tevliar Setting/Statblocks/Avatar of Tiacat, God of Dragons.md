@@ -11,14 +11,16 @@ hit_dice: (30d20 + 210)
 speed: 60 ft., fly 120 ft.
 stats: [30, 14, 25, 22, 18, 26]
 saves: 
-- dash: 
-- potato: 
-- stew: 
+- Strength: +17
+- Dexterity: +9
+- Constitution: +14
+- Wisdom: +11
+- Charisma: +15
 skillsaves: 
-- fake-skill: 
-- turtle: 
-damage_vulnerabilities: 
-damage_resistances: 
+- Arcana: +13
+- Intimidation: +15
+- Perception: +11
+damage_resistances: Lightning, Acid, Poison, Cold, Fire, Bludgeoning
 damage_immunities: 
 condition_immunities: 
 senses: string
