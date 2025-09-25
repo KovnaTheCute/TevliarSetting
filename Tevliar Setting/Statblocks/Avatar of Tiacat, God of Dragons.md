@@ -45,18 +45,12 @@ actions:
 - name: Breath Weapon (Recharge 3-6)
   desc: "The Avatar exhales destructive energy in a 90-foot cone or a 120-foot line that is 10 feet wide. Creatures in the area must make a DC 23 Dexterity saving throw, taking 88 (16d10) damage of the chosen elemental type on a failed save, or half as much on a successful one."
 legendary_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-bonus_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-reactions: 
-- name: 
-  desc:
+- name: Wing Attack.
+  desc: "The Avatar beats its wings. Each creature within 15 feet must make a DC 23 Dexterity saving throw or take 16 (3d6 + 6) bludgeoning damage and be pushed 30 feet away."
+- name: Draconic Fury (Costs 2 Actions).
+  desc: "The Avatar makes a Bite and Claw attack."
+- name: Elemental Cataclysm (Costs 3 Actions).
+  desc: "The Avatar channels its divine power, creating a 30-foot-radius explosion centered on itself. Creatures in this area must make a DC 23 Dexterity saving throw or take 36 (8d8) elemental damage of a randomly determined type (lightning, acid, poison, cold, or fire). Dragons are immune to this effect."
 ```
 
 ### Description:
