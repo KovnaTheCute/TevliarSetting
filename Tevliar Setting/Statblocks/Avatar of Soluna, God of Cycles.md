@@ -31,7 +31,10 @@ traits:
 - name: Eternal Watcher.
   desc: "The Avatar is unaffected by time-altering effects such as time stop. It also acts twice in initiative order and regains its legendary actions at the start of both of its turns."
 - name: Lunar Phases.
-  desc: ""
+  desc: "At the start of its turn, Soluna shifts between phases: <br> - Waxing Moon: All healing within 60 feet of the Avatar is increased by 10. <br> - Waning Moon: All damage dealt within 60 feet of the Avatar is increased by 10 <br> - Full Moon: Soluna glows brightly, shedding bright light in a 60-foot radius and dim light for an additional 60 feet. Creatures within the bright light must succeed on a DC 22 Constitution saving throw or be blinded until the end of their next turn. <br> - New Moon: The 60 ft radius area around Soluna becomes heavily obscured for all creatures except the Avatar.
+    
+
+**"
 actions: 
 - name: 
   desc: 
