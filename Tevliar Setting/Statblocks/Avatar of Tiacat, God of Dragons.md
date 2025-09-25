@@ -20,17 +20,12 @@ skillsaves:
 - Arcana: +13
 - Intimidation: +15
 - Perception: +11
-damage_resistances: Lightning, Acid, Poison, Cold, Fire, Bludgeoning
-damage_immunities: 
-condition_immunities: 
-senses: string
-languages: string
-cr: Number
-spells: 
-- 
-- 
-- 
--
+damage_resistances: Lightning, Acid, Poison, Cold, Fire; Bludgeoning, Piercing, and Slashing from non-magical attacks.
+damage_immunities: Force, Necrotic, Psychic
+condition_immunities: Charmed, Frightened, Paralyzed, Stunned
+senses: Blindsight 120 ft., Darkvision 240 ft., telepathy 120 ft.
+languages: Common, Draconic, Telepathy 120 ft.
+cr: 22
 traits: 
 - name: 
   desc:
