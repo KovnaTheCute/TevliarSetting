@@ -36,13 +36,13 @@ actions:
   desc: "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 32 (5d10 + 7) slashing damage plus 18 (4d8) necrotic damage. The target must succeed on a DC 21 Constitution saving throw or have its hit point maximum reduced by the necrotic damage taken. This reduction lasts until the target finishes a long rest."
 - name: Grave Bolt.
   desc: "Ranged Spell Attack: +14 to hit, range 120 ft., one target. Hit: 27 (6d6 + 6) necrotic damage. The target must succeed on a DC 21 Wisdom saving throw or be Frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success."
-- name: Withering Gaze (Recharge 5)
-  desc:
+- name: Withering Gaze (Recharge 5-6).
+  desc: "The Avatar fixes its gaze on a creature within 60 feet. The target must succeed on a DC 21 Constitution saving throw or take 72 (16d8) necrotic damage and be Paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success."
 legendary_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+- name: Soul Cleave.
+  desc: "The Avatar makes one Death Scythe attack. If this attack reduces a creature to 0 hit points, the Avatar immediately regains 30 hit points, and the soul is absorbed, preventing resurrection."
+- name: Unholy Rebirth (Costs 2 Actions).
+  desc: "The Avatar targets a creature it has slain within the last minute. That creature rises as a Death Knight under the Avatar’s control until the Avatar dissipates. This can only be used once per day."
 bonus_actions: 
 - name: 
   desc: 
