@@ -30,10 +30,14 @@ traits:
 - name: Summon Undead (3/Day).
   desc: "The Avatar summons some kind of undead. Roll a d12 and summon one of the following groups: <br> 1 - 3: 6d6 Specters <br> 4 - 6: 10d6 Ghouls <br> 7 - 10: 2 Boneclaws <br> 11 - 12: 1 Dracolich"
 actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+- name: Multiattack.
+  desc: "The Avatar makes three attacks: one with its Death Scythe and two with Grave Bolt."
+- name: Death Scythe.
+  desc: "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 32 (5d10 + 7) slashing damage plus 18 (4d8) necrotic damage. The target must succeed on a DC 21 Constitution saving throw or have its hit point maximum reduced by the necrotic damage taken. This reduction lasts until the target finishes a long rest."
+- name: Grave Bolt.
+  desc: "Ranged Spell Attack: +14 to hit, range 120 ft., one target. Hit: 27 (6d6 + 6) necrotic damage. The target must succeed on a DC 21 Wisdom saving throw or be Frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success."
+- name: Withering Gaze (Recharge 5)
+  desc:
 legendary_actions: 
 - name: 
   desc: 
