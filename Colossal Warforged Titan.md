@@ -51,3 +51,14 @@ reactions:
 ```
 
 ### Description:
+A Colossal Warforged Titan is less a creature and more a walking fortress of adamantine and magic-forged steel. Towering above castles and city walls, these constructs were built in forgotten ages as living siege engines, designed to level fortifications and crush entire armies beneath their steps. Though most were dismantled or entombed when their creators fell, some remain, slumbering in hidden vaults or wandering the ruins of dead empires.
+
+**Living Engines of War.** Unlike their smaller kin, the Warforged Titans were not crafted with the spark of individuality. They exist only to serve their last command, carrying it out with terrifying persistence. A Titan that was ordered to march east centuries ago may still be walking toward that horizon, unceasing and unstoppable.
+
+**Siege Made Flesh.** Each Titan is a blend of arcane engineering and raw brutality. Their immense fists can crush stone as easily as bone, while their shockwaves can topple fortifications. Some possess inner magical reactors that unleash catastrophic bursts of force, obliterating all around them in a single, devastating surge of power.
+
+**Mindless Resolve.** Despite their immense power, Colossal Warforged Titans are not truly sentient. They recognize allies only through arcane markings or commands encoded by their creators. Those who stumble upon a Titan without such protections are treated as obstacles to be destroyed. Attempts to reprogram a Titan are extremely dangerous—many who have tried have been flattened beneath its crushing steps before finishing the ritual.
+
+**Relics of Forgotten Wars.** The mere sight of a Warforged Titan is enough to terrify even hardened soldiers. Entire kingdoms once fell to these machines, and their reappearance in the world can shift the balance of power in an instant. Adventurers who encounter one must decide whether to flee, attempt to turn it, or fight against a war machine that once brought nations to ruin.
+
+**Construct Nature.** Titans do not need food, water, air, or sleep to survive.
