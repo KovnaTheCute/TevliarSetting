@@ -39,18 +39,15 @@ actions:
 - name: Overload (Recharge 6).
   Desc: "The Titan channels its internal energy to create a destructive burst of magic in a 30-foot radius. Each creature in that area must make a DC 25 Constitution saving throw, taking 140 (40d6) force damage on a failed save or half as much on a successful one. The Titan becomes incapacitated until the end of its next turn after using this ability."
 legendary_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-bonus_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+- name: Slam Attack.
+  desc: The Titan makes one slam attack.
+- name: Crushing Step (Costs 2 Actions).
+  desc: "The Titan moves up to half its speed and can stomp on any creatures in its path. Each creature within 10 feet of the Titan’s movement must succeed on a DC 25 Dexterity saving throw or take 45 (10d8) bludgeoning damage and be knocked prone."
+- name: Reinforced Shielding (Costs 3 Actions).
+  Desc: "The Titan enhances its defenses until the start of its next turn, gaining a +4 bonus to AC and immunity to critical hits until the end of its next turn."
 reactions: 
-- name: 
-  desc:
+- name: Defensive Shield.
+  desc: "When a creature attacks the Titan, it can use its reaction to increase its AC by 4 against that attack, potentially causing the attack to miss."
 ```
 
 ### Description:
