@@ -34,22 +34,16 @@ traits:
   desc: "The Cloudskimmer can sense the mental presence of creatures within 120 feet. Creatures it senses this way cannot benefit from being invisible or hidden from it."
 actions: 
 - name: Multiattack.
-  desc: The Cloudskimmer makes two attacks with Psychic bolt or one attack with Psychic bolt and one with di
-- name: 
-  desc: 
-legendary_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-bonus_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+  desc: The Cloudskimmer makes two attacks with Psychic bolt or one attack with Psychic Bolt and one with Disruptive Beam.
+- name: Psychic Bolt.
+  desc: "Ranged Weapon Attack: +8 to hit, range 120 ft., one target. Hit: 22 (4d8 + 4) psychic damage."
+- name: Disruptive Beam (Recharge 5-6).
+  desc: "The Cloudskimmer fires a disorienting ray at a creature within 60 feet. The target must succeed on a DC 16 Intelligence saving throw or take 27 (6d8) psychic damage and have disadvantage on attack rolls and ability checks until the end of its next turn."
+- name: Cloudburst.
+  desc: "The Cloudskimmer releases a burst of volatile energy into a 20-foot-radius area within 90 feet. Each creature in the area must make a DC 15 Dexterity saving throw, taking 18 (4d8) force damage on a failed save, or half as much damage on a successful save. Creatures that fail this save are knocked prone." 
 reactions: 
-- name: 
-  desc:
+- name: Psychic Rebound.
+  desc: "When the Cloudskimmer takes psychic damage, it can force the attacker to make a DC 16 Intelligence saving throw. On a failed save, the attacker takes the damage instead of the Cloudskimmer."
 ```
 
 ### Description:
