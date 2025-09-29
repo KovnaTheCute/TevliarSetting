@@ -47,3 +47,14 @@ reactions:
 ```
 
 ### Description:
+A Cloudskimmer is a nightmare shape against the sky, a living blade of flesh and storm that glides endlessly through the upper air. Its elongated, spike-ridged body narrows into sweeping wing-arms that stretch wide enough to blot out the sun. Dozens of lidless eyes blink and roll across its form, both above and below, ever-watchful for prey or the shimmer of spellcraft. To mortals below, its passage is heralded by sudden silence and a rush of displaced air, as though the world itself recoils from its presence.
+
+**Aberrant Predators.** Cloudskimmers are thought to be spawn of the Far Realm, where thought and storm are one. They consume magic itself, drifting across the skies in search of arcane power to devour. Wizards and sorcerers are their favored prey, as the beasts will dive with terrifying speed to strip away protective wards before rending their victims with beams of psionic energy.
+
+**Eyes Above and Below.** The multitude of eyes covering a Cloudskimmer’s body give it a nearly omnidirectional awareness. Few ambushes succeed against these creatures, and invisibility offers no safety. To look upon one for too long is to feel the edges of your mind scraped raw by its alien awareness.
+
+**Unanchored to Earth.** A Cloudskimmer cannot land. Its body is a thing of perpetual motion, hovering effortlessly on unseen currents of psionic force. If forced to stillness—such as through exhaustion or magic—the creature weakens rapidly, eventually plummeting from the skies in a writhing storm of broken wings and shrieking thought.
+
+**Alien Nature.** The Cloudskimmer does not eat, drink, or sleep as mortal creatures do. It exists only to wander the skies, absorbing magic and thought, its path dictated by whims mortals cannot fathom. Some scholars suggest they are scouts or forerunners for a greater incursion from the Far Realm.
+
+(Note: See Screamer of Tzeentch from Warhammer 40k for inspiration.)
