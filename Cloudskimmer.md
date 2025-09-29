@@ -4,36 +4,29 @@ layout: Basic 5e
 name: Cloudskimmer
 size: Large
 type: Aberration
-alignment: 
-ac: Number
-hp: Number
-hit_dice: 
-speed: 
-stats: 
-fage_stats: 
+alignment: Neutral
+ac: 15
+hp: 85
+hit_dice: 10d10 + 30
+speed: 0ft., fly 120 ft. (Hover)
+stats: [12, 20, 16, 10, 14, 16]
 saves: 
-- dash: 
-- potato: 
-- stew: 
+- Dexterity: +8
+- Wisdom: +5
+- Charisma: +6
 skillsaves: 
-- fake-skill: 
-- turtle: 
-damage_vulnerabilities: 
-damage_resistances: 
-damage_immunities: 
-condition_immunities: 
-senses: string
-languages: string
-cr: Number
-spells: 
-- 
-- 
-- 
--
+- Perception: +8
+- Arcana: +4
+- Insight: +5
+damage_resistances: psychic, lightning, thunder
+condition_immunities: prone, restrained
+senses: Truesight 60 ft., passive perception 18
+languages: Deep Speech, Telepathy 120 ft.
+cr: 5
 traits: 
-- name: 
-  desc:
-- name: 
+- name: Far Realm Physiology
+  desc: The cloudskimmer’s alien biology makes it immune to effects that would alter its shape.
+- name: Absorb Magic.
   desc: 
 actions: 
 - name: 
