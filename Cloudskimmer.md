@@ -28,10 +28,13 @@ traits:
   desc: The cloudskimmer’s alien biology makes it immune to effects that would alter its shape.
 - name: Absorb Magic.
   desc: "The Cloudskimmer can sense magic within 300 feet. All magic within 15 feet of the Cloudskimmer is absorbed. The 15 foot area is treated as an antimagic field."
-- name: 
+- name: Cloudborne.
+  desc: "The Cloudskimmer cannot land and must remain in constant motion. If it ends its turn with no means to fly, it begins to fall at the start of its next turn."
+- name: Psychic Radar.
+  desc: "The Cloudskimmer can sense the mental presence of creatures within 120 feet. Creatures it senses this way cannot benefit from being invisible or hidden from it."
 actions: 
-- name: 
-  desc: 
+- name: Multiattack.
+  desc: The Cloudskimmer makes two attacks with Psychic bolt or one attack with Psychic bolt and one with di
 - name: 
   desc: 
 legendary_actions: 
