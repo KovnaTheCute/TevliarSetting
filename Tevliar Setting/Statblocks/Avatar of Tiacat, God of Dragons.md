@@ -1,4 +1,4 @@
-	`#Statblock 
+#Statblock 
 ```statblock 
 layout: Basic 5e 
 name: Avatar of Tiacat, God of Dragons
@@ -54,3 +54,10 @@ legendary_actions:
 ```
 
 ### Description:
+Avatars of Tiacat, the newly risen goddess of dragons, are terrifying manifestations of draconic majesty and fury. Taking the form of immense, many-hued dragons, they embody the raw might and regal presence of their goddess. Their scales shimmer with shifting colors—red, blue, green, black, and white—signifying their connection to every draconic lineage, chromatic or otherwise. Wherever they appear, lesser dragons instinctively bow, feeling the divine weight of their presence.
+
+**Terrifying Presence** Though Tiacat herself is newly ascended, her avatars command awe and terror alike. They are embodiments of both destruction and dominion, often sent to enforce her growing will upon the world. Their breath weapons echo the devastation of the oldest wyrms, and their very presence bends reality, instilling dread in mortals and reverence in dragonkind.
+
+ **Draconic Mind** Despite their overwhelming power, avatars of Tiacat are not mindless engines of ruin. They act with cunning and ambition, much like the dragons they resemble, testing the loyalty of Tiacat’s followers and seeking to expand her influence. To see such an avatar is to stand in the shadow of dragon-godhood itself.
+
+**Divine Nature.** An avatar of Tiacat does not require food, drink, or sleep.

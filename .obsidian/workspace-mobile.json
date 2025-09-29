@@ -13,13 +13,66 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Avatar of Turial, God of Death.md",
+                "file": "Tevliar Setting/Statblocks/Avatar of Tiacat, God of Dragons.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Avatar of Turial, God of Death"
-            }
+              "title": "Avatar of Tiacat, God of Dragons"
+            },
+            "group": "8ddba9d477e7d8c0"
+          }
+        ]
+      },
+      {
+        "id": "35788891655b203b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e2a067ca9146561",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Tevliar Setting/Statblocks/Avatar of Tiacat, God of Dragons.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#Statblock  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14820352
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1.23279569892473,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": true,
+                  "centerStrength": 0.155913978494624,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 303,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "8ddba9d477e7d8c0"
           }
         ]
       }
@@ -98,7 +151,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tevliar Setting/Statblocks/Avatar of Turial, God of Death.md",
+            "file": "Tevliar Setting/Statblocks/Avatar of Tiacat, God of Dragons.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +170,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tevliar Setting/Statblocks/Avatar of Turial, God of Death.md",
+            "file": "Tevliar Setting/Statblocks/Avatar of Tiacat, God of Dragons.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +184,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tevliar Setting/Statblocks/Avatar of Turial, God of Death.md",
+            "file": "Tevliar Setting/Statblocks/Avatar of Tiacat, God of Dragons.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -167,5 +220,9 @@
     }
   },
   "active": "50921e6ddb6640e3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Tevliar Setting/Statblocks/Avatar of John Mcmuffin, God of Agriculture.md",
+    "Tevliar Setting/Statblocks/Avatar of Tiacat, God of Dragons.md",
+    "Tevliar Setting/Statblocks/Avatar of Turial, God of Death.md"
+  ]
 }
