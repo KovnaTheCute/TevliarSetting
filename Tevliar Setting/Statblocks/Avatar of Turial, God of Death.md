@@ -43,14 +43,10 @@ legendary_actions:
   desc: "The Avatar makes one Death Scythe attack. If this attack reduces a creature to 0 hit points, the Avatar immediately regains 30 hit points, and the soul is absorbed, preventing resurrection."
 - name: Unholy Rebirth (Costs 2 Actions).
   desc: "The Avatar targets a creature it has slain within the last minute. That creature rises as a Death Knight under the Avatar’s control until the Avatar dissipates. This can only be used once per day."
-bonus_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-reactions: 
-- name: 
-  desc:
+- name: Soulstorm (Costs 3 Actions).
+  desc: "The Avatar releases a devastating wave of necrotic energy in a 30-foot radius centered on itself. Each creature of the Avatar’s choice in the area must make a DC 21 Constitution saving throw, taking 54 (12d8) necrotic damage on a failed save, or half as much on a successful one. Undead allies in this area immediately regain hit points equal to the necrotic damage dealt and can take an additional action on their next turn."
+- name: Grim Harvest (3/Day, Costs 3 Actions).
+  desc: "The Avatar channels the power of the souls it has absorbed. It regains 100 hit points and gains a +2 bonus to attack rolls and saving throws until the end of its next turn. Additionally, creatures within 60 feet of the Avatar must succeed on a DC 21 Constitution saving throw or be Blinded until the end of their next turn as a dark, necrotic mist clouds their vision."
 ```
 
 ### Description:

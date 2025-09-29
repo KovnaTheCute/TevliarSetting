@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Avatar of Tiacat, God of Dragons.md",
+                "file": "Tevliar Setting/Statblocks/Avatar of Turial, God of Death.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Avatar of Tiacat, God of Dragons"
+              "title": "Avatar of Turial, God of Death"
             },
             "group": "8ddba9d477e7d8c0"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Avatar of Tiacat, God of Dragons.md",
+                "file": "Tevliar Setting/Statblocks/Avatar of Turial, God of Death.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,7 +151,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tevliar Setting/Statblocks/Avatar of Tiacat, God of Dragons.md",
+            "file": "Tevliar Setting/Statblocks/Avatar of Turial, God of Death.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tevliar Setting/Statblocks/Avatar of Tiacat, God of Dragons.md",
+            "file": "Tevliar Setting/Statblocks/Avatar of Turial, God of Death.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -184,7 +184,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tevliar Setting/Statblocks/Avatar of Tiacat, God of Dragons.md",
+            "file": "Tevliar Setting/Statblocks/Avatar of Turial, God of Death.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -221,8 +221,8 @@
   },
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
-    "Tevliar Setting/Statblocks/Avatar of John Mcmuffin, God of Agriculture.md",
     "Tevliar Setting/Statblocks/Avatar of Tiacat, God of Dragons.md",
+    "Tevliar Setting/Statblocks/Avatar of John Mcmuffin, God of Agriculture.md",
     "Tevliar Setting/Statblocks/Avatar of Turial, God of Death.md"
   ]
 }
