@@ -27,7 +27,7 @@ traits:
 - name: Far Realm Physiology
   desc: The cloudskimmer’s alien biology makes it immune to effects that would alter its shape.
 - name: Absorb Magic.
-  desc: 
+  desc: "The Cloudskimmer can sense magic within 300 feet. All magic within 15 feet of the Cloudskimmer is absorbed. The 15 foot area is treated as an antimagic sphere."
 actions: 
 - name: 
   desc: 
