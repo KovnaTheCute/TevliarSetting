@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tevliar Setting/Races/Boulderbugs.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -221,9 +221,10 @@
   },
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
-    "Tevliar Setting/Races",
     "Tevliar Setting/Races/Races.md",
+    "Tevliar Setting/Races/Isopod.md",
     "Tevliar Setting/Races/Boulderbugs.md",
+    "Tevliar Setting/Races",
     "Tevliar Setting/DnD Tevliar Setting.md",
     "Tevliar Setting/Statblocks/Seeder.md",
     "Tevliar Setting/Statblocks/Statblocks.md",
