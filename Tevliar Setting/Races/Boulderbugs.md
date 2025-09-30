@@ -6,7 +6,7 @@
 
 **Size.** Boulderbugs stand 5 to 6 feet tall and average 300 pounds. Their shells account for roughly one third of their weight. Your size is medium.
 
-**Speed.** Your base walking speed is 15 feet.
+**Speed.** Your base walking speed is 15 feet and you have a climb speed equal to your walking speed.
 
 **Benthic Adaptation.** You can breath underwater, and you do not suffer damage or penalties from pressure in the deeps. You gain no particular skill in swimming, however; your people keep to the oozing muck and tumbled ruins upon the ocean’s floor.
 
