@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Isopodoid.md",
+                "file": "Tevliar Setting/Boulderbugs.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Isopodoid"
+              "title": "Boulderbugs"
             },
             "group": "8ddba9d477e7d8c0"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Isopodoid.md",
+                "file": "Tevliar Setting/Boulderbugs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -222,7 +222,7 @@
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
     "Tevliar Setting/Races.md",
-    "Tevliar Setting/Isopodoid.md",
+    "Tevliar Setting/Boulderbugs.md",
     "Tevliar Setting/DnD Tevliar Setting.md",
     "Tevliar Setting/Statblocks/Seeder.md",
     "Tevliar Setting/Statblocks/Statblocks.md",
