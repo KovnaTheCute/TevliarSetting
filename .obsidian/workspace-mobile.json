@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colossal Warforged Titan.md",
-                "mode": "source",
+                "file": "Deathrattles.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Colossal Warforged Titan"
+              "title": "Deathrattles"
             },
             "group": "8ddba9d477e7d8c0"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Colossal Warforged Titan.md",
+                "file": "Deathrattles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -222,6 +222,7 @@
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
     "Tevliar Setting/Statblocks/Statblocks.md",
+    "Deathrattles.md",
     "Colossal Warforged Titan.md",
     "Cloudskimmer.md",
     "Tevliar Setting/Statblocks/Avatars.md",
