@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Deathrattles.md",
+                "file": "Tevliar Setting/Statblocks/Statblocks.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Deathrattles"
+              "title": "Statblocks"
             },
             "group": "8ddba9d477e7d8c0"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Deathrattles.md",
+                "file": "Tevliar Setting/Statblocks/Statblocks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,7 +151,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tevliar Setting/Statblocks/Deathrattles.md",
+            "file": "Tevliar Setting/Statblocks/Statblocks.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -221,11 +221,11 @@
   },
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
+    "Tevliar Setting/Statblocks/Cloudskimmer.md",
     "Tevliar Setting/Statblocks/Deathrattles.md",
     "Tevliar Setting/Statblocks/Deathrattles.md",
     "Tevliar Setting/Statblocks/Statblocks.md",
     "Tevliar Setting/Statblocks/Colossal Warforged Titan.md",
-    "Tevliar Setting/Statblocks/Cloudskimmer.md",
     "Tevliar Setting/Statblocks/Avatars.md",
     "Tevliar Setting/Statblocks/Avatar of Turial, God of Death.md",
     "Tevliar Setting/Statblocks/Avatar of Tiacat, God of Dragons.md",
