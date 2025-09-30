@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Boulderbugs.md",
-                "mode": "source",
+                "file": "Tevliar Setting/Races/Boulderbugs.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Boulderbugs.md",
+                "file": "Tevliar Setting/Races/Boulderbugs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -65,7 +65,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 303,
-                  "scale": 1,
+                  "scale": 0.6575073419634441,
                   "close": true
                 }
               },
@@ -151,7 +151,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tevliar Setting/Boulderbugs.md",
+            "file": "Tevliar Setting/Races/Boulderbugs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -221,8 +221,9 @@
   },
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
-    "Tevliar Setting/Races.md",
-    "Tevliar Setting/Boulderbugs.md",
+    "Tevliar Setting/Races",
+    "Tevliar Setting/Races/Races.md",
+    "Tevliar Setting/Races/Boulderbugs.md",
     "Tevliar Setting/DnD Tevliar Setting.md",
     "Tevliar Setting/Statblocks/Seeder.md",
     "Tevliar Setting/Statblocks/Statblocks.md",
