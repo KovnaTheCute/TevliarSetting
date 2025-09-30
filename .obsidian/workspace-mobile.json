@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Small Death Rattle.md",
+                "file": "Tevliar Setting/Statblocks/Deathrattles.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Small Death Rattle"
+              "title": "Deathrattles"
             },
             "group": "8ddba9d477e7d8c0"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Small Death Rattle.md",
+                "file": "Tevliar Setting/Statblocks/Deathrattles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,7 +151,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Small Death Rattle.md",
+            "file": "Tevliar Setting/Statblocks/Deathrattles.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -219,13 +219,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "50921e6ddb6640e3",
+  "active": "bb612d95691fb97f",
   "lastOpenFiles": [
-    "Deathrattles.md",
-    "Small Death Rattle.md",
+    "Tevliar Setting/Statblocks/Deathrattles.md",
+    "Tevliar Setting/Statblocks/Deathrattles.md",
     "Tevliar Setting/Statblocks/Statblocks.md",
-    "Colossal Warforged Titan.md",
-    "Cloudskimmer.md",
+    "Tevliar Setting/Statblocks/Colossal Warforged Titan.md",
+    "Tevliar Setting/Statblocks/Cloudskimmer.md",
     "Tevliar Setting/Statblocks/Avatars.md",
     "Tevliar Setting/Statblocks/Avatar of Turial, God of Death.md",
     "Tevliar Setting/Statblocks/Avatar of Tiacat, God of Dragons.md",
