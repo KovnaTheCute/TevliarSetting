@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Seeder.md",
+                "file": "Tevliar Setting/Isopodoid.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Seeder"
+              "title": "Isopodoid"
             },
             "group": "8ddba9d477e7d8c0"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Seeder.md",
+                "file": "Tevliar Setting/Isopodoid.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,8 +221,11 @@
   },
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
-    "Tevliar Setting/Statblocks/Statblocks.md",
+    "Tevliar Setting/Races.md",
+    "Tevliar Setting/Isopodoid.md",
+    "Tevliar Setting/DnD Tevliar Setting.md",
     "Tevliar Setting/Statblocks/Seeder.md",
+    "Tevliar Setting/Statblocks/Statblocks.md",
     "Tevliar Setting/Statblocks/Cloudskimmer.md",
     "Tevliar Setting/Statblocks/Deathrattles.md",
     "Tevliar Setting/Statblocks/Deathrattles.md",
