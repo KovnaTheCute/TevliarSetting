@@ -32,21 +32,7 @@ actions:
 - name: Tendril Strike
   desc: "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 4) bludgeoning damage. If the target is Medium or smaller, it must succeed on a DC 16 Strength saving throw or be grappled (escape DC 16). The Devourer of Gravity Spawn can have up to three creatures grappled at a time."
 - name: Gravity Manipulation.
-  desc: "The Devourer of Gravity Spawn can use one of the following gravity manipulation abilities: <br> - Gravity Well (Recharge 5-6). The Devourer expels intense quantities of gravitational force in a 30-foot radius sphere centered on itself. Each creature in the area must make a DC 16 Strength saving throw or take 27 (5d10) force damage and be restrained until the end of its next turn. All creatures in the area become vulnerable to damage caused by falling.
-- Gravity Drain (Recharge 5-6). The Devourer can consume gravity within a 30-foot radius sphere centered on itself, regenerating 20 hit points for every 10 feet of movement it willingly sacrifices. This movement can include vertical movement and hovering. Creatures in this area can hover however it also counts as difficult terrain."
-legendary_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-bonus_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-reactions: 
-- name: 
-  desc:
+  desc: "The Devourer of Gravity Spawn can use one of the following gravity manipulation abilities: <br> - Gravity Well (Recharge 5-6). The Devourer expels intense quantities of gravitational force in a 30-foot radius sphere centered on itself. Each creature in the area must make a DC 16 Strength saving throw or take 27 (5d10) force damage and be restrained until the end of its next turn. All creatures in the area become vulnerable to damage caused by falling. <br> - Gravity Drain (Recharge 5-6). The Devourer can consume gravity within a 30-foot radius sphere centered on itself, regenerating 20 hit points for every 10 feet of movement it willingly sacrifices. This movement can include vertical movement and hovering. Creatures in this area are forced to hover and it becomes difficult terrain for all creatures that can not normally hover."
 ```
 
 ### Description:

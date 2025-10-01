@@ -9,7 +9,7 @@
 
 # D
 [[Deathrattles]]
-[[Devourer of Gravity]]
+[[Devourers of Gravity]]
 
 # S
-[[Seeder]]
+[[Seeders]]

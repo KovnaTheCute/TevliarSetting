@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Devourer of Gravity.md",
+                "file": "Tevliar Setting/Statblocks/Devourers of Gravity.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Devourer of Gravity"
+              "title": "Devourers of Gravity"
             },
             "group": "8ddba9d477e7d8c0"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Devourer of Gravity.md",
+                "file": "Tevliar Setting/Statblocks/Devourers of Gravity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,9 +221,9 @@
   },
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
+    "Tevliar Setting/Statblocks/Seeders.md",
+    "Tevliar Setting/Statblocks/Devourers of Gravity.md",
     "Tevliar Setting/Statblocks/Statblocks.md",
-    "Tevliar Setting/Statblocks/Devourer of Gravity.md",
-    "Tevliar Setting/Statblocks/Seeder.md",
     "Tevliar Setting/Statblocks/Deathrattles.md",
     "Tevliar Setting/Statblocks/Cloudskimmer.md",
     "Tevliar Setting/Statblocks/Avatar of Chomp, God of Hunger.md",
