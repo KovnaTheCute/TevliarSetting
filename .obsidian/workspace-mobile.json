@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Races/Boulderbugs.md",
+                "file": "Tevliar Setting/Statblocks/Seeder.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Boulderbugs"
+              "title": "Seeder"
             },
             "group": "8ddba9d477e7d8c0"
           }
@@ -34,9 +34,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Races/Boulderbugs.md",
+                "file": "Tevliar Setting/Statblocks/Seeder.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 5,
                   "localBacklinks": true,
@@ -65,7 +65,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 303,
-                  "scale": 0.6575073419634441,
+                  "scale": 0.5944462397520665,
                   "close": true
                 }
               },
@@ -221,13 +221,14 @@
   },
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
+    "Tevliar Setting/Statblocks/Avatar of Chomp, God of Hunger.md",
+    "Tevliar Setting/Statblocks/Statblocks.md",
+    "Tevliar Setting/Races/Boulderbugs.md",
     "Tevliar Setting/Races/Races.md",
     "Tevliar Setting/Races/Isopod.md",
-    "Tevliar Setting/Races/Boulderbugs.md",
     "Tevliar Setting/Races",
     "Tevliar Setting/DnD Tevliar Setting.md",
     "Tevliar Setting/Statblocks/Seeder.md",
-    "Tevliar Setting/Statblocks/Statblocks.md",
     "Tevliar Setting/Statblocks/Cloudskimmer.md",
     "Tevliar Setting/Statblocks/Deathrattles.md",
     "Tevliar Setting/Statblocks/Deathrattles.md",
