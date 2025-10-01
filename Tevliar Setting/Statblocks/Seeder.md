@@ -166,7 +166,7 @@ actions:
 - name: Vine Attack.
   desc: "Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 21 (3d12 + 2) bludgeoning damage. If the target is a huge creature or smaller, it must succeed on a DC 12 Strength saving throw or be grappled (escape DC 12). While grappled, the target is restrained, and the seeder can't use the same vine on another target. The seeder has 2 vines."
 - name: Exploding Bulb (Recharge 5-6).
-  desc: "The seeder detonates one of the bulbs growing on its vines in a 25ft cone. Each creature within the cone must make a DC 12 Dexterity saving throw, taking  (8d6) piercing damage on a failed save, or half as much damage on a successful one. The seeder also takes damage but automatically succeeds on the save. Creatures that have been grappled by the seeder automatically fail their saving throw."
+  desc: "The seeder detonates one of the bulbs growing on its vines in a 25ft cone. Each creature within the cone must make a DC 12 Dexterity saving throw, taking 28 (8d6) piercing damage on a failed save, or half as much damage on a successful one. The seeder also takes damage but automatically succeeds on the save. Creatures that have been grappled by the seeder automatically fail their saving throw."
 ```
 
 ### Description:
