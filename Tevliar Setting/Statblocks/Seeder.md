@@ -86,7 +86,7 @@ damage_immunities: Poison, Psychic
 condition_immunities: Blinded, Deafened, Exhaustion, Poisoned
 senses: Blindsight 30 ft. (blind beyond this radius), passive perception 12
 languages: -
-cr: 1/2
+cr: 1
 traits: 
 - name: Spore Implant
   desc: "When the death rattle seeds land on a surface, they embed themselves and grow into new death rattles. After 1d4 hours, a new death rattle sprouts from the surface. If they embed themselves into a bloodied creature they take root and upon the creature's death it turns the corpse into a seeder after 1d4 hours. The seeds can be removed with greater restoration, heal, or Wish."
@@ -154,7 +154,7 @@ damage_immunities: Poison, Psychic
 condition_immunities: Blinded, Deafened, Exhaustion, Poisoned
 senses: Blindsight 30 ft. (blind beyond this radius), passive perception 13
 languages: -
-cr: 7
+cr: 6
 traits: 
 - name: Spore Implant
   desc: "When the death rattle seeds land on a surface, they embed themselves and grow into new death rattles. After 1d4 hours, a new death rattle sprouts from the surface. If they embed themselves into a bloodied creature they take root and upon the creature's death it turns the corpse into a seeder after 1d4 hours. The seeds can be removed with greater restoration, heal, or Wish."
