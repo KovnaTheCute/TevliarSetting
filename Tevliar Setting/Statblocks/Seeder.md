@@ -10,7 +10,7 @@ ac: 12
 hp: 11
 hit_dice: 2d4 + 6
 speed: 30 ft.
-stats: [14, 12, 16, 2, 10, 3]
+stats: [10, 12, 16, 2, 10, 3]
 skillsaves: 
 - perception: +2
 damage_resistances: Piercing
@@ -28,7 +28,7 @@ actions:
 - name: Multiattack
   desc: The seeder makes two vine attacks or one vine attack and exploding bulb.
 - name: Vine Attack.
-  desc: "Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage. If the target is a tiny creature, it must succeed on a DC 12 Strength saving throw or be grappled (escape DC 12). While grappled, the target is restrained, and the seeder can't use the same vine on another target. The seeder has 2 vines."
+  desc: "Melee Weapon Attack: +2 to hit, reach 10 ft., one target. Hit: 2 (1d4) bludgeoning damage. If the target is a tiny creature, it must succeed on a DC 10 Strength saving throw or be grappled (escape DC 12). While grappled, the target is restrained, and the seeder can't use the same vine on another target. The seeder has 2 vines."
 - name: Exploding Bulb (Recharge 5-6).
   desc: "The seeder detonates one of the bulbs growing on its vines in a 5 ft. cone. Each creature within the cone must make a DC 12 Dexterity saving throw, taking 3 (1d6) piercing damage on a failed save, or half as much damage on a successful one. The seeder also takes damage but automatically succeeds on the save. Creatures that have been grappled by the seeder automatically fail their saving throw."
 ```
@@ -44,7 +44,7 @@ ac: 12
 hp: 26
 hit_dice: 4d6 + 12
 speed: 30 ft.
-stats: [14, 12, 16, 2, 10, 3]
+stats: [12, 12, 16, 2, 10, 3]
 skillsaves: 
 - perception: +2
 damage_resistances: Piercing
@@ -62,7 +62,7 @@ actions:
 - name: Multiattack
   desc: The seeder makes two vine attacks or one vine attack and exploding bulb.
 - name: Vine Attack.
-  desc: "Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage. If the target is a small or tiny creature, it must succeed on a DC 12 Strength saving throw or be grappled (escape DC 12). While grappled, the target is restrained, and the seeder can't use the same vine on another target. The seeder has 2 vines."
+  desc: "Melee Weapon Attack: +3 to hit, reach 10 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage. If the target is a small or tiny creature, it must succeed on a DC 11 Strength saving throw or be grappled (escape DC 12). While grappled, the target is restrained, and the seeder can't use the same vine on another target. The seeder has 2 vines."
 - name: Exploding Bulb (Recharge 5-6).
   desc: "The seeder detonates one of the bulbs growing on its vines in a 10ft cone. Each creature within the cone must make a DC 12 Dexterity saving throw, taking 7 (2d6) piercing damage on a failed save, or half as much damage on a successful one. The seeder also takes damage but automatically succeeds on the save. Creatures that have been grappled by the seeder automatically fail their saving throw."
 ```
@@ -200,7 +200,7 @@ actions:
 - name: Vine Attack.
   desc: "Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 39 (6d12 + 2) bludgeoning damage. If the target is a huge creature or smaller, it must succeed on a DC 12 Strength saving throw or be grappled (escape DC 12). While grappled, the target is restrained, and the seeder can't use the same vine on another target. The seeder has 2 vines."
 - name: Exploding Bulb (Recharge 5-6).
-  desc: "The seeder detonates one of the bulbs growing on its vines in a 25ft cone. Each creature within the cone must make a DC 12 Dexterity saving throw, taking 28 (8d6) piercing damage on a failed save, or half as much damage on a successful one. The seeder also takes damage but automatically succeeds on the save. Creatures that have been grappled by the seeder automatically fail their saving throw."
+  desc: "The seeder detonates one of the bulbs growing on its vines in a 35ft cone. Each creature within the cone must make a DC 12 Dexterity saving throw, taking 35 (10d6) piercing damage on a failed save, or half as much damage on a successful one. The seeder also takes damage but automatically succeeds on the save. Creatures that have been grappled by the seeder automatically fail their saving throw."
 ```
 
 ### Description:
