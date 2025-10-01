@@ -86,3 +86,9 @@ reactions:
   desc:
 ```
 ### Description:
+
+**Lair Actions**
+On initiative count 20 (losing initiative ties), The Great Devourer of Gravity can take a lair action to cause one of the following effects; the Great Devourer of Gravity can't use the same effect two rounds in a row:
+1. Gravity Distortion. The Great Devourer causes gravity to fluctuate erratically within 60 feet of itself. Each creature in the area must succeed on a DC 20 Strength saving throw or be restrained for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+2. Void Beckoning. The Great Devourer attempts to draw creatures into its eldritch void. It targets one creature it can see within 120 feet of itself. The targeted creature must succeed on a DC 20 Wisdom saving throw or be pulled 20 feet closer to The Great Devourer and become frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+3. Dark Whispers. The Great Devourer sends maddening whispers into the minds of all creatures within 60 feet of itself. Each creature must succeed on a DC 20 Wisdom saving throw or take 21 (6d6) psychic damage and be frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on a success.
