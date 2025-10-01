@@ -53,17 +53,12 @@ saves:
 skillsaves: 
 - Arcana: +10
 - Insight: +10
-damage_resistances: 
-damage_immunities: 
-condition_immunities: 
-senses: string
-languages: string
-cr: Number
-spells: 
-- 
-- 
-- 
--
+damage_resistances: Psychic
+damage_immunities: Necrotic, Radiant
+condition_immunities: Charmed, Frightened
+senses: Truesight 120 ft., Darkvision 240 ft., passive perception 14
+languages: -
+cr: 23
 traits: 
 - name: 
   desc:
