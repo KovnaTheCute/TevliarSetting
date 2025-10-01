@@ -98,7 +98,7 @@ actions:
 - name: Vine Attack.
   desc: "Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage. If the target is a medium creature or smaller, it must succeed on a DC 12 Strength saving throw or be grappled (escape DC 12). While grappled, the target is restrained, and the seeder can't use the same vine on another target. The seeder has 2 vines."
 - name: Exploding Bulb (Recharge 5-6).
-  desc: "The seeder detonates one of the bulbs growing on its vines in a 10ft cone. Each creature within the cone must make a DC 12 Dexterity saving throw, taking 14 (4d6) piercing damage on a failed save, or half as much damage on a successful one. The seeder also takes damage but automatically succeeds on the save. Creatures that have been grappled by the seeder automatically fail their saving throw."
+  desc: "The seeder detonates one of the bulbs growing on its vines in a 15ft cone. Each creature within the cone must make a DC 12 Dexterity saving throw, taking 14 (4d6) piercing damage on a failed save, or half as much damage on a successful one. The seeder also takes damage but automatically succeeds on the save. Creatures that have been grappled by the seeder automatically fail their saving throw."
 ```
 
 ```statblock 
@@ -130,9 +130,9 @@ actions:
 - name: Multiattack
   desc: The seeder makes two vine attacks or one vine attack and exploding bulb.
 - name: Vine Attack.
-  desc: "Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage. If the target is a medium creature or smaller, it must succeed on a DC 12 Strength saving throw or be grappled (escape DC 12). While grappled, the target is restrained, and the seeder can't use the same vine on another target. The seeder has 2 vines."
+  desc: "Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage. If the target is a large creature or smaller, it must succeed on a DC 12 Strength saving throw or be grappled (escape DC 12). While grappled, the target is restrained, and the seeder can't use the same vine on another target. The seeder has 2 vines."
 - name: Exploding Bulb (Recharge 5-6).
-  desc: "The seeder detonates one of the bulbs growing on its vines in a 10ft cone. Each creature within the cone must make a DC 12 Dexterity saving throw, taking 14 (4d6) piercing damage on a failed save, or half as much damage on a successful one. The seeder also takes damage but automatically succeeds on the save. Creatures that have been grappled by the seeder automatically fail their saving throw."
+  desc: "The seeder detonates one of the bulbs growing on its vines in a 20ft cone. Each creature within the cone must make a DC 12 Dexterity saving throw, taking 21 (6d6) piercing damage on a failed save, or half as much damage on a successful one. The seeder also takes damage but automatically succeeds on the save. Creatures that have been grappled by the seeder automatically fail their saving throw."
 ```
 
 ### Description:
