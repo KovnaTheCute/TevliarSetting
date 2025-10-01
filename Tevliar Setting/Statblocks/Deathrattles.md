@@ -19,7 +19,7 @@ languages: -
 cr: 1/8
 traits: 
 - name: Spore Implant.
-  desc: "When the death rattle spores land on a surface, they embed themselves and grow into new death rattles. After 1d4 hours, a new death rattle sprouts from the surface. If they embed themselves into a creature they take root and upon the creatures death it turns the corpse into a seeder after 1d4 hours. The seeds can be removed with Greater Restoration, Heal, or Wish."
+  desc: "When the death rattle spores land on a surface, they embed themselves and grow into new death rattles. After 1d4 hours, a new death rattle sprouts from the surface. If they embed themselves into a bloodied creature they take root and upon the creatures death it turns the corpse into a seeder after 1d4 hours. The seeds can be removed with Greater Restoration, Heal, or Wish."
 actions: 
 - name: Exploding Bulb (Recharge 5-6)
   desc: "The Death Rattle detonates one of its bulbs that explodes in a burst of shrapnel-like spores in a 5ft cone. Each creature within the cone must make a DC 12 Dexterity saving throw, taking 7 (2d6) piercing damage on a failed save, or half as much damage on a successful one. The Death Rattle also takes damage but automatically succeeds the save. Creatures that fail the save are subject to Spore Implant."
@@ -45,7 +45,7 @@ languages: -
 cr: 1/8
 traits: 
 - name: Spore Implant.
-  desc: "When the death rattle spores land on a surface, they embed themselves and grow into new death rattles. After 1d4 hours, a new death rattle sprouts from the surface. If they embed themselves into a creature they take root and upon the creatures death it turns the corpse into a seeder after 1d4 hours. The seeds can be removed with Greater Restoration, Heal, or Wish."
+  desc: "When the death rattle spores land on a surface, they embed themselves and grow into new death rattles. After 1d4 hours, a new death rattle sprouts from the surface. If they embed themselves into a bloodied creature they take root and upon the creatures death it turns the corpse into a seeder after 1d4 hours. The seeds can be removed with Greater Restoration, Heal, or Wish."
 actions: 
 - name: Exploding Bulb (Recharge 5-6)
   desc: "The Death Rattle detonates one of its bulbs that explodes in a burst of shrapnel-like spores in a 10ft cone. Each creature within the cone must make a DC 12 Dexterity saving throw, taking 14 (4d6) piercing damage on a failed save, or half as much damage on a successful one. The Death Rattle also takes damage but automatically succeeds the save. Creatures that fail the save are subject to Spore Implant."
@@ -71,7 +71,7 @@ languages: -
 cr: 1/4
 traits: 
 - name: Spore Implant.
-  desc: "When the death rattle spores land on a surface, they embed themselves and grow into new death rattles. After 1d4 hours, a new death rattle sprouts from the surface. If they embed themselves into a creature they take root and upon the creatures death it turns the corpse into a seeder after 1d4 hours. The seeds can be removed with Greater Restoration, Heal, or Wish."
+  desc: "When the death rattle spores land on a surface, they embed themselves and grow into new death rattles. After 1d4 hours, a new death rattle sprouts from the surface. If they embed themselves into a bloodied creature they take root and upon the creatures death it turns the corpse into a seeder after 1d4 hours. The seeds can be removed with Greater Restoration, Heal, or Wish."
 actions: 
 - name: Exploding Bulb (Recharge 5-6)
   desc: "The Death Rattle detonates one of its bulbs that explodes in a burst of shrapnel-like spores in a 15ft cone. Each creature within the cone must make a DC 12 Dexterity saving throw, taking 21 (6d6) piercing damage on a failed save, or half as much damage on a successful one. The Death Rattle also takes damage but automatically succeeds the save. Creatures that fail the save are subject to Spore Implant."
@@ -97,7 +97,7 @@ languages: -
 cr: 1/4
 traits: 
 - name: Spore Implant.
-  desc: "When the death rattle spores land on a surface, they embed themselves and grow into new death rattles. After 1d4 hours, a new death rattle sprouts from the surface. If they embed themselves into a creature they take root and upon the creatures death it turns the corpse into a seeder after 1d4 hours. The seeds can be removed with Greater Restoration, Heal, or Wish."
+  desc: "When the death rattle spores land on a surface, they embed themselves and grow into new death rattles. After 1d4 hours, a new death rattle sprouts from the surface. If they embed themselves into a bloodied creature they take root and upon the creatures death it turns the corpse into a seeder after 1d4 hours. The seeds can be removed with Greater Restoration, Heal, or Wish."
 actions: 
 - name: Exploding Bulb (Recharge 5-6)
   desc: "The Death Rattle detonates one of its bulbs that explodes in a burst of shrapnel-like spores in a 20ft cone. Each creature within the cone must make a DC 12 Dexterity saving throw, taking 28 (8d6) piercing damage on a failed save, or half as much damage on a successful one. The Death Rattle also takes damage but automatically succeeds the save. Creatures that fail the save are subject to Spore Implant."
