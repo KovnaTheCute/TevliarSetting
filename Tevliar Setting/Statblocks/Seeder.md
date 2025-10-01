@@ -204,3 +204,16 @@ actions:
 ```
 
 ### Description:
+Seeders are the grotesque offspring of death rattle spores and corpses, animating the dead with creeping vines and explosive fungal growth. When a corpse is infiltrated by these insidious spores, it slowly rises again, a warped echo of its former life, driven by the relentless will of the fungus. Over time, even a single seeder can transform a battlefield, tomb, or forest clearing into a writhing, vine-choked nightmare.
+
+**Animated Vines.** Seeders’ sinewy vines twist across corpses, using brute force to grapple and restrain creatures. Though slow and deliberate, their attacks are devastating, capable of pinning prey beneath fungal limbs or tearing through obstacles. Vines retain some memory of the base creature’s physical traits, sometimes granting limited flight, climbing, or swimming ability depending on the corpse they animate.
+
+**Explosive Spores.** Each seeder carries bulbous clusters of spore-filled growths that erupt in jagged sprays when the plant is disturbed or destroyed. These bursts of shrapnel-like spores damage and spread, embedding themselves into nearby surfaces or corpses. A destroyed seeder often sows the seeds of its own progeny, ensuring that death gives rise to further horror.
+
+**Parasitic Legacy.** Corpses animated as seeders can come from any source, from small rodents to massive beasts. Though their core statistics are determined by the seeder’s size, traits such as flight, swimming, or burrowing may persist if the original corpse possessed them. Seeders are modular and adaptable horrors, reflecting the twisted forms of the creatures they inhabit.
+
+**DM Note:** Seeder Bases. A seeder’s capabilities and threat level depend heavily on the corpse it rises from. DMs should consider:
+- Movement Modes: Flying birds, burrowing worms, or swimming fish can impart additional movement types.
+- Size & Damage: The corpse determines size category, hit points, attack damage, and the radius of the seeder’s explosive spore bursts.
+- Special Traits: Rare features such as claws, horns, or heightened senses may occasionally transfer, justifying minor unique abilities.  
+Seeders are intended to be a versatile and eerie encounter type, ideal for dynamic combat scenarios where the corpse itself informs the monster’s abilities.
