@@ -60,15 +60,17 @@ senses: Truesight 120 ft., Darkvision 240 ft., passive perception 14
 languages: -
 cr: 23
 traits: 
-- name: 
-  desc:
-- name: 
-  desc: 
+- name: Reality Warping.
+  desc: "The very presence of The Great Devourer destroys the land within a 120-foot radius, creating eldritch landscapes that defy the laws of physics and reason. These surreal domains are impossible terrain, and any creature that starts its turn within this area must make a DC 20 Wisdom saving throw or be frightened for 1 minute."
+- name: Absolute Absorbtion.
+  desc: "The Devourer consumes all mass it can, ravaging anything in its vicinity. All terrain the great Devourer gets within 120 feet of is destroyed, becoming difficult terrain. All loose items or structures are pulled into the Devourer, being destroyed."
 actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+- name: Multiattack.
+  desc: The Great Devourer can make up to 4 tendril strikes.
+- name: Tendril Strike.
+  desc: "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 28 (4d8 + 7) bludgeoning damage. If the target is Medium or smaller, it must succeed on a DC 20 Strength saving throw or be grappled (escape DC 20). The Great Devourer can have up to four creatures grappled at a time."
+- name: Gravity Manipulation.
+  desc: "The Great Devourer can use one of the following gravity manipulation abilities: <br> - Gravity Well (Recharge 5-6). The Great Devourer expels intense quantities of gravitational force in a 60-foot radius sphere centered on itself. Each creature in the area must make a DC 20 Strength saving throw or take 50 (10d10) force damage and be restrained until the end of its next turn. All creatures in the area become vulnerable to damage caused by falling. <br> - Gravity Drain (Recharge 5-6). The Great Devourer can consume gravity within a 60-foot radius sphere centered on itself, regenerating 50 hit points for every 10 feet of movement it willingly sacrifices. This movement can include vertical movement and hovering."
 legendary_actions: 
 - name: 
   desc: 
