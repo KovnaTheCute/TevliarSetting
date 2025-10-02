@@ -11,5 +11,8 @@
 [[Deathrattles]]
 [[Devourers of Gravity]]
 
+# G
+[[Gravity Wells]]
+
 # S
 [[Seeders]]
