@@ -72,8 +72,8 @@ actions:
 - name: Gravity Manipulation.
   desc: "The Great Devourer can use one of the following gravity manipulation abilities: <br> - Gravity Well (Recharge 5-6). The Great Devourer expels intense quantities of gravitational force in a 60-foot radius sphere centered on itself. Each creature in the area must make a DC 20 Strength saving throw or take 50 (10d10) force damage and be restrained until the end of its next turn. All creatures in the area become vulnerable to damage caused by falling. <br> - Gravity Drain (Recharge 5-6). The Great Devourer can consume gravity within a 60-foot radius sphere centered on itself, regenerating 50 hit points for every 10 feet of movement it willingly sacrifices. This movement can include vertical movement and hovering."
 legendary_actions: 
-- name: 
-  desc: 
+- name: Yippee.
+  desc: and then they yippee into the sun.
 - name: 
   desc: 
 bonus_actions: 
