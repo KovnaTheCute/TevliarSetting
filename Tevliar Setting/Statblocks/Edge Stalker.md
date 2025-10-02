@@ -54,3 +54,12 @@ reactions:
 ```
 
 ### Description:
+Edge Stalkers are assassins of the Edge, denizens of the void between universes. Even gods tread lightly in their presence, for these beings hunt with unparalleled precision and lethality. From a distance, an Edge Stalker may appear humanoid, even mundane, but the closer one approaches, the more the truth becomes apparent: its flesh flickers with shifting masses, its body phasing in and out of reality. Faceless and nameless, they are individuals only in form; kill one, and it dissipates, leaving no corpse behind.
+
+**Alien Predators.** Edge Stalkers are creatures beyond comprehension. Their motives are inscrutable, their payments abstract or bizarre. Some have been known to hunt for trivialities, like apples or a single lock of hair, while others seek only the thrill of the hunt. They are indifferent to morality, allegiance, or reason—loyal only to the contracts they accept, and even then, only in the manner they deem sufficient.
+
+**Masters of the Hunt.** These beings are expert predators, blending supernatural mobility, phasing capabilities, and reality-altering attacks. They can choose adaptations suited to the battlefield, turning damage psychic, inflicting relentless bleeding, or striking with surgical precision. In combat, an Edge Stalker is as likely to vanish mid-strike as it is to appear out of nowhere, leaving opponents disoriented and terrified.
+
+**Faceless Hunters.** Edge Stalkers operate alone or in small groups. Even in numbers, they are unpredictable, striking swiftly and silently. They exist in the spaces that mortals—and even many immortals—cannot safely traverse, and encounters with them are often catastrophic. Legends tell of gods felled in secluded moments by these predators, and of armies that vanished before even seeing them.
+
+**DM Note.** Edge Stalkers are best used sparingly, as apex predators of high-magic or high-tier campaigns. Their abilities make them perfect for assassination encounters, sudden ambushes, or as enigmatic villains whose motives remain unknown. They can phase through walls, teleport in darkness, and adapt to the combat environment, making traditional tactics ineffective. When designing encounters, consider their intelligence and unpredictability: they may retreat, feint, or manipulate the battlefield before engaging in direct combat. Use them to instill a sense of alien danger, where the rules of reality themselves seem malleable.
