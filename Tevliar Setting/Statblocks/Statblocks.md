@@ -11,6 +11,9 @@
 [[Deathrattles]]
 [[Devourers of Gravity]]
 
+# E
+[[Edge Stalker]]
+
 # G
 [[Gravity Wells]]
 

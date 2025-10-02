@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Gravity Wells.md",
+                "file": "Tevliar Setting/Statblocks/Edge Stalker.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gravity Wells"
+              "title": "Edge Stalker"
             },
             "group": "8ddba9d477e7d8c0"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Gravity Wells.md",
+                "file": "Tevliar Setting/Statblocks/Edge Stalker.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -65,7 +65,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 303,
-                  "scale": 0.5194995881313673,
+                  "scale": 0.8258347316290018,
                   "close": true
                 }
               },
@@ -151,7 +151,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tevliar Setting/Statblocks/Seeder.md",
+            "file": "Tevliar Setting/Statblocks/Edge Stalker.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -222,6 +222,7 @@
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
     "Tevliar Setting/Statblocks/Statblocks.md",
+    "Tevliar Setting/Statblocks/Edge Stalker.md",
     "Tevliar Setting/Statblocks/Gravity Wells.md",
     "Tevliar Setting/Statblocks/Devourers of Gravity.md",
     "Tevliar Setting/Templates/5E Template.md",
