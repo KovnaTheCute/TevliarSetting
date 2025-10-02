@@ -8,19 +8,16 @@ ac: 16 (Natural Armor)
 hp: 60
 hit_dice: 8d6 + 32
 speed: Speed 5 ft., Fly 30 ft. (Hover)
-stats: [12, 16, 18, 14, 12, 1]
-fage_stats: 
+stats: [12, 16, 18, 14, 12, 10]
 saves: 
-- dash: 
-- potato: 
-- stew: 
+- Dexterity: +6
+- Constitution: +7
 skillsaves: 
-- fake-skill: 
-- turtle: 
-damage_vulnerabilities: 
-damage_resistances: 
-damage_immunities: 
-condition_immunities: 
+- Arcana: +4
+- Perception: +3
+damage_resistances: Psychic; Bludgeoning, Piercing, Slashing from nonmagical attacks
+damage_immunities: Necrotic, Radiant
+condition_immunities: Charmed, Frightened, Grappled, 
 senses: string
 languages: string
 cr: Number
