@@ -6,22 +6,24 @@ size: Medium
 type: Unknown
 alignment: Alignment
 ac: 22 (Natural Armor)
-hp: 180
+hp: 189
 hit_dice: 18d8 + 108
 speed: 60 ft.
-stats: 
-fage_stats: 
+stats: [20, 26, 22, 16, 20, 18]
 saves: 
-- dash: 
-- potato: 
-- stew: 
+- Strength: +11
+- Dexterity: +14
+- Constitution: +12
+- Wisdom: +11
+- Charisma: +10
 skillsaves: 
-- fake-skill: 
-- turtle: 
-damage_vulnerabilities: 
-damage_resistances: 
-damage_immunities: 
-condition_immunities: 
+- Stealth: +20
+- Perception: +11
+- Acrobatics: +14
+- Insight: +11
+damage_resistances: Cold, Fire, Radiant, Necrotic, Thunder, Lightning, Acid
+damage_immunities: Poison, Psychic; Bludgeoning, Piercing, and Slashing from non-magical attacks
+condition_immunities: Blinded, Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisone
 senses: string
 languages: string
 cr: Number
