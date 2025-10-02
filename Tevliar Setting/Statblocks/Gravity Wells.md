@@ -34,3 +34,10 @@ actions:
 ```
 
 ### Description:
+Gravity Wells are one of the most prolific pests of the Edge—the infinite void between universes where even gods dare not tread. At first glance, they appear as swarms of toothy, black motes clumped into whirling masses, their forms flickering in and out of universal reality. Unlike the towering Devourers of Gravity, the Wells lack dimensional tentacles, instead darting erratically as if gnawing at the fabric of existence itself.
+
+**Predators of Mass.** Gravity Wells feed on the same “nutrient” as their kin: the mass and gravitational force inherent in matter. They do not simply consume flesh, stone, or metal—they consume the weight and pull that binds them together. A battlefield touched by Wells often collapses into surreal landscapes of drifting debris, as structures weaken and fall apart under their absence of gravity.
+
+**Shifting Trails.** In their passage, Gravity Wells leave behind warping traces of space-time—shimmering distortions that fade in and out of reality. To mortal eyes, these trails appear like heat ripples or mirages, yet stepping through one can twist perception, direction, or even physical laws. Entire regions plagued by Wells become unstable, marked by falling upward, sideways rain, and fractured terrain that seems to breathe.
+
+**Pests of the Edge.** Unlike their Great Devourer kin, Wells are not cunning or strategic. They are bestial swarms, hungering only for consumption. Still, their unpredictability makes them dangerous: a lone swarm may be survivable, but colonies drifting together have ended expeditions of gods and titans alike. They are one of the reasons the Edge is considered uninhabitable and untamable.
