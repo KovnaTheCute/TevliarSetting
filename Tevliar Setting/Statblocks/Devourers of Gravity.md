@@ -82,6 +82,15 @@ legendary_actions:
   desc: "The Great Devourer teleports to an unoccupied space it can see within 120 feet."
 ```
 ### Description:
+At the very edge of reality—beyond the planes, beyond the dominion of even the oldest gods—lurks the Edge, a place where existence itself falters. From this abyssal frontier come the Devourers of Gravity, eldritch predators whose very presence unravels the laws of the cosmos. Appearing as vast, gnashing maws tethered to voidstuff that resembles the nothingness between stars, these beings drift across dimensions, tethered to no single reality. Their sinuous tentacles phase in and out of existence, slipping between planes at random, dragging their prey screaming into places mortals were never meant to see.
+
+**Predators of Mass.** Devourers do not merely consume flesh—they devour the very concept of mass. To them, gravity is sustenance, and the weight of worlds is but a feast waiting to be stripped bare. In their wake, landscapes crumble, structures collapse inward, and even the bodies of slain mortals are reduced to void-born dust. The Edge is said to echo with the remnants of what they have consumed: stars devoured, planes inverted, and civilizations erased in silence.
+
+**Unknowable Beasts.** Though impossibly powerful, Devourers are not cunning schemers nor calculating lords of entropy. Instead, they are ruled by raw, bestial instinct, lashing out unpredictably at whatever catches their attention. Some tear across battlefields, stripping armies of both flesh and gravity, while others drift in near-catatonics until roused by movement or life. Their erratic nature makes them as terrifying to confront as their raw might—there is no bargaining, no logic, only hunger.
+
+**Spawn and Great Devourers.** While even the smallest Devourer Spawn can reduce cities to rubble, the Great Devourers are legends whispered only in the most ancient apocrypha. These titanic horrors are forces of annihilation given form, their presence twisting reality into impossible geometries, their hungers extending beyond mere flesh into the annihilation of entire landscapes. A Great Devourer does not simply destroy a place—it erases its weight, its balance, its place in reality itself.
+
+**Beyond the Gods.** The gods themselves dread these beings. Divine magic falters in their presence, for their origin lies outside the weave of creation. Even gods of destruction and entropy cannot match their mundane, alien supremacy. Where a god may choose, bargain, or relent, a Devourer only consumes.
 
 **Lair Actions**
 On initiative count 20 (losing initiative ties), The Great Devourer of Gravity can take a lair action to cause one of the following effects; the Great Devourer of Gravity can't use the same effect two rounds in a row:
