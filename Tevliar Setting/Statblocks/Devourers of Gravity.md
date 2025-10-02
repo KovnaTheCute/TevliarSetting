@@ -76,6 +76,9 @@ legendary_actions:
   desc: "The Great Devourer makes a tendril strike."
 - name: Bubble Warping (Costs 2 Actions).
   desc: "The Great devourer warps the gravity around one creature within 60 feet of it, the creature is either thrown 60ft in any direction or crushed down, and they are knocked prone. The creature must make a strength saving throw with DC 25, taking 35(10d6) force damage on a failed save or half as much on a success."
+- name: Gravity Shift (Costs 2 Actions).
+  desc: "The Great Devourer shifts the gravitational forces within a 60-foot radius sphere centered on itself. All creatures within the area must succeed on a DC 20 Strength saving throw or be pulled 20 feet toward or away from The Great Devourer, determined by The Great Devourer's choice. This movement can also include vertical movement."
+
 bonus_actions: 
 - name: 
   desc: 
