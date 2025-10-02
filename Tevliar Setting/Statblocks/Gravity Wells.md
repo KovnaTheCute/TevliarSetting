@@ -28,22 +28,9 @@ traits:
   desc: "The presence of the Gravity Wells creates a 10-foot radius of warped reality. This area is difficult terrain, and any creature that starts its turn within this area must make a DC 15 Wisdom saving throw or be frightened for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on a success."
 actions: 
 - name: Gravitational Pull.
-  desc: ""
-- name: 
-  desc: 
-legendary_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-bonus_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-reactions: 
-- name: 
-  desc:
+  desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 21 (6d6) force damage, and if the target is Medium or smaller, it must succeed on a DC 15 Strength saving throw or be pulled 10 feet towards the swarm and be restrained until the end of its next turn."
+- name: Gravity Well (Recharge 5-6).
+  desc: "The Gravity Wells expel intense quantities of gravitational force in a 10-foot radius sphere centered on themselves. Each creature in the area must make a DC 15 Strength saving throw or take 22 (4d10) force damage and be restrained until the end of its next turn. All creatures in the area become vulnerable to damage caused by falling."
 ```
 
 ### Description:
