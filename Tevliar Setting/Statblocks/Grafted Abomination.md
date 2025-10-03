@@ -21,7 +21,7 @@ damage_immunities: Poison, Psychic
 condition_immunities: Poisoned, Exhaustion, Frightened
 senses: Darkvision 60 ft., passive perception 8
 languages: Understands the language of its creator but can’t speak
-cr: 22
+cr: 24
 traits: 
 - name: Regeneration.
   desc: "At the start of each of its turns the Grafted Abomination recovers 10d10 hit points. If the grafted abomination takes radiant damage before the start of its turn this trait doesn’t function. The grafted abomination only dies if it reaches 0 hit points and doesn’t regenerate."
