@@ -14,8 +14,8 @@ skillsaves:
 - Stealth: +4
 damage_vulnerabilities: Radiant
 damage_resistances: Acid, Cold, Fire, lightning, thunder; Bludgeoning, Piercing, and slashing from non-magical attacks
-damage_immunities: 
-condition_immunities: 
+damage_immunities: Necrotic, Poison
+condition_immunities: Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned
 senses: string
 languages: string
 cr: Number
