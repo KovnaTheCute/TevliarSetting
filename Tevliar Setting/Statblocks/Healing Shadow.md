@@ -24,25 +24,13 @@ traits:
   desc: "The healing shadow can move through a space as narrow as 1 inch without squeezing."
 - name: Sunlight Sensitivity.
   desc: "While in sunlight, the healing shadow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
-
+- name: Shadow Stealth.
+  desc: "While in dim light or darkness, the healing shadow can take the Hide action as a bonus action."
 actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-legendary_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-bonus_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-reactions: 
-- name: 
-  desc:
+- name: Healing Touch.
+  desc: "The healing shadow touches a creature and heals them for 8 (2d6+1) hit points."
+- name: Invisibility (Recharge 3-6).
+  desc: "The healing shadow magically turns invisible until its concentration ends (as if concentrating on a spell). Any equipment the shadow wears or carries is invisible with it."
 ```
 
 ### Description:
