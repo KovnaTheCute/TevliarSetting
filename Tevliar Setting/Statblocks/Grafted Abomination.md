@@ -38,12 +38,10 @@ actions:
   desc: "The Grafted Abomination flails all of its limbs around it in a violent fit of rage. All creatures within 10ft of the grafted Abomination must succeed a DC 20 dexterity saving throw or take 44 (10d8) bludgeoning damage. Creatures that are grappled automatically fail this save. On a success they take half damage." 
 bonus_actions: 
 - name: Clawing Grasp.
-  desc: "As a bonus action the abomination can attempt to grapple a creature that is large or smaller. The target must succeed a DC 20 Strength or Dexterity saving throw or be grappled. The abomination can grapple up to one large creature, two medium creatures, four small creatures, or eight tiny creatures."
-- name: 
-  desc: 
+  desc: "As a bonus action the abomination can attempt to grapple a creature that is large or smaller. The target must succeed a DC 20 Strength or Dexterity saving throw or be grappled, a creature that fails the save can use an action on their turn to reattempt the save. The abomination can grapple up to one large creature, two medium creatures, four small creatures, or eight tiny creatures."
 reactions: 
-- name: 
-  desc:
+- name: Wild Flailing.
+  desc: "When targeted with a melee attack the Grafted Abomination can flail all of its limbs wildly, imposing disadvantage on any melee attacks against the Grafted Abomination until the end of the attacking creature's turn. Grappled creatures take 7 (2d6) bludgeoning damage."
 ```
 
 ### Description:
