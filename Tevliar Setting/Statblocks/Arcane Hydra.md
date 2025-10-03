@@ -46,7 +46,17 @@ legendary_actions:
 - name: Spell Echo (Costs 2 Actions).
   desc: "The Hydra can use one of its heads to cast a spell from any other head. This can include spells from heads that have died."
 - name: Arcane Static (Costs 3 Actions).
-  desc: "The Hydra unleashes a wave of arcane energy that interferes with spellcasting. A 30ft area around the hydra becomes an antimagic sphere. The hydra is immune to the sphere and is not affected by its influence."
+  desc: "The Hydra unleashes a wave of arcane energy that interferes with spellcasting. Until the start of the hydras next turn a 30ft area around the hydra becomes an antimagic field."
 ```
 
 ### Description:
+Legends speak of hydras as horrors of regeneration, ever-sprouting new heads when struck down. Yet in lands saturated with raw magical energy, a hydra’s curse mutates into something far stranger. These warped beasts, called arcane hydras, are born when the chaotic resonance of magic overwhelms a hydra’s natural regenerative power. Instead of endless heads, these monsters manifest spell-wrought maws—each capable of channeling destructive sorcery.
+
+**Spawn of Arcane Excess.** An arcane hydra often lurks where the fabric of magic is frayed: near unstable portals, in the ruins of ancient wizard-empires, or across lands blighted by planar rifts. Over decades, a common hydra bathed in such energy undergoes a dreadful transformation. Its regenerative capacity twists into magical overgrowth—heads no longer sprout infinitely, but each remaining one develops its own arcane nature. These heads breathe fire, shadow, or radiance, and unleash spells with beastial instinct rather than calculated intent.
+
+**Beast, Not Sorcerer.** Despite their spellcasting power, arcane hydras retain the animalistic cunning of their kin. They are not spellcasters in the true sense, but predators that lash out with whatever destructive force their heads embody. One head might belch fire, another exhale necrotic mist, while a third lashes out with the force of raw gravity. Their savagery makes them no less dangerous than the cleverest wizard, for they wield their power without restraint.
+
+**Apex Hunters of Magic-Drowned Lands.** Few creatures can challenge an arcane hydra in its chosen territory. They are as comfortable hunting in deep swamps as they are in shattered ruins or flooded arcane sinkholes. Prey fleeing into rivers or lakes finds no reprieve—arcane hydras swim with ease, unleashing elemental breath and teleporting through silvery mist to close the distance. Even veteran adventurers who underestimate these beasts soon learn that brute force alone cannot triumph where sorcery itself fights back.
+
+**DM’s Note:**
+The arcane hydra is a unique twist on the classic hydra encounter, giving DMs a way to merge high-level magic with primal monstrosity. Place one in regions where raw arcane energy has warped the land: perhaps near a collapsed leyline, the ruins of a mythal, or a battlefield where archmages once clashed. This monster shines as a centerpiece encounter for high-level parties—it forces adventurers to adapt to unpredictable magical assaults while wrestling with its legendary durability. Unlike its mundane kin, this hydra can counter spellcasters just as easily as it shreds warriors, making it a threat to every member of the party.
