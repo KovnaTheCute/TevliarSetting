@@ -13,7 +13,7 @@ stats: [6, 14, 13, 6, 12, 8]
 skillsaves: 
 - Stealth: +4
 damage_vulnerabilities: Radiant
-damage_resistances: Acid, Cold, Fire, lightning, thunder; Bludgeoning, Piercing, 
+damage_resistances: Acid, Cold, Fire, lightning, thunder; Bludgeoning, Piercing, and slashing from non-magical attacks
 damage_immunities: 
 condition_immunities: 
 senses: string
