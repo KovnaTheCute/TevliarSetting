@@ -35,15 +35,10 @@ actions:
 - name: Slam.
   desc: "Melee weapon attack: +12 to hit, reach 10ft. One target. Hit: 13 (2d6 + 6) bludgeoning damage."
 - name: Vortex of Flesh (Recharge 5-6).
-  desc: "The Grafted Abomination flails all of its limbs around it in a violent fit of rage. All creatures within 10ft of the grafted Abomination must succeed a DC 20 dexterity saving throw or take 44 (10d8) bludgeoning damage. Creatures that are grappled automatically fail this save. On a success they take half damage."
-legendary_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+  desc: "The Grafted Abomination flails all of its limbs around it in a violent fit of rage. All creatures within 10ft of the grafted Abomination must succeed a DC 20 dexterity saving throw or take 44 (10d8) bludgeoning damage. Creatures that are grappled automatically fail this save. On a success they take half damage." 
 bonus_actions: 
-- name: 
-  desc: 
+- name: Clawing Grasp.
+  desc: "As a bonus action the abomination can attempt to grapple a creature that is large or smaller. The target must succeed a DC 20 Strength or Dexterity saving throw or be grappled. The abomination can grapple up to one large creature, two medium creatures, four small creatures, or eight tiny creatures."
 - name: 
   desc: 
 reactions: 
