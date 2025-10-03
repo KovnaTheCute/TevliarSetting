@@ -54,8 +54,10 @@ traits:
 - name: Camouflage.
   desc: "When motionless and partially buried in the ground, Hookweeds resemble ordinary flowers. Hookweeds cannot attack while camouflaged."
 actions: 
-- name: Hook.
-  desc: "Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the Hookweeds space. Hit: 6 (2d4 + 2) piercing damage."
+- name: Swarm Attack.
+  desc: "The Hookweed swarm makes one melee attack against a creature in its space. Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the Hookweeds space. Hit: 6 (2d4 + 2) piercing damage."
+- name: Engulf.
+  desc: "The Hook Weed Swarm moves up to its speed, and can move through the space of any creature other than a Tiny creature. Any creature whose space the swarm enters must make a DC 12 Dexterity saving throw or take 11 (2d10) piercing damage and become grappled (escape DC 12). Until this grapple ends, the target is restrained, and the Hook Weed Swarm can't use its Engulf on another target."
 ```
 
 ### Description:
