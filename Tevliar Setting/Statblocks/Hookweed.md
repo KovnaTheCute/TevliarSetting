@@ -61,3 +61,11 @@ actions:
 ```
 
 ### Description:
+From a distance, a field of hookweeds looks deceptively ordinary—delicate wildflowers swaying in the wind. But adventurers who linger too long among them risk discovering the flowers’ grisly secret. When prey draws near, hookweeds surge from the soil, their petals splitting apart as two hooked appendages tear free. Their stubby roots writhe like legs, carrying them just enough to latch onto a victim before digging in to feed.
+
+**Predatory Flora.** Hookweeds do not feed on sunlight like ordinary plants. Instead, they drain blood, piercing the flesh of unsuspecting animals and travelers with their jagged hooks. Once they have drained a creature, they root themselves back into the soil, the corpse serving as fertilizer for a new generation of flowers. Patches of earth where hookweeds grow are often littered with bones, but their bright blossoms mask the danger until it is too late.
+
+**Solitary or Swarming.** A lone hookweed is a nuisance, but rarely deadly. However, in places where the soil is rich with blood—ancient battlefields, cursed groves, or unmarked grave sites—hookweeds multiply rapidly. In these places, they rise together in writhing swarms, overwhelming larger prey by sheer numbers. To the untrained eye, a hookweed swarm appears as nothing more than a bed of colorful flowers… until it erupts in a frenzy of tearing hooks.
+
+**Dungeon Master’s Note:**
+Hookweeds are excellent for low-level horror encounters, especially in environments players might otherwise dismiss as harmless. A meadow encounter can quickly turn into a desperate fight when the “flowers” come alive. Use solitary hookweeds as traps or nuisances, and swarms for true threats — especially when paired with terrain that restricts fire, their greatest weakness.
