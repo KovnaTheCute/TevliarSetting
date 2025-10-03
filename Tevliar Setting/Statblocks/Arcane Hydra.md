@@ -40,17 +40,13 @@ actions:
   desc: "The Arcane Hydra exhales a breath of elemental magic in a 30-foot cone. Each creature in that area must make a DC 20 Dexterity saving throw, taking 63 (14d8) damage of a type depending on the head on a failed save, or half as much on a successful one. The damage type is determined as follows: <br> - Fire (Red Head) <br> - Cold (Blue Head) <br> - Necrotic (Green Head) <br> - Force (Purple Head) <br> - Poison (Black Head) <br> - Radiant (White Head) <br> - Thunder (Yellow Head)"
 legendary_actions: 
 - name: Arcane Blast.
-  desc: 
-- name: 
-  desc: 
-bonus_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-reactions: 
-- name: 
-  desc:
+  desc: "The Hydra uses one of its heads to create a blast of arcane energy, making a ranged spell attack against a creature within 60 feet. On a hit, the target takes 22 (4d10) force damage, and the Hydra can push the target up to 15 feet away from it."
+- name: Elemental Surge.
+  desc: "The Hydra unleashes a burst of elemental energy in a 15-foot radius around itself. Each creature in that area must make a DC 19 Dexterity saving throw, taking 22 (4d10) damage of a type based on the heads that are currently active. The Hydra can choose one of the elemental types available from its heads. <br> - Fire (Red Head) <br> - Cold (Blue Head) <br> - Necrotic (Green Head) <br> - Force (Purple Head) <br> - Poison (Black Head) <br> - Radiant (White Head) <br> - Thunder (Yellow Head)"
+- name: Spell Echo (Costs 2 Actions).
+  desc: "The Hydra can use one of its heads to cast a spell from any other head. This can include spells from heads that have died."
+- name: Arcane Static (Costs 3 Actions).
+  desc: "The Hydra unleashes a wave of arcane energy that interferes with spellcasting. A 30ft area around the hydra becomes an antimagic sphere. The hydra is immune to the sphere and is not affected by its influence."
 ```
 
 ### Description:
