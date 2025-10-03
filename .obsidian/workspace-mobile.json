@@ -90,7 +90,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -221,8 +221,9 @@
   },
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
-    "Tevliar Setting/Statblocks/Statblocks.md",
+    "Tevliar Setting/Statblocks/Untitled.md",
     "Tevliar Setting/Statblocks/Hookweed.md",
+    "Tevliar Setting/Statblocks/Statblocks.md",
     "Tevliar Setting/Statblocks/Healing Shadow.md",
     "Tevliar Setting/Statblocks/Grafted Abomination.md",
     "Tevliar Setting/Statblocks/Gravity Wells.md",
