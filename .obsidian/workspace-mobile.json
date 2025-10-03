@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Grafted Abomination.md",
-                "mode": "preview",
+                "file": "Tevliar Setting/Statblocks/Healing Shadow.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Grafted Abomination"
+              "title": "Healing Shadow"
             },
             "group": "8ddba9d477e7d8c0"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Grafted Abomination.md",
+                "file": "Tevliar Setting/Statblocks/Healing Shadow.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -151,7 +151,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tevliar Setting/Statblocks/Grafted Abomination.md",
+            "file": "Tevliar Setting/Statblocks/Healing Shadow.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -222,6 +222,7 @@
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
     "Tevliar Setting/Statblocks/Statblocks.md",
+    "Tevliar Setting/Statblocks/Healing Shadow.md",
     "Tevliar Setting/Statblocks/Grafted Abomination.md",
     "Tevliar Setting/Statblocks/Gravity Wells.md",
     "Tevliar Setting/Statblocks/Devourers of Gravity.md",

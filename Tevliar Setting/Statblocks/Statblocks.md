@@ -18,5 +18,8 @@
 [[Gravity Wells]]
 [[Grafted Abomination]]
 
+# H
+[[Healing Shadow]]
+
 # S
 [[Seeders]]
