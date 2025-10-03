@@ -15,20 +15,16 @@ skillsaves:
 damage_vulnerabilities: Radiant
 damage_resistances: Acid, Cold, Fire, lightning, thunder; Bludgeoning, Piercing, and slashing from non-magical attacks
 damage_immunities: Necrotic, Poison
-condition_immunities: Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned
-senses: string
-languages: string
-cr: Number
-spells: 
-- 
-- 
-- 
--
+condition_immunities: Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
+senses: Darkvision 60 ft., passive perception 11
+languages: Understands the languages it knew in life but can’t speak
+cr: 1/8
 traits: 
-- name: 
-  desc:
-- name: 
-  desc: 
+- name: Amorphous.
+  desc: "The healing shadow can move through a space as narrow as 1 inch without squeezing."
+- name: Sunlight Sensitivity.
+  desc: "While in sunlight, the healing shadow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+
 actions: 
 - name: 
   desc: 
