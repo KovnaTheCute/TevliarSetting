@@ -45,3 +45,63 @@ reactions:
 ```
 
 ### Description:
+  
+
+Grafted Abomination
+
+  
+
+  
+
+Grotesque beyond imagination, a grafted abomination is a towering conglomeration of stolen flesh and stolen souls. Dozens of bodies are fused together in a single monstrous frame, their limbs jutting at odd angles, their faces twisted in eternal screams. Within this seething bulk, the tormented spirits of those used in its creation remain trapped, their voices a maddening chorus that drives the creature into a hatred-fueled frenzy.
+
+  
+
+  
+
+The Necromancer’s Magnum Opus
+
+  
+
+  
+
+No necromantic creation is so ambitious or so dangerous as the grafted abomination. A ritual spanning weeks or even months, its construction demands both forbidden knowledge and an obscene number of corpses. The process is rarely completed successfully; more often than not, the effort consumes its creator. Those who do survive the ritual are left with an instrument of horror: a nearly unstoppable guardian or weapon of war, bound to them by foul sorcery.
+
+  
+
+  
+
+Against the Natural Order
+
+  
+
+  
+
+A grafted abomination is not merely undead, nor wholly alive — it exists in defiance of both states. Its regenerative flesh constantly resists decay, forcing its many bodies to knit and reknit themselves endlessly. This resistance makes it notoriously difficult to kill; unless scourged by fire or radiant power, the abomination simply knits itself back together, rising again and again until nothing remains to oppose it.
+
+  
+
+  
+
+Hatred of the Living
+
+  
+
+  
+
+The amalgamated souls trapped within the abomination’s body are driven mad by their torment. Every breath of the living is agony to them, every heartbeat a reminder of what they have lost. This anguish fuels the abomination’s hunger for destruction, causing it to attack living creatures without thought or hesitation. The hatred is so intense that it radiates outward as a palpable aura of fear — few mortals can stand in its presence without trembling.
+
+  
+
+  
+
+  
+
+  
+
+**Dungeon Master’s Note.**
+The grafted abomination is designed as a high-level set-piece monster: a grotesque terror that can serve as the centerpiece of a necromancer’s lair or the climax of a long-running arc. Its immense durability and regeneration make it a war of attrition against unprepared parties, forcing players to strategize around radiant damage, fire, or specialized tactics to put it down for good. Its fear aura can scatter or immobilize lower-Wisdom characters, while its sheer number of attacks makes it a devastating threat against even seasoned adventurers.
+
+  
+
+When using the abomination, emphasize its horror. Describe the shifting faces screaming from its body, the way a dozen arms flail at once, and the wet tearing sounds as it knits itself back together. If your campaign leans on gothic or cosmic horror themes, the grafted abomination can embody the true consequence of forbidden necromancy — not simply death, but the perversion of life itself.
