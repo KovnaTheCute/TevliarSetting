@@ -2,6 +2,7 @@
 
 # A
 [[Avatars]]
+[[Arcane Hydra]]
 
 # C
 [[Cloudskimmer]]

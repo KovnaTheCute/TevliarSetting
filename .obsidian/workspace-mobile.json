@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Hookweed.md",
-                "mode": "preview",
+                "file": "Tevliar Setting/Statblocks/Arcane Hydra.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Hookweed"
+              "title": "Arcane Hydra"
             },
             "group": "8ddba9d477e7d8c0"
           }
@@ -34,9 +34,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Hookweed.md",
+                "file": "Tevliar Setting/Statblocks/Arcane Hydra.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 5,
                   "localBacklinks": true,
@@ -60,12 +60,12 @@
                   "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 1.23279569892473,
                   "lineSizeMultiplier": 5,
-                  "collapse-forces": true,
-                  "centerStrength": 0.155913978494624,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 303,
-                  "scale": 0.4212492196057393,
+                  "collapse-forces": false,
+                  "centerStrength": 0.462365591397849,
+                  "repelStrength": 14.4086021505376,
+                  "linkStrength": 0.795698924731183,
+                  "linkDistance": 308,
+                  "scale": 0.626923852726696,
                   "close": true
                 }
               },
@@ -151,7 +151,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tevliar Setting/Statblocks/Hookweed.md",
+            "file": "Tevliar Setting/Statblocks/Arcane Hydra.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -221,9 +221,10 @@
   },
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
-    "Tevliar Setting/Statblocks/Untitled.md",
-    "Tevliar Setting/Statblocks/Hookweed.md",
     "Tevliar Setting/Statblocks/Statblocks.md",
+    "Tevliar Setting/Statblocks/Arcane Hydra.md",
+    "Tevliar Setting/Statblocks/Hookweed.md",
+    "Tevliar Setting/Statblocks/Untitled.md",
     "Tevliar Setting/Statblocks/Healing Shadow.md",
     "Tevliar Setting/Statblocks/Grafted Abomination.md",
     "Tevliar Setting/Statblocks/Gravity Wells.md",
