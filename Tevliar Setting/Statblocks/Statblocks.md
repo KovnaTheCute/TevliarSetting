@@ -20,6 +20,7 @@
 
 # H
 [[Healing Shadow]]
+[[Hookweed]]
 
 # S
 [[Seeders]]
