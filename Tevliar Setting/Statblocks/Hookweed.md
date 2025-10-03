@@ -19,27 +19,12 @@ languages: -
 cr: 1/8
 traits: 
 - name: Blood Drain.
-  desc: "A creature subjected to the Hook Weed Swarm's attack takes 5 (2d4) piercing damage at the start of its turn. The bleeding can be stopped by a successful DC 12 Wisdom (Medicine) check or any magical healing. If a creature is reduced to 0 hit points by this damage, it is considered to be bled out and unconscious but stable."
+  desc: "A creature subjected to the Hook Weed attack takes 5 (2d4) piercing damage at the start of its turn. The bleeding can be stopped by a successful DC 12 Wisdom (Medicine) check or any magical healing. If a creature is reduced to 0 hit points by this damage, it is considered to be bled out and unconscious but stable."
 - name: Camouflage.
   desc: "When motionless and partially buried in the ground, Hook Weeds resemble ordinary flowers. Hook Weeds cannot attack while camouflaged."
 actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-legendary_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-bonus_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-reactions: 
-- name: 
-  desc:
+- name: Hook.
+  desc: "Melee Weapon Attack: +4 to hit, reach 0 ft., one target in the Hookweeds space. Hit: 6 (2d4 + 2) piercing damage."
 ```
 
 ### Description:
