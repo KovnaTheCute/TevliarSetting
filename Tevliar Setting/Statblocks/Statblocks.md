@@ -10,6 +10,7 @@
 
 # D
 [[Deathrattles]]
+[[Demonic Hydra]]
 [[Devourers of Gravity]]
 
 # E
