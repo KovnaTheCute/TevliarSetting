@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tevliar Setting/Achievements/Achievement Dashboard.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -221,11 +221,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "bb612d95691fb97f",
+  "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
-    "Tevliar Setting/Achievements/Untitled",
-    "Tevliar Setting/Achievements/Untitled/Achievement Query.md",
+    "Tevliar Setting/Achievements/Achievement List/Achievement Query.md",
     "Tevliar Setting/Achievements/Achievement Dashboard.md",
+    "Tevliar Setting/Achievements/Achievement List",
     "Tevliar Setting/Achievements",
     "Tevliar Setting/DnD Tevliar Setting.md",
     "Tevliar Setting/Statblocks/Devourers of Gravity.md",
