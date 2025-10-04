@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Achievements/Achievement Dashboard.md",
-                "mode": "source",
+                "file": "Tevliar Setting/DnD Tevliar Setting.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Achievement Dashboard"
+              "title": "DnD Tevliar Setting"
             },
             "group": "8ddba9d477e7d8c0"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Achievements/Achievement Dashboard.md",
+                "file": "Tevliar Setting/DnD Tevliar Setting.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
