@@ -24,5 +24,8 @@
 [[Healing Shadow]]
 [[Hookweed]]
 
+# K
+[[Kobold Defender]]
+
 # S
 [[Seeders]]

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Demonic Hydra.md",
-                "mode": "preview",
+                "file": "Tevliar Setting/Statblocks/Kobold Defender.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Demonic Hydra"
+              "title": "Kobold Defender"
             },
             "group": "8ddba9d477e7d8c0"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Demonic Hydra.md",
+                "file": "Tevliar Setting/Statblocks/Kobold Defender.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,6 +224,7 @@
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
     "Tevliar Setting/Statblocks/Statblocks.md",
+    "Tevliar Setting/Statblocks/Kobold Defender.md",
     "Tevliar Setting/Statblocks/Demonic Hydra.md",
     "Tevliar Setting/Statblocks/Arcane Hydra.md",
     "Tevliar Setting/Statblocks/Healing Shadow.md",
