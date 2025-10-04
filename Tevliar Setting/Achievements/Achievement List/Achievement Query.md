@@ -3,10 +3,10 @@
 # 🎖️ Worldbuilding Achievements
 
 ## 🟢 Starter Achievements
-[ ] First Blood 📌 Create your first monster statblock
+- [x] First Blood 📌 Create your first monster statblock
   category:: Starter
   date:: 
-- [ ] Archivist in Training 📌 Transfer 10 notes into the vault
+- [x] Archivist in Training 📌 Transfer 10 notes into the vault
 	category:: Starter
 	date::
 - [ ] The Map Unfolds 📌 Add your first world map or regional map
