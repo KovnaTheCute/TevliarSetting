@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Mechanical Drider.md",
+                "file": "Tevliar Setting/Achievement Query.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mechanical Drider"
+              "title": "Achievement Query"
             },
             "group": "8ddba9d477e7d8c0"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Mechanical Drider.md",
+                "file": "Tevliar Setting/Achievement Query.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,8 +223,10 @@
   },
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
-    "Tevliar Setting/Statblocks/Statblocks.md",
+    "Tevliar Setting/DnD Tevliar Setting.md",
+    "Tevliar Setting/Achievement Query.md",
     "Tevliar Setting/Statblocks/Mechanical Drider.md",
+    "Tevliar Setting/Statblocks/Statblocks.md",
     "Tevliar Setting/Statblocks/Kobold Defender.md",
     "Tevliar Setting/Statblocks/Demonic Hydra.md",
     "Tevliar Setting/Statblocks/Arcane Hydra.md",
@@ -244,11 +246,9 @@
     "Tevliar Setting/Races/Races.md",
     "Tevliar Setting/Races/Isopod.md",
     "Tevliar Setting/Races",
-    "Tevliar Setting/DnD Tevliar Setting.md",
     "Tevliar Setting/Statblocks/Colossal Warforged Titan.md",
     "Tevliar Setting/Statblocks/Avatars.md",
     "Tevliar Setting/Statblocks/Avatar of Turial, God of Death.md",
-    "Tevliar Setting/Statblocks/Avatar of Tiacat, God of Dragons.md",
-    "Tevliar Setting/Statblocks/Avatar of John Mcmuffin, God of Agriculture.md"
+    "Tevliar Setting/Statblocks/Avatar of Tiacat, God of Dragons.md"
   ]
 }
