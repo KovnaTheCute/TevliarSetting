@@ -2,14 +2,13 @@
 
 # 🎖️ Worldbuilding Achievements
 
-```markdown
 ## 🟢 Starter Achievements
 [ ] First Blood 📌 Create your first monster statblock
   category:: Starter
   date:: 
 - [ ] Archivist in Training 📌 Transfer 10 notes into the vault
-  category:: Starter
-  date:: 
+	category:: Starter
+	date::
 - [ ] The Map Unfolds 📌 Add your first world map or regional map
   category:: Starter
   date:: 
@@ -128,4 +127,3 @@
 - [ ] The Great Codex 📌 Create a reference index of your entire world
   category:: Long-Term
   date:: 
-```
