@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Achievement Query.md",
+                "file": "Tevliar Setting/Achievements/Achievement Dashboard.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Achievement Query"
+              "title": "Achievement Dashboard"
             },
             "group": "8ddba9d477e7d8c0"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Achievement Query.md",
+                "file": "Tevliar Setting/Achievements/Achievement Dashboard.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -67,7 +67,7 @@
                   "repelStrength": 14.4086021505376,
                   "linkStrength": 0.795698924731183,
                   "linkDistance": 308,
-                  "scale": 0.37864009422525846,
+                  "scale": 0.8035674793636324,
                   "close": true
                 }
               },
@@ -153,7 +153,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tevliar Setting/Statblocks/Mechanical Drider.md",
+            "file": "Tevliar Setting/Achievements/Achievement Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -221,10 +221,14 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "4e2a067ca9146561",
+  "active": "bb612d95691fb97f",
   "lastOpenFiles": [
+    "Tevliar Setting/Achievements/Untitled",
+    "Tevliar Setting/Achievements/Untitled/Achievement Query.md",
+    "Tevliar Setting/Achievements/Achievement Dashboard.md",
+    "Tevliar Setting/Achievements",
     "Tevliar Setting/DnD Tevliar Setting.md",
-    "Tevliar Setting/Achievement Query.md",
+    "Tevliar Setting/Statblocks/Devourers of Gravity.md",
     "Tevliar Setting/Statblocks/Mechanical Drider.md",
     "Tevliar Setting/Statblocks/Statblocks.md",
     "Tevliar Setting/Statblocks/Kobold Defender.md",
@@ -235,7 +239,6 @@
     "Tevliar Setting/Statblocks/Untitled.md",
     "Tevliar Setting/Statblocks/Grafted Abomination.md",
     "Tevliar Setting/Statblocks/Gravity Wells.md",
-    "Tevliar Setting/Statblocks/Devourers of Gravity.md",
     "Tevliar Setting/Statblocks/Edge Stalker.md",
     "Tevliar Setting/Templates/5E Template.md",
     "Tevliar Setting/Statblocks/Seeders.md",
@@ -247,8 +250,6 @@
     "Tevliar Setting/Races/Isopod.md",
     "Tevliar Setting/Races",
     "Tevliar Setting/Statblocks/Colossal Warforged Titan.md",
-    "Tevliar Setting/Statblocks/Avatars.md",
-    "Tevliar Setting/Statblocks/Avatar of Turial, God of Death.md",
-    "Tevliar Setting/Statblocks/Avatar of Tiacat, God of Dragons.md"
+    "Tevliar Setting/Statblocks/Avatars.md"
   ]
 }
