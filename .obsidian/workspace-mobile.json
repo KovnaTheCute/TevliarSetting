@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Kobold Defender.md",
-                "mode": "preview",
+                "file": "Tevliar Setting/Statblocks/Mechanical Drider.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Kobold Defender"
+              "title": "Mechanical Drider"
             },
             "group": "8ddba9d477e7d8c0"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Kobold Defender.md",
+                "file": "Tevliar Setting/Statblocks/Mechanical Drider.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -67,7 +67,7 @@
                   "repelStrength": 14.4086021505376,
                   "linkStrength": 0.795698924731183,
                   "linkDistance": 308,
-                  "scale": 0.626923852726696,
+                  "scale": 0.37864009422525846,
                   "close": true
                 }
               },
@@ -153,7 +153,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tevliar Setting/Statblocks/Kobold Defender.md",
+            "file": "Tevliar Setting/Statblocks/Mechanical Drider.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -224,6 +224,7 @@
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
     "Tevliar Setting/Statblocks/Statblocks.md",
+    "Tevliar Setting/Statblocks/Mechanical Drider.md",
     "Tevliar Setting/Statblocks/Kobold Defender.md",
     "Tevliar Setting/Statblocks/Demonic Hydra.md",
     "Tevliar Setting/Statblocks/Arcane Hydra.md",
