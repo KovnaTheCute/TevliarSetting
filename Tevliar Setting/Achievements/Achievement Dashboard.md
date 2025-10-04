@@ -17,6 +17,6 @@ dv.paragraph(`Unlocked: ${completed} / Total: ${total} (${percent}%)`);
 
 ```dataview
 TASK
-FROM "Tevliar Setting/Achievements/Achievement List/Achievement Query"
-WHERE category = "Starter"
+FROM "Tevliar Setting/Achievements/Achievement List/Achievement Query.md"
+WHERE category = Starter
 ```

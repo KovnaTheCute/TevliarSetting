@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tevliar Setting/Achievements/Achievement Dashboard.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -221,7 +221,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "4e2a067ca9146561",
+  "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
     "Tevliar Setting/Achievements/Achievement List/Achievement Query.md",
     "Tevliar Setting/Achievements/Achievement Dashboard.md",

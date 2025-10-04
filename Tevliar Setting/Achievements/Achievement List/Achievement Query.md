@@ -5,7 +5,7 @@
 ## 🟢 Starter Achievements
 - [x] First Blood 📌 Create your first monster statblock
   category:: Starter
-  date:: 
+  date:: 04/10/2025
 - [x] Archivist in Training 📌 Transfer 10 notes into the vault
 	category:: Starter
 	date::
