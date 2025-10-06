@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Raptagon.md",
-                "mode": "source",
+                "file": "Tevliar Setting/Statblocks/Rotting Watcher.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Raptagon"
+              "title": "Rotting Watcher"
             },
             "group": "8ddba9d477e7d8c0"
           },
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Raptagon.md",
+                "file": "Tevliar Setting/Statblocks/Rotting Watcher.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +167,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tevliar Setting/Statblocks/Raptagon.md",
+            "file": "Tevliar Setting/Statblocks/Rotting Watcher.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -237,13 +237,14 @@
   },
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
+    "Tevliar Setting/Statblocks/Statblocks.md",
+    "Tevliar Setting/Statblocks/Rotting Watcher.md",
+    "Tevliar Setting/Statblocks/Raptagon.md",
     "Tevliar Setting/Statblocks/Hookweed.md",
     "Tevliar Setting/Statblocks/Cleaning Ooze.md",
-    "Tevliar Setting/Statblocks/Raptagon.md",
     "Tevliar Setting/Statblocks/Avatars.md",
     "Tevliar Setting/Statblocks/Deathrattles.md",
     "Tevliar Setting/Statblocks/Grafted Abomination.md",
-    "Tevliar Setting/Statblocks/Statblocks.md",
     "Tevliar Setting/DnD Tevliar Setting.md",
     "Tevliar Setting/Achievements/Achievement List/Achievement Query.md",
     "Tevliar Setting/Achievements/Achievement Dashboard.md",
@@ -264,7 +265,6 @@
     "Tevliar Setting/Statblocks/Avatar of Chomp, God of Hunger.md",
     "Tevliar Setting/Races/Boulderbugs.md",
     "Tevliar Setting/Races/Races.md",
-    "Tevliar Setting/Races/Isopod.md",
     "Tevliar Setting/Races"
   ]
 }

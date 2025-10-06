@@ -33,6 +33,7 @@
 
 # R
 [[Raptagon]]
+[[Rotting Watcher]]
 
 # S
 [[Seeders]]
