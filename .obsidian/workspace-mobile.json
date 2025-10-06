@@ -22,6 +22,20 @@
               "title": "Raptagon"
             },
             "group": "8ddba9d477e7d8c0"
+          },
+          {
+            "id": "b4c3c5674f4db120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tevliar Setting/Statblocks/Cleaning Ooze.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Cleaning Ooze"
+            }
           }
         ]
       },
@@ -223,11 +237,12 @@
   },
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
+    "Tevliar Setting/Statblocks/Cleaning Ooze.md",
+    "Tevliar Setting/Statblocks/Raptagon.md",
+    "Tevliar Setting/Statblocks/Avatars.md",
     "Tevliar Setting/Statblocks/Deathrattles.md",
     "Tevliar Setting/Statblocks/Grafted Abomination.md",
-    "Tevliar Setting/Statblocks/Raptagon.md",
     "Tevliar Setting/Statblocks/Statblocks.md",
-    "Tevliar Setting/Statblocks/Cleaning Ooze.md",
     "Tevliar Setting/DnD Tevliar Setting.md",
     "Tevliar Setting/Achievements/Achievement List/Achievement Query.md",
     "Tevliar Setting/Achievements/Achievement Dashboard.md",
@@ -250,7 +265,6 @@
     "Tevliar Setting/Races/Boulderbugs.md",
     "Tevliar Setting/Races/Races.md",
     "Tevliar Setting/Races/Isopod.md",
-    "Tevliar Setting/Races",
-    "Tevliar Setting/Statblocks/Colossal Warforged Titan.md"
+    "Tevliar Setting/Races"
   ]
 }
