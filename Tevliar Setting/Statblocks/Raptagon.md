@@ -17,11 +17,11 @@ languages: Draconic
 cr: 4
 traits: 
 - name: Swamp Ambush
-  desc: The Raptagon has advantage on Dexterity (Stealth) checks made in swampy terrain.
+  desc: "The Raptagon has advantage on Dexterity (Stealth) checks made in swampy terrain."
 - name: Pack Tactics
-  desc: The Raptagon has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated.
+  desc: "The Raptagon has advantage on an attack roll against a creature if at least one of its allies is within 5 feet of the creature and the ally isn't incapacitated."
 - name: Flyby
-  desc: The Raptagon doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+  desc: "The Raptagon doesn't provoke opportunity attacks when it flies out of an enemy's reach."
 actions: 
 - name: Multiattack
   desc: The Raptagon makes two attacks: one with its bite and one with its tail.
