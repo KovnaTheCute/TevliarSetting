@@ -5,6 +5,7 @@
 [[Arcane Hydra]]
 
 # C
+[[Cleaning Ooze]]
 [[Cloudskimmer]]
 [[Colossal Warforged Titan]]
 

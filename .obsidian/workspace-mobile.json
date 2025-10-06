@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/DnD Tevliar Setting.md",
+                "file": "Tevliar Setting/Statblocks/Cleaning Ooze.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DnD Tevliar Setting"
+              "title": "Cleaning Ooze"
             },
             "group": "8ddba9d477e7d8c0"
           }
@@ -36,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/DnD Tevliar Setting.md",
+                "file": "Tevliar Setting/Statblocks/Cleaning Ooze.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,14 +223,15 @@
   },
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
+    "Tevliar Setting/Statblocks/Statblocks.md",
+    "Tevliar Setting/Statblocks/Cleaning Ooze.md",
+    "Tevliar Setting/DnD Tevliar Setting.md",
     "Tevliar Setting/Achievements/Achievement List/Achievement Query.md",
     "Tevliar Setting/Achievements/Achievement Dashboard.md",
     "Tevliar Setting/Achievements/Achievement List",
     "Tevliar Setting/Achievements",
-    "Tevliar Setting/DnD Tevliar Setting.md",
     "Tevliar Setting/Statblocks/Devourers of Gravity.md",
     "Tevliar Setting/Statblocks/Mechanical Drider.md",
-    "Tevliar Setting/Statblocks/Statblocks.md",
     "Tevliar Setting/Statblocks/Kobold Defender.md",
     "Tevliar Setting/Statblocks/Demonic Hydra.md",
     "Tevliar Setting/Statblocks/Arcane Hydra.md",
