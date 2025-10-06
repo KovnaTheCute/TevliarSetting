@@ -34,3 +34,13 @@ actions:
 ```
 
 ### Description:
+Silent, gelatinous, and endlessly industrious, cleaning oozes are the harmless cousins of the more dangerous slimes and puddings that haunt dungeon corridors. Created through alchemical accident or magical experimentation, these small, semitransparent blobs are now prized by nobles, mages, and temple caretakers alike for their impeccable housekeeping abilities.
+
+**Living Tools.** Cleaning oozes possess no true intelligence or will of their own, but they instinctively seek out filth, grime, and organic residue to dissolve and absorb. They leave behind polished stone, gleaming metal, and spotless marble floors wherever they pass.
+
+**Servants of Nobility.** In the great estates of the wealthy, cleaning oozes are often kept as living tools, guided through halls and corridors by servants wielding simple whistles or enchanted rods that repel them from sensitive areas. Despite their usefulness, they can be dangerous when left unattended—more than one noble has awoken to find a family pet or decorative carpet half-dissolved by an overzealous ooze.
+
+**Perfectly Harmless—Usually.** Though docile and non-aggressive, cleaning oozes can lash out if disturbed or cornered, using their pseudopods to push intruders away or engulf them in self-defense. Fortunately, their acidic secretions are weak and rarely lethal unless ignored.
+
+**DM’s Note:**
+Cleaning oozes are ideal for low-level parties to encounter in environments like castles, temples, or wizard’s towers. They make excellent flavor encounters—perhaps mistaken for a dangerous ooze at first—or can be used as hazards in stealth or exploration-focused adventures. A cleaning ooze might block a narrow passage, alert guards by making a mess of a stealthy character’s boots, or even dissolve important evidence before the party can find it. Creative players might attempt to capture and keep one, but controlling it without magical tools could lead to comedic (and destructive) results.
