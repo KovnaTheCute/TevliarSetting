@@ -44,4 +44,4 @@ Rotting Watchers are pitiful undead servants—living conduits of a necromancer�
 **DM’s Note:**
 Rotting Watchers are best used as eerie foreshadowing tools rather than direct threats. Encountering one suggests a necromancer’s presence nearby, perhaps watching the adventurers even now. Their unnerving appearance and tragic servitude can add a sense of dread to necromantic lairs or cursed ruins.
 
-If the party captures a rotting watcher, communication is difficult but possible through magic. Revealing the watcher’s torment—and its inability to see despite its many eyes—can serve as a powerful moment of horror or pity, grounding the necromancer’s evil in something deeply personal.
+If the party captures a rotting watcher, communication is difficult but possible through magic. Revealing the watcher’s torment—and its inability to see despite its many eyes—can serve as a powerful moment of horror or pity, grounding the necromancer’s evil in something deeply.
