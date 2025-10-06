@@ -31,5 +31,8 @@
 # M
 [[Mechanical Drider]]
 
+# R
+[[Raptagon]]
+
 # S
 [[Seeders]]
