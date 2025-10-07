@@ -24,6 +24,8 @@ cr: 3
 traits: 
 - name: Amphibious.
   desc: "The Sharkman can breath both air and water."
+- name: Blood Frenzy.
+  desc: "The Sharkman has advantage on melee attack rolls against any creature that doesn't have all its hit points."
 - name: Shark Scent.
   desc: "The Sharkman can smell blood in the water from up to 1 mile away. In water, it can track creatures that are bleeding as if it had the Hunter’s Mark spell on them."
 actions: 
@@ -39,38 +41,28 @@ actions:
 
 ```statblock 
 layout: Basic 5e 
-name: 
-size: 
-type: 
-subtype: 
-alignment: 
-ac: Number
-hp: Number
-hit_dice: 
-speed: 
-stats: 
-fage_stats: 
+name: Elite Sharkman
+size: Medium
+type: Humanoid
+alignment: Neutral Evil 
+ac: 18 (Natural Armor, Shield)
+hp: 85
+hit_dice: 10d8 + 40
+speed: 30 ft., swim 40 ft.
+stats: [18, 16, 18, 12, 14, 10]
 saves: 
-- dash: 
-- potato: 
-- stew: 
+- Strength: +7
+- Constitution: +7
+- Wisdom: +5
 skillsaves: 
-- fake-skill: 
-- turtle: 
-damage_vulnerabilities: 
-damage_resistances: 
-damage_immunities: 
-condition_immunities: 
-senses: string
-languages: string
-cr: Number
-spells: 
-- 
-- 
-- 
--
+- Perception: +5
+- Intimidation: +3 
+damage_resistances: Cold; Bludgeoning, Piercing, and Slashing from non-magical attacks. 
+senses: Darkvision 60 ft., Passive perception 15
+languages: Common, Aquan
+cr: 5
 traits: 
-- name: 
+- name: Amphibious
   desc:
 - name: 
   desc: 
