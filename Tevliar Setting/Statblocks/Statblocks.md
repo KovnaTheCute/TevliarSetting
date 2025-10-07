@@ -30,6 +30,7 @@
 
 # M
 [[Mechanical Drider]]
+[[Miniature Bell Beast (Hollow Knight)]]
 
 # R
 [[Raptagon]]
