@@ -62,15 +62,23 @@ senses: Darkvision 60 ft., Passive perception 15
 languages: Common, Aquan
 cr: 5
 traits: 
-- name: Amphibious
-  desc:
-- name: 
-  desc: 
+- name: Amphibious.
+  desc: "The Elite Sharkman can breath both air and water."
+- name: Blood Frenzy.
+  desc: "The Elite Sharkman has advantage on melee attack rolls against any creature that doesn't have all its hit points."
+- name: Shark Scent.
+  desc: "The Elite Sharkman can smell blood in the water from up to 1 mile away. In water, it can track creatures that are bleeding as if it had the Hunter’s Mark spell on them."
+- name: Tactical Advantage.
+  desc: "When the Elite Sharkman takes the Attack action, it can make one additional weapon attack as a bonus action. If it hits a creature that is below half its hit points, the attack deals an additional 7 (2d6) damage."
 actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+- name: Multiattack.
+  desc: "The Elite Sharkman makes three attacks: One with its bite and two with the Shortsword or shortbow."
+- name: Bite.
+  desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 4) piercing damage."
+- name: Shortsword.
+  desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 4) piercing damage."
+- name: Shortbow.
+  desc: "Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 7 (1d6 + 3) piercing damage."
 legendary_actions: 
 - name: 
   desc: 
