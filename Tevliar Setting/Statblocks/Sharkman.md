@@ -79,19 +79,9 @@ actions:
   desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 4) piercing damage."
 - name: Shortbow.
   desc: "Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 7 (1d6 + 3) piercing damage."
-legendary_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-bonus_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
 reactions: 
-- name: 
-  desc:
+- name: Parry.
+  desc: "The Elite Sharkman adds +3 to its AC against one melee attack that would hit it. To do so, the Sharkman must see the attacker and be wielding a melee weapon."
 ```
 
 ### Description:
