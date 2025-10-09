@@ -2,23 +2,21 @@
 ```statblock 
 layout: Basic 5e 
 name: Smilester
-size: 
-type: 
-subtype: 
-alignment: 
-ac: Number
-hp: Number
-hit_dice: 
-speed: 
-stats: 
-fage_stats: 
+size: Large
+type: Abberation
+alignment: Chaotic Evil
+ac: 15 (Natural Armor)
+hp: 120
+hit_dice: 16d10 + 32
+speed: 0 ft., fly 40 ft. (Hover)
+stats: [10, 16, 14, 18, 12, 20]
 saves: 
-- dash: 
-- potato: 
-- stew: 
+- Dexterity: +6
+- Intelligence: +8
+- Charisma: +9
 skillsaves: 
-- fake-skill: 
-- turtle: 
+- Deception: +9
+- : 
 damage_vulnerabilities: 
 damage_resistances: 
 damage_immunities: 
