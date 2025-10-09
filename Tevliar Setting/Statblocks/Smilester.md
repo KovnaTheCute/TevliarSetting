@@ -16,16 +16,15 @@ saves:
 - Charisma: +9
 skillsaves: 
 - Deception: +9
-- : 
-damage_vulnerabilities: 
-damage_resistances: 
-damage_immunities: 
-condition_immunities: 
-senses: string
-languages: string
-cr: Number
+- Perception: +5
+- Stealth: +6
+damage_resistances: Psychic
+condition_immunities: Charmed, Frightened
+senses: Darkvision 120 ft., passive perception 15
+languages: Deep Speech, telepathy 120 ft.
+cr: 7
 spells: 
-- 
+- The smilesters innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:"
 - 
 - 
 -
