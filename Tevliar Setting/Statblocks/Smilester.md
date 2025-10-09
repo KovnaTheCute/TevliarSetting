@@ -25,17 +25,15 @@ languages: Deep Speech, telepathy 120 ft.
 cr: 7
 spells: 
 - The smilesters innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:"
-- 
-- 
--
+- "At will: Minor illusion, silent image, vicious mockery, silvery barbs"
+- "3/day each: Major Image, Phantasmal Force, Tasha's Hideous Laughter"
+- "1/day each: Dream, Dispel Magic"
 traits: 
-- name: 
-  desc:
-- name: 
-  desc: 
+- name: Amorphous.
+  desc: "The Smilester can move through a space as narrow as 1 inch wide without squeezing."
 actions: 
-- name: 
-  desc: 
+- name: Multiattack.
+  desc: "The Smilester makes two attacks: one with its pseudopod and one with its horns."
 - name: 
   desc: 
 legendary_actions: 
