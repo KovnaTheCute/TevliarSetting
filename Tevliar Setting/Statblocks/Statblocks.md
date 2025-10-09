@@ -42,4 +42,4 @@
 [[Smilester]]
 
 # T
-[[Twisted Abomination]]
+[[Twisting Abomination]]
