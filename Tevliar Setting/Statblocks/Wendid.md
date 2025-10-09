@@ -30,14 +30,17 @@ cr: 15
 traits: 
 - name: Charge.
   desc: "If the Wendid moves at least 30ft straight towards a target and hits them with a gore attack on the same turn the target takes an extra 10(3d6)  piercing damage."
-- name: 
-  desc: 
+- name: Ambusher.
+  desc: "In the first turn of combat the Wendid has advantage on attack rolls on any creatures it surprised."
+- name: Blood Frenzy.
+  desc: "The Wendid has advantage on melee attack rolls against any creature that doesn't have all its hitpoints."
+- name: Apex Predetor.
+  desc: "The Wendid has advantage on Wisdom(Perception) checks that require hearing or smell. The Wendid can also sense the general location of injured/bleeding creatures within a 600ft radius."
 actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-legendary_actions: 
+- name: Multiattack.
+  desc: "The Wendid makes up to 5 attacks. 4 with its claws and 1 with either its Numbing Bite, Gore, or Winters Breath"
+- name: Claws.
+  desc: "Melee weapon attack: +13 to hit, reach 5ft., one target. Hit: 15 (2d6 + 8) slashing Damage." 
 - name: 
   desc: 
 - name: 
