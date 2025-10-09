@@ -43,7 +43,20 @@ actions:
 ```
 
 ### Description:
+A Smilester is a grotesque, levitating aberration that drifts like a phantom through the husks of forgotten places. Its bulbous, purple body glistens with an oily sheen, tapering to a rounded point like a warped, oversized jalapeño. From its smooth surface protrude a jagged grin of glimmering ivory teeth and curling black horns that drip with illusory shadow. Its laughter echoes endlessly through the empty halls it haunts—soft at first, then deafening, until it claws into the mind.
 
+**Eaters of Lost Souls.** Smilesters sustain themselves on the essence of mortal souls, feeding on terror, despair, and the fragile threads of sanity. They do not kill their prey outright; rather, they savor them slowly. When a creature enters their domain, the Smilester draws out the hunt—tormenting victims with hallucinations, laughter, and false hope. Each scream, each tear of fear, nourishes the abomination’s hunger far more deeply than flesh ever could.
+
+**Masters of Illusion and Deceit.** Gifted with cruel intelligence and powerful innate magic, a Smilester prefers manipulation to combat. It weaves dreams of opulence and safety, luring travelers to ruined manors, silent temples, or sunken keeps. Once within its reach, it warps their perception with vivid illusions—glimmering treasure chests, familiar faces, or doors that lead only in circles. These phantasms are so convincing that many victims die in confusion, never realizing they were consumed before waking.
+
+**Corruptors of Forgotten Places.** When a Smilester chooses a lair, it infests every shadow with its will. The walls whisper, the floors pulse, and the air grows thick with psychic residue. The structure itself bends subtly to the creature’s desires—stairs that never end, doors that open to nowhere, windows that show the smiling face of the beast instead of the outside world. Those who linger too long begin to dream of it nightly, hearing its mirth in their sleep until they cannot resist returning.
+
+**The Sound of Laughter.** A Smilester’s laughter is both its signature and its weapon. The sound crawls through the mind, igniting dread or delirium depending on the listener’s resolve. Even after its victims perish, echoes of that laughter remain, haunting the ruins like a curse. Scholars of the Far Realms whisper that the Smilesters are not born but _manifested_—thoughtforms of collective madness, laughter given flesh by something beyond mortal comprehension.
+
+**DM’s Note:**
+The Smilester excels as a **psychological horror encounter** rather than a straightforward fight. Use it in **abandoned mansions, derelict ships, or haunted temples**, where its illusions and dream manipulation can isolate the party. Focus on atmosphere—distorted laughter, shifting hallways, and subtle visions that blur reality. In combat, the Smilester’s charm and illusion abilities can divide or incapacitate players before striking. For a longer arc, let the creature appear first in the party’s dreams, gradually tightening its grip until the final confrontation blurs the line between nightmare and waking world.
+
+---
 
 **Lair Actions**
 On initiative count 20 (losing initiative ties), the Smilester takes a lair action to cause one of the following effects:
