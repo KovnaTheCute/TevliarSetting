@@ -107,3 +107,20 @@ actions:
 ```
 
 ### Description:
+The Cult of the Untethered is a blasphemous sect devoted to the worship of the _Devourers of Gravity_—alien entities believed to exist in the void between worlds, where light and matter collapse into nothing. To their followers, these beings are not destroyers, but liberators—freedom given form, unbound by the laws that chain mortals to gods, earth, and reason.
+
+**Defiers of the Pantheon.** The cult’s doctrine rejects the ordered pantheon entirely. They teach that gravity, the most omnipresent force of the cosmos, is a divine lie—an invisible leash that binds all creation to servitude. To fall, to be pulled, to obey the weight of one’s god or one’s soul, they claim, is the truest form of submission. The Untethered seek to break this law, both physically and spiritually, through rituals that erase the boundaries between body and void.
+
+**The Pull of the Void.** Worshipers often gather in abandoned towers, crumbling spires, or cliffside shrines, where they meditate while suspended upside down, their bodies wrapped in black cords. The most devout wear masks shaped like inverted stars or hollow spheres, symbolizing their rejection of the “downward pull” of divinity. Their ceremonies are quiet, rhythmic affairs, broken only by low humming meant to mimic the tremors of collapsing space.
+
+**Hierarchy of the Untethered.** At the lowest ranks are ordinary cultists—zealous converts who practice small acts of rebellion against gravity: levitation tricks, inverted prayers, and ritual fasting while hanging from ceilings. Above them stand the fanatics, those who have begun to feel the pull of the void in their bones. They wield minor gravitational magics and act as enforcers and preachers of the faith.
+
+At the cult’s apex stand the leaders, known as the _Unbound_. These individuals claim to hear whispers from the Devourers themselves, guiding them in the art of unmaking. When angered, they can warp the air around them, causing blades to curve and foes to stumble as though the ground itself refuses to hold them.
+
+**Servants of Collapse.** To outsiders, the Cult of the Untethered is a dangerous aberration—half mystic, half anarchist. They are often hunted by clerics of the pantheon and inquisitors who see their existence as heresy against divine law. Yet their numbers continue to grow, drawn by promises of freedom from weight, sin, and consequence.
+
+Those who fall too deep into their teachings rarely return the same. Some are found floating lifeless in their shrines, their faces serene as though finally freed from all things that hold them down. Others simply vanish—devoured by the unseen gravity of their false gods, leaving only their shadows behind.
+
+---
+**DM’s Note:**  
+The Cult of the Untethered works best as an insidious threat that begins as a strange philosophical movement and slowly unravels into cosmic horror. Their worship of the Devourers of Gravity can introduce eerie phenomena—levitating stones, inverted corpses, or temples where sound and motion distort. Whether their “gods” are true entities or unstable gravitational anomalies is left to the Dungeon Master’s discretion, but their presence should signal a breakdown of natural order, making every encounter with the cult feel like a step closer to a world no longer bound by its own laws.
