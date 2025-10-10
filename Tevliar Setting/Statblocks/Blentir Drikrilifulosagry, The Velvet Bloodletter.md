@@ -35,10 +35,11 @@ traits:
 - name: Relentless Endurance.
   desc: "When Blentir is reduced to 0 hit points, he can make a DC 15 Constitution saving throw or a save equal to the damage taken (Whichever is higher). On a success, he drops to 1 hit point instead."
 actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+- name: Multiattack.
+  desc: "Blentir makes four attacks: two with Shroud of Despair and two with Blade of Devotion."
+- name: Shroud of Despair (Right Hand, Sickle).
+  desc: "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 6) slashing damage plus 7 (2d6) necrotic damage. If Blentir kills a creature with this attack, enemies within 30 feet must succeed on a DC 18 Wisdom saving throw or become Frightened for 1 minute."
+- name: Blade of Devotion
 legendary_actions: 
 - name: 
   desc: 
