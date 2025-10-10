@@ -39,7 +39,10 @@ actions:
   desc: "Blentir makes four attacks: two with Shroud of Despair and two with Blade of Devotion."
 - name: Shroud of Despair (Right Hand, Sickle).
   desc: "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 6) slashing damage plus 7 (2d6) necrotic damage. If Blentir kills a creature with this attack, enemies within 30 feet must succeed on a DC 18 Wisdom saving throw or become Frightened for 1 minute."
-- name: Blade of Devotion
+- name: Blade of Devotion (Left Hand, Sickle).
+  desc: "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 12 (1d8 + 6) slashing damage plus 7 (2d6) psychic damage. The target must succeed on a DC 18 Intelligence saving throw or become Charmed for 1 minute. Blentir can end the charm early to deal 14 (4d6) psychic damage."
+- name: Velvet Frenzy (Recharge 5-6).
+  desc: "Blentir slashes wildly in a 10-foot radius around him. Each creature must make a DC 18 Dexterity saving throw, taking 44 (8d8) slashing damage on a failed save or half as much on a successful one."
 legendary_actions: 
 - name: 
   desc: 
