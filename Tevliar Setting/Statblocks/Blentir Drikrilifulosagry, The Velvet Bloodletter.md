@@ -64,3 +64,13 @@ reactions:
 ```
 
 ### Description:
+Among the endless corpses of the Great Slaughter, one name was whispered in equal terror by both fiends and mortals—_Blentir Drikrilifulosagry_, the Velvet Bloodletter. Neither wholly demon nor wholly devil, Blentir was born of an impossible union between infernal order and abyssal chaos. His existence defies the rigid laws of both Hells and Abyss, and his mere presence ignites ancient rivalries. From afar, Blentir might be mistaken for a berserker of the lower planes—lean, sinewed, and soaked in crimson—but closer inspection reveals the grotesque truth: his flesh is torn and stretched by the black iron spikes that tear out through his flesh, as though his own body rejects its unholy essence.
+
+**More then Mindless Slaughter.** His skull, stripped of flesh and etched with runes of both divine and profane origin, burns with twin infernos in its eye sockets. Every death he suffers is only a pause, for his soul is trapped within that unbreakable skull—an eternal prison that can call him back to unlife. Warlocks of cruel ambition seek it, whispering his full name thrice to restore his body and bargain for slaughter. Blentir, though a creature of endless rage, possesses a twisted eloquence. Between battles, he speaks of balance and mercy, offering deals of strength, vengeance, and carnage to those desperate enough to answer his whispers. His voice in the mind is velvet smooth—his touch, pure ruin.
+
+**Twin Sickles of Carnage.** When he returns to flesh, Blentir wields two sickles of opposed origin: the _Shroud of Despair_, forged in the screaming dark of the Abyss, and the _Blade of Devotion_, tempered in the burning order of Hell. Together they mirror his soul—a perfect and blasphemous union of torment and control. To fight him is to face the will of two planes made flesh, and to kill him is only to feed the cycle, for Blentir always rises, grinning through his bone mask, ready to drown another world in velvet blood.
+
+---
+
+**DM’s Note:**  
+Blentir Drikrilifulosagry can serve as a recurring nemesis, warlock patron, or the catalyst for infernal conflict. His skull might be discovered as a forbidden relic, its voice offering power at an unbearable cost. Whether he appears as a summoned ally or resurrected destroyer, Blentir’s presence should signal the collapse of order—his every appearance a violent merging of infernal precision and demonic chaos. He embodies temptation through power and persistence through death, making him an ideal force of corruption that players can fight, fear, or foolishly bargain with.**
