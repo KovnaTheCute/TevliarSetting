@@ -28,4 +28,7 @@ actions:
 
 ### Description:
 
-**Spell Lists **
+**Spell Lists:**
+Necrotic Acolyte:
+- Cantrips (at will): toll the dead, chill touch, vicious mockery
+- 1st level (3 slots): hex, healing word, ray of sickness
