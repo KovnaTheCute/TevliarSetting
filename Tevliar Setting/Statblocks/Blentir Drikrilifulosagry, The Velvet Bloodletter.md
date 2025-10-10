@@ -53,7 +53,7 @@ legendary_actions:
 - name: "If Blentir is in his berserk state he has access to the following legendary actions isntead:"
   desc: 
 - name: Flurry of blades.
-  desc: "Blentir uses his Velvet Frenzy action. If it is recharged the charge is not used."
+  desc: "Blentir uses his Velvet Frenzy action regardless of if it is available or not."
 - name: Absolute Terror (Costs 2 Actions).
   desc: "Blentir lets out a violent roar, forcing all creatures within 60 feet to make a DC 24 Wisdom saving throw or be frightened until the end of their next turn."
 - name: Frenzied State (Costs 3 Actions).
@@ -65,6 +65,8 @@ reactions:
 
 ### Description:
 Among the endless corpses of the Great Slaughter, one name was whispered in equal terror by both fiends and mortals—_Blentir Drikrilifulosagry_, the Velvet Bloodletter. Neither wholly demon nor wholly devil, Blentir was born of an impossible union between infernal order and abyssal chaos. His existence defies the rigid laws of both Hells and Abyss, and his mere presence ignites ancient rivalries. From afar, Blentir might be mistaken for a berserker of the lower planes—lean, sinewed, and soaked in crimson—but closer inspection reveals the grotesque truth: his flesh is torn and stretched by the black iron spikes that tear out through his flesh, as though his own body rejects its unholy essence.
+
+**All that Bleed.** In battle, Blentir’s composure dissolves into pure, unrestrained carnage. The moment blood is drawn, his reason vanishes beneath a torrent of violence—an eruption of hatred that transcends allegiance or logic. Friend and foe alike are nothing more than vessels to be emptied, their screams drowned beneath the wet rhythm of his twin sickles. In this state, Blentir becomes a living calamity, driven by an ancient fury born of his fractured soul. His rampage can last for hours, his every movement fueled by a twisted ecstasy of slaughter, and only when the ground is slick with blood and no pulse remains to be stilled does his fury wane, leaving him standing amidst ruin—silent, trembling, and drenched in the crimson proof of his own damnation.
 
 **More then Mindless Slaughter.** His skull, stripped of flesh and etched with runes of both divine and profane origin, burns with twin infernos in its eye sockets. Every death he suffers is only a pause, for his soul is trapped within that unbreakable skull—an eternal prison that can call him back to unlife. Warlocks of cruel ambition seek it, whispering his full name thrice to restore his body and bargain for slaughter. Blentir, though a creature of endless rage, possesses a twisted eloquence. Between battles, he speaks of balance and mercy, offering deals of strength, vengeance, and carnage to those desperate enough to answer his whispers. His voice in the mind is velvet smooth—his touch, pure ruin.
 
