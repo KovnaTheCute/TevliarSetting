@@ -98,27 +98,12 @@ languages: Any one language (Ussually Common)
 cr: 1/8
 traits: 
 - name: Dark Devotion.
-  desc: ""
-- name: 
-  desc: 
+  desc: "The cultist has advantage on saving throws against being charmed or frightened."
+- name: Gravity Affinity.
+  desc: "The cultist has advantage on saving throws against being moved or restrained and has a climbing speed equal to its walking speed."
 actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-legendary_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-bonus_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-reactions: 
-- name: 
-  desc:
+- name: Dagger.
+  desc: "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage."
 ```
 
 ### Description:
