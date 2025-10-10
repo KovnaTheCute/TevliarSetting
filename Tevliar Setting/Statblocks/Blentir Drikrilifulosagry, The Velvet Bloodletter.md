@@ -50,7 +50,12 @@ legendary_actions:
   desc: "Blentir channels demonic energy, forcing all creatures within 30 feet to make a DC 18 Wisdom saving throw or be Frightened until the end of their next turn."
 - name: Warped Charisma (Costs 3 Actions).
   desc: "Blentir forces a creature he can see within 30 feet to make a DC 18 Charisma saving throw or be Charmed and Frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns."
-- name: 
+- name: "If Blentir is in his berserk state he has access to the following legendary actions isntead:"
+  desc: 
+- name: Flurry of blades.
+  desc: "Blentir uses his Velvet Frenzy action. If it is recharged the charge is not used."
+- name: Absolute Terror (Costs 2 Actions).
+  desc: "Blentir lets out a violent roar, forcing all creatures within 60 feet to make a DC 24 Wisdom saving throw or be frightened until the end of their next turn. Any creatures frightened this way are vulnerable to all damage (A creature that has resis."
 bonus_actions: 
 - name: 
   desc: 
