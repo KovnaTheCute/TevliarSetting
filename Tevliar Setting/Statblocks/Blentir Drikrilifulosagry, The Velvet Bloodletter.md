@@ -44,10 +44,13 @@ actions:
 - name: Velvet Frenzy (Recharge 5-6).
   desc: "Blentir slashes wildly in a 10-foot radius around him. Each creature must make a DC 18 Dexterity saving throw, taking 44 (8d8) slashing damage on a failed save or half as much on a successful one."
 legendary_actions: 
+- name: Sickle Strike.
+  desc: "Blentir makes one attack with Shroud of Despair or Blade of Devotion."
+- name: Rising Dread (Costs 2 Actions).
+  desc: "Blentir channels demonic energy, forcing all creatures within 30 feet to make a DC 18 Wisdom saving throw or be Frightened until the end of their next turn."
+- name: Warped Charisma (Costs 3 Actions).
+  desc: "Blentir forces a creature he can see within 30 feet to make a DC 18 Charisma saving throw or be Charmed and Frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns."
 - name: 
-  desc: 
-- name: 
-  desc: 
 bonus_actions: 
 - name: 
   desc: 
