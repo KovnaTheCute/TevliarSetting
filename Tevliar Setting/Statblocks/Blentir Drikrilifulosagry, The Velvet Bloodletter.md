@@ -33,7 +33,7 @@ traits:
 - name: Unholy Balance.
   desc: "Blentir’s sickles are opposites, the shroud of despair being demonic in nature and the blade of devotion being devilish. If Blentir deals damage with the Shroud of Despair and the Blade of Devotion in the same round, he gains temporary hit points equal to the total damage dealt by both sickles."
 - name: Relentless Endurance.
-  desc: **When Blentir is reduced to 0 hit points, he can make a DC 15 Constitution saving throw. On a success, he drops to 1 hit point instead. This ability can be used once per long rest.
+  desc: "When Blentir is reduced to 0 hit points, he can make a DC 15 Constitution saving throw or a save equal to the damage taken (Whichever is higher). On a success, he drops to 1 hit point instead."
 actions: 
 - name: 
   desc: 
