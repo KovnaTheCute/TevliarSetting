@@ -74,6 +74,37 @@ actions:
 - name: Multiattack.
   desc: "The cult fanatic makes two melee attacks."
 - name: Dagger.
+  desc: "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d4 + 1) piercing damage."
+```
+
+```statblock 
+layout: Basic 5e 
+name: Cultist of the Untethered
+size: Medium
+type: Humanoid
+subtype: (Any race)
+alignment: Chaotic Neutral
+ac: 12
+hp: 9
+hit_dice: 2d8
+speed: 30 ft.
+stats: 11, 12, 10, 10, 11, 10
+fage_stats: 
+skillsaves: 
+- Religion: +2
+- Deception: +2 
+senses: Passive Perception
+languages: Any one language (Ussually Common)
+cr: 1/8
+traits: 
+- name: Dark Devotion.
+  desc: ""
+- name: 
+  desc: 
+actions: 
+- name: 
+  desc: 
+- name: 
   desc: 
 legendary_actions: 
 - name: 
