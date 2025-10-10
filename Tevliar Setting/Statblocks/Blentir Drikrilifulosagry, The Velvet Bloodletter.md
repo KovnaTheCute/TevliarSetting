@@ -55,15 +55,12 @@ legendary_actions:
 - name: Flurry of blades.
   desc: "Blentir uses his Velvet Frenzy action. If it is recharged the charge is not used."
 - name: Absolute Terror (Costs 2 Actions).
-  desc: "Blentir lets out a violent roar, forcing all creatures within 60 feet to make a DC 24 Wisdom saving throw or be frightened until the end of their next turn. Any creatures frightened this way are vulnerable to all damage (A creature that has resis."
-bonus_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+  desc: "Blentir lets out a violent roar, forcing all creatures within 60 feet to make a DC 24 Wisdom saving throw or be frightened until the end of their next turn."
+- name: Frenzied State (Costs 3 Actions).
+  desc: "Blentir shifts his initiative count to when this action is taken. Blentir then takes his turn normally but doesn’t regain his legendary actions until his next turn."
 reactions: 
-- name: 
-  desc:
+- name: Reckless Counter.
+  desc: "When a creature hits Blentir with a melee attack, he can make an attack with Shroud of Despair or Blade of Devotion. If Blentir is in his Berserk state he can make 4 attacks (two attacks with each sickle)"
 ```
 
 ### Description:
