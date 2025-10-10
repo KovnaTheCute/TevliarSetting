@@ -3,3 +3,5 @@
 [[Monsters]]
 
 [[Beasts]]
+
+[[NPC's]]
