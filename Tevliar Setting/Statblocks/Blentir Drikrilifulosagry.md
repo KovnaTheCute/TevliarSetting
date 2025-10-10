@@ -1,25 +1,26 @@
 #Statblock 
 ```statblock 
 layout: Basic 5e 
-image: 
-name: 
-size: 
-type: 
-subtype: 
-alignment: 
-ac: Number
-hp: Number
-hit_dice: 
-speed: 
-stats: 
+name: Blentir Drikrilifulosagry
+size: Medium
+type: Fiend
+alignment: Chaotic Evil
+ac: 18 (Natural Armor)
+hp: 256
+hit_dice: 27d8 +135
+speed: 40 ft.
+stats: [22, 18, 20, 12, 10, 18]
 saves: 
-- dash: 
-- potato: 
-- stew: 
+- Strength: +12
+- Constitution: +11
+- Dexterity: +10
+- Charisma: +10
 skillsaves: 
-- fake-skill: 
-- turtle: 
-damage_vulnerabilities: 
+- Intimidation: +10
+- Perception: +6
+- Persuasion: +10
+- Deception: +10
+damage_vulnerabilities: Radiant 
 damage_resistances: 
 damage_immunities: 
 condition_immunities: 

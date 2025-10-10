@@ -6,4 +6,4 @@
 
 [[NPC's]]
 
-Characte
+[[Characters]]
