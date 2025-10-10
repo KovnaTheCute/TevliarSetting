@@ -42,45 +42,38 @@ bonus_actions:
 
 ```statblock 
 layout: Basic 5e 
-name: Cult Fanatic of the 
-size: 
-type: 
-subtype: 
-alignment: 
-ac: Number
-hp: Number
-hit_dice: 
-speed: 
-stats: 
-fage_stats: 
+name: Cult of the Untethered Fanatic
+size: Medium
+type: Humanoid
+subtype: (Any race)
+alignment: chaotic neutral
+ac: 12
+hp: 33
+hit_dice: 6d8 + 6
+speed: 30 ft.
+stats: [11, 12, 12, 10, 14, 11]
 saves: 
-- dash: 
-- potato: 
-- stew: 
+- Wisdom: +4
 skillsaves: 
-- fake-skill: 
-- turtle: 
-damage_vulnerabilities: 
-damage_resistances: 
-damage_immunities: 
-condition_immunities: 
-senses: string
-languages: string
-cr: Number
+- Religion: +2
+- Insight: +4 
+senses: Passive Perception 12
+languages: Any one language (Ussually Common)
+cr: 1/8
 spells: 
-- 
-- 
-- 
--
+- "The cult fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The cult fanatic has the following cleric spells prepared:"
+- "Cantrips (at will): mage hand, prestidigitation, thunderclap"
+- "1st level (4 slots): command, catapult, mage armor"
+- "2nd level (3 slots): hold person, spiritual weapon"
 traits: 
-- name: 
-  desc:
-- name: 
-  desc: 
+- name: Dark Devotion.
+  desc: "The cult fanatic has advantage on saving throws against being charmed or frightened."
+- name: Gravity Affinity.
+  desc: "The cult fanatic has advantage on saving throws against being moved or restrained and has a climbing speed equal to its walking speed."
 actions: 
-- name: 
-  desc: 
-- name: 
+- name: Multiattack.
+  desc: "The cult fanatic makes two melee attacks."
+- name: Dagger.
   desc: 
 legendary_actions: 
 - name: 
