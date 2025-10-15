@@ -6,3 +6,6 @@
 
 [[City Notes]]
 - Information about major cities and minor towns on the continent of Tevliar.
+
+[[Spells]]
+- Various Custom and modified spells for casters to use.
