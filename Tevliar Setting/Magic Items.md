@@ -11,3 +11,4 @@
 
 # Legendary
 [[Amulet of Abyssal Lament]]
+[[Ring of Expanded Attunement]]
