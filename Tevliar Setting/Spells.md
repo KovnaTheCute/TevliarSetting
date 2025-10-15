@@ -8,3 +8,5 @@
 [[Create Ocean]]
 [[Erase]]
 [[Gate to the Edge]]
+[[Raise Army]]
+[[Stage 5 Cancer]]
