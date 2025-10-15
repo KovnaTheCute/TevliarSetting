@@ -3,3 +3,5 @@
 
 # Deity Level
 [[All Knowing]]
+[[Breath of Life]]
+[[Create Ocean]]

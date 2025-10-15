@@ -1,6 +1,6 @@
 9th Level Evocation
 Casting time: 1 action
-Range: 60 ft radius centered on self.
+Range: 60 ft.
 Components: V, S
 Duration: Instantaneous
 The Caster can invoke a chaotic cataclysmic event, causing a random destructive effect in a 60-foot radius around the caster. Roll a d4 to determine the effect:
