@@ -1,3 +1,4 @@
+#Spell
 Deity level transmutation
 Casting time: 1 action
 Range: 500ft

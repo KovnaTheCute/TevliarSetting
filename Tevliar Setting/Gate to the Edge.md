@@ -1,3 +1,4 @@
+#Spell
 Deity level conjuration
 Casting time: 1 action
 Range: 500 ft.

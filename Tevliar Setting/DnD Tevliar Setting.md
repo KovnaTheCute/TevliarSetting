@@ -9,3 +9,6 @@
 
 [[Spells]]
 - Various Custom and modified spells for casters to use.
+
+[[Magic Items]]
+- Items with various magical properties.

@@ -1,3 +1,4 @@
+#Spell
 Deity level divination
 Casting time: 1 action
 Range: touch
