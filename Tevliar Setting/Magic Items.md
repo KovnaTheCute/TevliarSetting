@@ -5,4 +5,6 @@
 [[Master Hunters Box]]
 
 # Very Rare
-[[Amulet of Spell]]
+[[Amulet of Spell Absorption]]
+[[Scale of Storms Command]]
+[[Zephyr's Armor]]

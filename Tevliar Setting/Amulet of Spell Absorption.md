@@ -1,0 +1,4 @@
+#MagicItem
+Wondrous Item, Very Rare
+Cost: 14,000gp
+Each time a spell is cast upon the wearer of this amulet roll a d20, if the roll is higher then the level of the spell cast the spell is absorbed, the effects negated, and the amulet gains charges equal to the level of the spell cast (Cantrips give zero charges and count as level 0). When the amulet reaches ten or more charges, it releases a blast of magical energy that harms all creatures except the wearer in a 10ft radius. Each creature must make a DC 15 dexterity saving throw. On a failed save the creature takes 35 (10d6) force damage, or half as much on a successful save. Requires attunement.
