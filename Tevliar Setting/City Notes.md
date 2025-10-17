@@ -4,4 +4,4 @@
 
 ## [[Wizandra]]
 - One of the major cities in the Belldonian empire, Wizandra the city magic. Wizandra houses the prestigious school of magic, the highest tier of the city. The middle tier provides housing for nobles and upper society along with resources for adventurers, be it pubs and inns or shops selling magic items and trinkets. The market caters towards rare alchemical resources, myriads of magical tools, trinkets and weapons, and various mythical familiars captured from remote locals.
-- The third layer of Wizandra is known 
+- The third layer of Wizandra is known only by the highest ranking nobles and the two current leaders of Belldonia. Depp beneath the ground in the underdark slaves are transported, bred, and sacrificed to a captured young devourer of magic, the source of the controlled anti magic field around Wizandra. This is the cause of [[The Hunt]] that takes place each year by the university. Wizandra is a city of study first and formost and even the kings have little power to stop the slavery needed for study and maintenence.
