@@ -8,4 +8,5 @@
 - Wizandra built and maintains the regulations around teleportation circles, using magic harvested from the devourer to power it.
 
 ## [[Devils Perch]]
-- A northern stronghold sitting in the deepest part of the demonic wastes. Operated by devils and mainly populated by Tieflings. They have a very tentative alliance with the [[Dwarven Nation of Stonewrought]], allowing the dwarves to prowl the demonic wastes in hunting parties to hunt stray demons for sport
+- A northern stronghold city sitting in the deepest part of the [[Demonic Wastes]]. Operated by devils and mainly populated by Tieflings. They have a very tentative alliance with the [[Dwarven Nation of Stonewrought]], allowing the dwarves to prowl the demonic wastes in hunting parties to hunt stray demons for sport.
+- Several [[Arch Demons]] are housed within the stronghold city, some with more freedom then others. Due to their incapability to be permanently killed they are allowed some freedom though very strict. There are three notable instances of this; [[Rolio's Casino of Souls]], [[The Keeper's Unreadable Library]], and [[The Bloodsport Arena]].
