@@ -12,4 +12,5 @@
 - Several [[Arch Demons]] are housed within the stronghold city, some with more freedom then others. Due to their incapability to be permanently killed they are allowed some freedom though very strict. There are three notable instances of this; [[Rolio's Casino of Souls]], [[The Keeper's Unreadable Library]], and [[The Bloodsport Arena]].
 
 ## [[Isrick]]
-- Conclave of Ice Giants in the tundra wastes that are considered as an independent nation by the Belldonia Empire. They are somewhat nomadic, their village used only for trade with adventurers and as a place for them to stay. They are highly religious and adamant about traditions being followed by all in their village, native or not. The only thing keepign them diplomatic is their leaders belief in peace between giant kind and other races despite many Ice giants beign 
+- Conclave of Ice Giants in the tundra wastes that are considered as an independent nation by the Belldonia Empire. They are somewhat nomadic, their village used only for trade with adventurers and as a place for them to stay. They are highly religious and adamant about traditions being followed by all in their village, native or not. 
+- The only thing keeping them diplomatic is their leaders belief in peace between giant kind and other races despite many Ice giants being skeptical and somewhat hostile to this idea.
