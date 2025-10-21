@@ -7,6 +7,10 @@
 - The third layer of Wizandra is known only by the highest ranking nobles and the two current leaders of Belldonia. Depp beneath the ground in the underdark slaves are transported, bred, and sacrificed to a captured young devourer of magic, the source of the controlled anti magic field around Wizandra. This is the cause of [[The Hunt]] that takes place each year by the university. Wizandra is a city of study first and formost and even the kings have little power to stop the slavery needed for study and maintenence.
 - Wizandra built and maintains the regulations around teleportation circles, using magic harvested from the devourer to power it.
 
+## [[Tillery]]
+- Another major city within the Belldonian Empire, Tillery the capital of agriculture. Tillery is located in the eastern plains, just above the swamplands that elves once resided in. It is the largest farming capital on the continent, producing all kinds of raw resources in bulk for the entire Empire and all of its diplomatic allies. Their main exports are food however, wood, various stones, ores, and minerals, are also collected in bulk.
+- Tillery is one of the most diverse societies on the continent, housing nearly every race under the gods reign including a lot of beast folk who once faced discrimination before King Robert 
+
 ## [[Devils Perch]]
 - A northern stronghold city sitting in the deepest part of the [[Demonic Wastes]]. Operated by devils and mainly populated by Tieflings. They have a very tentative alliance with the [[Dwarven Nation of Stonewrought]], allowing the dwarves to prowl the demonic wastes in hunting parties to hunt stray demons for sport.
 - Several [[Arch Demons]] are housed within the stronghold city, some with more freedom then others. Due to their incapability to be permanently killed they are allowed some freedom though very strict. There are three notable instances of this; [[Rolio's Casino of Souls]], [[The Keeper's Unreadable Library]], and [[The Bloodsport Arena]].
