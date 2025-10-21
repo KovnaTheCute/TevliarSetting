@@ -23,4 +23,5 @@
 
 ## [[Firastan]]
 - The capital colony of [[The Thri-Kreen Tyranny]]. Residing in the shifting sands they control everything south of the badlands, including the badland plateaus themselves.
-- The ruling warlord of the empire leads with an iron fist, teaching the nations people that non Thri-Kreen beings are abominations
+- The ruling warlord of the empire leads with an iron fist, teaching the nations people that non Thri-Kreen beings are savage abominations that do nothing but kill. Every settlement has fanatic militias that kill on sight, enjoying the meat of trespassers as a reward for their service.
+- Those that are not immediately killed are put into brutal slavery by Thri-Kreen Psyon's, elite members of Thri-Kreen society that can communicate through telepathy. Being the only ones that can communicate effectively with non Thri-Kreen humanoids they are the ones who control all information flow between the outside world and the desert. 
