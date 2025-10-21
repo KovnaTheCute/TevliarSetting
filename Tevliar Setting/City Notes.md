@@ -14,3 +14,9 @@
 ## [[Isrick]]
 - Conclave of Ice Giants in the tundra wastes that are considered as an independent nation by the Belldonia Empire. They are somewhat nomadic, their village used only for trade with adventurers and as a place for them to stay. They are highly religious and adamant about traditions being followed by all in their village, native or not. 
 - The only thing keeping them diplomatic is their leaders belief in peace between giant kind and other races despite many Ice giants being skeptical and somewhat hostile to this idea.
+
+## [[Halfala]]
+- Isolated on one of the larger outer islands, a village of halflings that tame and ride dinosaurs resides hidden from most of the world.
+- Their magic is unique, difficult for outsiders to understand, and is fairly coveted due to their isolationistic nature
+- Halfling is a rare language, unable to be spoken by most sentient species due to various squeaking sounds only halfings can produce
+- The sea between the island Halfala resides on and the main land is haunted by a leviathan. 
