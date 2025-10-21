@@ -19,4 +19,8 @@
 - Isolated on one of the larger outer islands, a village of halflings that tame and ride dinosaurs resides hidden from most of the world.
 - Their magic is unique, difficult for outsiders to understand, and is fairly coveted due to their isolationistic nature
 - Halfling is a rare language, unable to be spoken by most sentient species due to various squeaking sounds only halfings can produce
-- The sea between the island Halfala resides on and the main land is haunted by a leviathan. 
+- The sea between the island Halfala resides on and the main land is haunted by a leviathan. Sailors call it the cursed straight as all ships that pass by are lost, disappearing without a trace. Even ones with powerful arch mages, including one of the legendary hero's.
+
+## [[Firastan]]
+- The capital colony of [[The Thri-Kreen Tyranny]]. Residing in the shifting sands they control everything south of the badlands, including the badland plateaus themselves.
+- The ruling warlord of the empire leads with an iron fist, teaching the nations people that non Thri-Kreen beings are abominations
