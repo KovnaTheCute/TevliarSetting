@@ -14,7 +14,8 @@
 
 ## [[Ragas]]
 - Major port city of the Belldonian Empire located on the center peninsula of the continent. Ragas is a corrupt city, overrun with lawlessness and illegal trade. The city law partakes in crime just as often as the beggars and guilds that operate here. Labor is cheap and plentiful as the high homeless population will do anything for food.
-- 
+- Lack of restrictions on businesses allow them complete power within the city bounds. Ragas hold the headquarters for the Shop Shop enterprise along with the thieves guild.
+- Though still under the Empires gaze they operate independently with their own government, having isolated heavily during [[The Great Slaughter]], barring all access and slowly corrupting within under the abyssal influence.
 
 ## [[Devils Perch]]
 - A northern stronghold city sitting in the deepest part of the [[Demonic Wastes]]. Operated by devils and mainly populated by Tieflings. They have a very tentative alliance with the [[Dwarven Nation of Stonewrought]], allowing the dwarves to prowl the demonic wastes in hunting parties to hunt stray demons for sport.
