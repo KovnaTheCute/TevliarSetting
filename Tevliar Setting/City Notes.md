@@ -4,7 +4,7 @@
 
 ## [[Wizandra]]
 - One of the major cities in the Belldonian empire, Wizandra the city magic. Wizandra houses the prestigious school of magic, the highest tier of the city. The middle tier provides housing for nobles and upper society along with resources for adventurers, be it pubs and inns or shops selling magic items and trinkets. The market caters towards rare alchemical resources, myriads of magical tools, trinkets and weapons, and various mythical familiars captured from remote locals.
-- The third layer of Wizandra is known only by the highest ranking nobles and the two current leaders of Belldonia. Depp beneath the ground in the underdark slaves are transported, bred, and sacrificed to a captured young devourer of magic, the source of the controlled anti magic field around Wizandra. This is the cause of [[The Hunt]] that takes place each year by the university. Wizandra is a city of study first and formost and even the kings have little power to stop the slavery needed for study and maintenence.
+- The third layer of Wizandra is known only by the highest ranking nobles and the two current leaders of Belldonia. Depp beneath the ground in the underdark slaves are transported, bred, and sacrificed to a captured young devourer of magic, the source of the controlled anti magic field around Wizandra. This is the cause of [[The Hunt]] that takes place each year by the university. Wizandra is a city of study first and foremost and even the kings have little power to stop the slavery needed for study and maintenance.
 - Wizandra built and maintains the regulations around teleportation circles, using magic harvested from the devourer to power it.
 
 ## [[Tillery]]
@@ -13,7 +13,8 @@
 - Although Tillery is technically under the Empires rule it has nearly complete diplomatic freedom, due to the sheer quantity of food they supply around the continent and the ancient dragons that enforce their diplomacy. Due to this even when the empire goes to war Tillery often still has immunity from the conflict as it has the power to supply both sides.
 
 ## [[Ragas]]
-- Major port city 
+- Major port city of the Belldonian Empire located on the center peninsula of the continent. Ragas is a corrupt city, overrun with lawlessness and illegal trade. The city law partakes in crime just as often as the beggars and guilds that operate here. Labor is cheap and plentiful as the high homeless population will do anything for food.
+- 
 
 ## [[Devils Perch]]
 - A northern stronghold city sitting in the deepest part of the [[Demonic Wastes]]. Operated by devils and mainly populated by Tieflings. They have a very tentative alliance with the [[Dwarven Nation of Stonewrought]], allowing the dwarves to prowl the demonic wastes in hunting parties to hunt stray demons for sport.
