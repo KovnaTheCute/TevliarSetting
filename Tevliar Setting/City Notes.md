@@ -10,8 +10,10 @@
 ## [[Tillery]]
 - Another major city within the Belldonian Empire, Tillery the capital of agriculture. Tillery is located in the eastern plains, just above the swamplands that elves once resided in. It is the largest farming capital on the continent, producing all kinds of raw resources in bulk for the entire Empire and all of its diplomatic allies. Their main exports are food however, wood, various stones, ores, and minerals, are also collected in bulk.
 - Tillery is one of the most diverse societies on the continent, housing nearly every race under the gods reign including a lot of beast folk who once faced discrimination before King Robert brought change to the empire.
-- Although Tillery is technically under the Empires rule it has nearly complete diplomatic freedom, due to the sheer quantity of food they supply around the continent. Due to this even when the empire goes to war Tillery often still has immunity from the conflict as it has the power to supply both sides.
-- Despite Tillery being a farming nation several ancient dragons grant it its military strength, allowing them to have diplomatic strength to act independently of the empire.
+- Although Tillery is technically under the Empires rule it has nearly complete diplomatic freedom, due to the sheer quantity of food they supply around the continent and the ancient dragons that enforce their diplomacy. Due to this even when the empire goes to war Tillery often still has immunity from the conflict as it has the power to supply both sides.
+
+## [[Ragas]]
+- Major port city
 
 ## [[Devils Perch]]
 - A northern stronghold city sitting in the deepest part of the [[Demonic Wastes]]. Operated by devils and mainly populated by Tieflings. They have a very tentative alliance with the [[Dwarven Nation of Stonewrought]], allowing the dwarves to prowl the demonic wastes in hunting parties to hunt stray demons for sport.
