@@ -37,4 +37,6 @@
 - Those that are not immediately killed are put into brutal slavery by Thri-Kreen Psyon's, elite members of Thri-Kreen society that can communicate through telepathy. Being the only ones that can communicate effectively with non Thri-Kreen humanoids they are the ones who control all information flow between the outside world and the desert. 
 
 ## [[Obelisk]]
-- The main secret research facility of [[Nokk]],  on of the legendary hero's 
+- The main secret research facility of [[Nokk]],  one of the legendary hero's that ascended to become an arch-lich. The Obelisk is a massive necrotic infused adamantine tower, it's the most secure location on the continent as even the gods are unable to affect it in any meaningful way.
+- Located on an island to the east of the continent, very little civilization exists around it and the small amount that does is horridly mutated and genetically ravaged. They worship the obelisk as a god and ritualistically slaughter all those that disagree.
+- The obelisk is a treasure trove for researchers, very few know it exists however being accepted in is an honor among the top brass of Wizandras Collef
