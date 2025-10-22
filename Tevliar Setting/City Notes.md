@@ -4,7 +4,7 @@
 
 ## [[Wizandra]]
 - One of the major cities in the Belldonian empire, Wizandra the city magic. Wizandra houses the prestigious school of magic, the highest tier of the city. The middle tier provides housing for nobles and upper society along with resources for adventurers, be it pubs and inns or shops selling magic items and trinkets. The market caters towards rare alchemical resources, myriads of magical tools, trinkets and weapons, and various mythical familiars captured from remote locals.
-- The third layer of Wizandra is known only by the highest ranking nobles and the two current leaders of Belldonia. Depp beneath the ground in the underdark slaves are transported, bred, and sacrificed to a captured young devourer of magic, the source of the controlled anti magic field around Wizandra. This is the cause of [[The Hunt]] that takes place each year by the university. Wizandra is a city of study first and foremost and even the kings have little power to stop the slavery needed for study and maintenance.
+- The third layer of Wizandra is known only by the highest ranking nobles and the two current leaders of Belldonia. Deep beneath the ground in the underdark slaves are transported, bred, and sacrificed to a captured young devourer of magic, the source of the controlled anti magic field around Wizandra. This is the cause of [[The Hunt]] that takes place each year by the university. Wizandra is a city of study first and foremost and even the kings have little power to stop the slavery needed for study and maintenance.
 - Wizandra built and maintains the regulations around teleportation circles, using magic harvested from the devourer to power it.
 
 ## [[Tillery]]
@@ -39,4 +39,4 @@
 ## [[Obelisk]]
 - The main secret research facility of [[Nokk]],  one of the legendary hero's that ascended to become an arch-lich. The Obelisk is a massive necrotic infused adamantine tower, it's the most secure location on the continent as even the gods are unable to affect it in any meaningful way.
 - Located on an island to the east of the continent, very little civilization exists around it and the small amount that does is horridly mutated and genetically ravaged. They worship the obelisk as a god and ritualistically slaughter all those that disagree.
-- The obelisk is a treasure trove for researchers, very few know it exists however being accepted in is an honor among the top brass of Wizandras Collef
+- The obelisk is a treasure trove for researchers, very few know it exists however being accepted in is an honor among the top brass of Wizandras School of Magic. The most dangerous and interesting experimentation happens in the Obelisk and directly influences magic around the continent. The use of teleportation circles was first discovered 
