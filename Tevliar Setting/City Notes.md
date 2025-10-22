@@ -13,7 +13,7 @@
 - Although Tillery is technically under the Empires rule it has nearly complete diplomatic freedom, due to the sheer quantity of food they supply around the continent and the ancient dragons that enforce their diplomacy. Due to this even when the empire goes to war Tillery often still has immunity from the conflict as it has the power to supply both sides.
 
 ## [[Ragas]]
-- Major port city
+- Major port city 
 
 ## [[Devils Perch]]
 - A northern stronghold city sitting in the deepest part of the [[Demonic Wastes]]. Operated by devils and mainly populated by Tieflings. They have a very tentative alliance with the [[Dwarven Nation of Stonewrought]], allowing the dwarves to prowl the demonic wastes in hunting parties to hunt stray demons for sport.
