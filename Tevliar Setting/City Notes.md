@@ -42,4 +42,4 @@
 - The obelisk is a treasure trove for researchers, very few know it exists however being accepted in is an honor among the top brass of Wizandras School of Magic. The most dangerous and interesting experimentation happens in the Obelisk and directly influences magic around the continent. The use of teleportation circles was first discovered here.
 
 ## [[Yamasla & Yakslava]]
-- Two opposing sides of the Yuan-ti civil war in the southeastern jungle. 
+- Two opposing sides of the Yuan-ti civil war in the southeastern jungle. The civil war was brought on through religious differences between the two sides. The population of Yamasla believes that they are equal to other humanoids and actively encourages trade and diplomacy outside the nation. They worship the god 
