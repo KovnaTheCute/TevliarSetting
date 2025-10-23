@@ -48,4 +48,5 @@
 - Both civilizations live in cities contained within massive pyramid temples, constructed centuries ago by a forgotten race.
 
 ## [[Kabal]]
-- Largest colony of kobolds on the continent nestled into the western mountain range. Independent of dragon rulers instead following a charismatic leading Urd  
+- Largest colony of kobolds on the continent nestled into the western mountain range. Independent of dragon rulers instead following a charismatic Urd leader put in place and given power by Wizandra.
+- They worship their leader as a god, hailing him as a dragon slayer that set them free from slavery. Unbenounst to most of them Kabal is one of Wizandr
