@@ -57,4 +57,5 @@
 - Surrounding Gobrim are numerous factions of goblinkind, all warring with one another, the western plains are war ravaged, forsaken by most gods.  There are no consistent laws or places of safety here beyond a guarantee of violence.
 - The hobgoblin queen was revered as a god among the goblins, uniting them all under one faction with plans to conquer the continent. Her death was brought on by the Belldonian Empire to stop them from building up too much military strength.
 ## [[Ruins of Wrenwrald]]
-- The only major remnants of the elves left behind after the great slaughter.
+- The only major remnants of the elves left behind after the great slaughter. Destroyed specifically by [[Tupai]], one of the [[Arch Demons]] that led the great slaughter and had a particular vendetta against the elves for exiling her due to her abnormal existence.
+- The elves were once an incredibly advanced race, they were the greatest spellcasters on the planet with enough power to kill gods. They heavily believed in the purity of their race, leaning into genetic purity and eugenics. This built great amounts of animosity between them and shorter lived races due to the ever changing nature of frequent reproduction. Tupai 
