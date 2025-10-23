@@ -62,4 +62,5 @@
 
 ## [[Harma]]
 - The main inhabitants of the northern mountain range, Harma is the capital of the [[Dwarven Nation of Stonewrought]]. A closely guarded and isolated nation of dwarves and gnomes that have vastly advanced their technology far beyond anything else on the continent. They are masters of craftsmanship, constructing magic fueled machines like golems and vehicles giving them incredible diplomatic power.
-- They have a tradition of hunting demons for sport, particularly ones that prowl the [[Demonic Wastes]] however, it's common for hunting parties to enter the abyss to track down rising demon lords or powerful beings for sport. This yields infernal materials that are used to create biological machines,  
+- They have a tradition of hunting demons for sport, particularly ones that prowl the [[Demonic Wastes]] however, it's common for hunting parties to enter the abyss to track down rising demon lords or powerful beings for sport. This yields infernal materials that are used to create biological machines, a craft that most outside of the dominion have never even imagined.
+- Most dwarvish settlements are closed off to outsiders however Harma is open to adventurers that can make it through screening. They encourage adventurers and merchants to bring materials for trade, especially rare ones 
