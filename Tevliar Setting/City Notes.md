@@ -56,3 +56,5 @@
 - Once the capital of goblinkind united by a hobgoblin queen, Gobrim is now the only goblin settlement not completely ravaged by war. Considered a sacred land by all the warring goblin factions it is prohibited to fight within and around the city boundaries.
 - Surrounding Gobrim are numerous factions of goblinkind, all warring with one another, the western plains are war ravaged, forsaken by most gods.  There are no consistent laws or places of safety here beyond a guarantee of violence.
 - The hobgoblin queen was revered as a god among the goblins, uniting them all under one faction with plans to conquer the continent. Her death was brought on by the Belldonian Empire to stop them from building up too much military strength.
+## [[Ruins of Wrenwrald]]
+- The only major remnants of the elves left behind after the great slaughter.
