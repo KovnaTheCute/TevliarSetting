@@ -48,4 +48,4 @@
 - Both civilizations live in cities contained within massive pyramid temples, constructed centuries ago by a forgotten race.
 
 ## [[Kabal]]
-- Largest colony of kobolds on the continent
+- Largest colony of kobolds on the continent nestled into the western mountain range. Independent of dragon rulers instead following a charismatic leading Urd  
