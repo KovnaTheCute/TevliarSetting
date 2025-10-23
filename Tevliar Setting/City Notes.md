@@ -53,4 +53,5 @@
 - Many lesser draconic beasts like wyverns and drakes have been tamed and are kept in Kabal as livestock, making them a large exporter of exotic materials such as wyvern poison and drake meat.
 
 ## [[Gobrim]]
-- Once the capital of goblinkind united by a hobgoblin king Gobrim is now the only gob
+- Once the capital of goblinkind united by a hobgoblin king Gobrim is now the only goblin settlement not completely ravaged by war. Considered a sacred land by all the warring goblin factions it is prohibited to fight within and around the city boundaries.
+- Surrounding Gobrim are numerous factions of goblinkind, all warring with one another, the western plains are war ravaged, forsaken by most gods.  There are no consistent laws or places of safety here beyond a guarantee of violence.
