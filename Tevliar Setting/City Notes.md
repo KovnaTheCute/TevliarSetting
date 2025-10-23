@@ -40,3 +40,6 @@
 - The main secret research facility of [[Nokk]],  one of the legendary hero's that ascended to become an arch-lich. The Obelisk is a massive necrotic infused adamantine tower, it's the most secure location on the continent as even the gods are unable to affect it in any meaningful way.
 - Located on an island to the east of the continent, very little civilization exists around it and the small amount that does is horridly mutated and genetically ravaged. They worship the obelisk as a god and ritualistically slaughter all those that disagree.
 - The obelisk is a treasure trove for researchers, very few know it exists however being accepted in is an honor among the top brass of Wizandras School of Magic. The most dangerous and interesting experimentation happens in the Obelisk and directly influences magic around the continent. The use of teleportation circles was first discovered here.
+
+## [[Yamasla & Yakslava]]
+- 
