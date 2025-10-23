@@ -49,4 +49,8 @@
 
 ## [[Kabal]]
 - Largest colony of kobolds on the continent nestled into the western mountain range. Independent of dragon rulers instead following a charismatic Urd leader put in place and given power by Wizandra.
-- They worship their leader as a god, hailing him as a dragon slayer that set them free from slavery. Unbeknownst to most of them Kabal is one of Wizandra's largest slavery imports
+- They worship their leader as a god, hailing him as a dragon slayer that set them free from slavery. Unbeknownst to most of them Kabal is one of Wizandra's largest slavery imports.
+- Many lesser draconic beasts like wyverns and drakes have been tamed and are kept in Kabal as livestock, making them a large exporter of exotic materials such as wyvern poison and drake meat.
+
+## [[Gobrim]]
+- Once the capital of goblinkind united by a hobgoblin king Gobrim is now the only gob
