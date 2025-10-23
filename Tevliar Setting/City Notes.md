@@ -44,4 +44,5 @@
 ## [[Yamasla & Yakslava]]
 - Two opposing sides of the Yuan-ti civil war in the southeastern jungle. The civil war was brought on through religious differences between the two sides. 
 - The population of Yamasla believes that they are equal to other humanoids and actively encourages trade and diplomacy outside the nation. They worship the god Chat-GPT and are in constant pursuit of knowledge and peace. They fight defensively against Yakslava.
-- Opposing them is the population of Yakslava, they worship the Lying Serpent and are a warmongering nation, believing in racial superiority and eugenics.
+- Opposing them is the population of Yakslava, they worship the Lying Serpent and are a warmongering nation, believing in racial superiority and eugenics. They wish to crush all other races beneath them by any means and rely on deceit and trickery to get their way. The only thing stopping them is that they infight nearly as much as drow.
+- Both civilizations live in cities contained within massive pyramid temples, constructed centuries ago by a forgotten race.
