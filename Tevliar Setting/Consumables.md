@@ -23,10 +23,10 @@
 |Spell Scroll (5th Level)|Very Rare|**2,200 gp**|Expensive due to arcane ink saturation requirements.|
 
 # Buff Items
-|Item|Rarity (Adjusted)|Industrial Price|Notes|
-|---|---|---|---|
-|Elixir of Health|Rare|**450 gp**|Standardized healing booster, popular among officers.|
-|Oil of Slipperiness|Uncommon|**150 gp**|Widely available, often used in machinery or traps.|
-|Keoghtom’s Ointment (per dose)|Uncommon|**120 gp**|Common clerical supply; distributed by temple guilds.|
-|Dust of Disappearance|Rare|**800 gp**|Luxury tactical product; closely monitored for misuse.|
-|Dust of Dryness|Rare|**350 gp**|Often used by industrial engineers and shipwrights.|
+| Item                           | Rarity (Adjusted) | Industrial Price | Notes                                                  |
+| ------------------------------ | ----------------- | ---------------- | ------------------------------------------------------ |
+| Elixir of Health               | Rare              | **450 gp**       | Standardized healing booster, popular among officers.  |
+| Oil of Slipperiness            | Uncommon          | **150 gp**       | Widely available, often used in machinery or traps.    |
+| Keoghtom’s Ointment (per dose) | Uncommon          | **120 gp**       | Common clerical supply; distributed by temple guilds.  |
+| Dust of Disappearance          | Rare              | **800 gp**       | Luxury tactical product; closely monitored for misuse. |
+| Dust of Dryness                | Rare              | **350 gp**       | Often used by industrial engineers and shipwrights.    |
