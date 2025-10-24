@@ -1,2 +1,3 @@
 
-# [[Adventuring Items]]
+# [[Gear and Equipment]]
+
