@@ -68,7 +68,7 @@
 | Waterskin               |   1 sp |
 | Whetstone               |   2 cp |
 
-
+# Weapons
 ### Simple Weapons
 |Weapon|Price|
 |---|--:|
@@ -122,3 +122,51 @@
 
 # Armor
 ### Light Armor
+|Armor|Price|
+|---|--:|
+|Padded|3 gp|
+|Leather|5 gp|
+|Studded Leather|25 gp|
+
+### Medium Armor
+|Armor|Price|
+|---|--:|
+|Hide|5 gp|
+|Chain Shirt|25 gp|
+|Scale Mail|25 gp|
+|Breastplate|100 gp|
+|Half Plate|200 gp|
+
+### Heavy Armor
+|Armor|Price|
+|---|--:|
+|Ring Mail|20 gp|
+|Chain Mail|50 gp|
+|Splint|100 gp|
+|Plate|750 gp|
+
+### Shields
+|Shield|Price|
+|---|--:|
+|Shield|5 gp|
+
+### Ammunition
+|Ammunition|Price|
+|---|--:|
+|Arrows (20)|5 sp|
+|Blowgun Needles (50)|5 sp|
+|Crossbow Bolts (20)|5 sp|
+|Sling Bullets (20, rocks)|3 sp|
+|Sling Bullets (20, steel)|5 sp|
+
+### Magical and Specialized Goods
+|Item|Price|
+|---|--:|
+|Arcane Focus (crystal/orb/rod/staff/wand)|10–30 gp|
+|Spell Component Pouch|10 gp|
+|Alchemist’s Supplies|25 gp|
+|Thieves’ Tools|15 gp|
+|Tinker’s Tools|25 gp|
+|Bag of Holding (common)|250 gp|
+|Enchanted Backpack (increased carry capacity)|100 gp|
+|Teleportation Circle Key (single-use)|25 gp|
