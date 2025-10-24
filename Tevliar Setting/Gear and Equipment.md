@@ -67,3 +67,58 @@
 | Vial                    |   5 sp |
 | Waterskin               |   1 sp |
 | Whetstone               |   2 cp |
+
+
+### Simple Weapons
+|Weapon|Price|
+|---|--:|
+|Club|5 cp|
+|Dagger|1 gp|
+|Greatclub|1 sp|
+|Handaxe|3 gp|
+|Javelin|1 gp|
+|Light Hammer|1 gp|
+|Mace|3 gp|
+|Quarterstaff|5 sp|
+|Sickle|1 gp|
+|Spear|5 sp|
+### Simple Ranged Weapons 
+|Weapon|Price|
+|---|--:|
+|Light Crossbow|15 gp|
+|Dart|2 sp|
+|Shortbow|10 gp|
+|Sling|2 sp|
+
+### Martial Melee Weapons
+|Weapon|Price|
+|---|--:|
+|Battleaxe|7 gp|
+|Flail|8 gp|
+|Glaive|15 gp|
+|Greataxe|20 gp|
+|Greatsword|30 gp|
+|Halberd|15 gp|
+|Lance|7 gp|
+|Longsword|10 gp|
+|Maul|7 gp|
+|Morningstar|10 gp|
+|Pike|3 gp|
+|Rapier|15 gp|
+|Scimitar|15 gp|
+|Shortsword|7 gp|
+|Trident|3 gp|
+|War Pick|3 gp|
+|Warhammer|10 gp|
+|Whip|1 gp|
+### Martial Ranged Weapons
+|Weapon|Price|
+|---|--:|
+|Blowgun|5 gp|
+|Hand Crossbow|40 gp|
+|Heavy Crossbow|30 gp|
+|Longbow|30 gp|
+|Net|5 sp|
+
+# Armor
+### Light Armor
