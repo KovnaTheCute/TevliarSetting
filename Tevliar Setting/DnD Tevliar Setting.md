@@ -12,3 +12,6 @@
 
 [[Magic Items]]
 - Items with various magical properties.
+
+[[Standard Prices]]
+- Price tables for standard prices across Tevliar.
