@@ -4,3 +4,6 @@
 # [[Food]]
 
 # [[Consumables]]
+
+# [[Monster Parts]]
+
