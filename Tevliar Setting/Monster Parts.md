@@ -76,3 +76,46 @@
 |Sahuagin Blood|Water-breathing elixirs|100 gp per vial|
 |Troll Regenerative Slime|Advanced healing catalyst|400 gp per vial|
 
+# Rare
+|**Item**|**Description / Notes**|**Price (gp)**|
+|---|---|---|
+|Dragon Scales (Green)|Common trade|1,500 gp|
+|Dragon Scales (Red/Gold)|Highly valued|3,000 gp|
+|Beholder Eyestalk|Arcane focus|1,000 gp|
+|Hydra Teeth|Growth reagents|600 gp|
+|Kraken Tentacle Fragment|Alchemical essence|1,200 gp|
+|Gorgon Hide|Strong cursed armor base|900 gp|
+|Chimera Heart|Power component|1,500 gp|
+|Roc Feather|Status symbol|2,000 gp|
+|Storm Giant Hair|Magical conductor|3,000 gp|
+|Mummy Lord Wrapping|Necrotic relic|2,000 gp|
+|Lich Finger Bone|Forbidden necromancy focus|2,000 gp|
+|Sphinx Claw|Divination focus|2,500 gp|
+|Phoenix Ashes|Resurrection reagent|3,000 gp per ounce|
+|Kraken Tooth|Deep-sea relic|2,500 gp|
+|Night Hag Heart|Dream magic reagent|2,000 gp|
+
+# Very Rare
+|**Item**|**Description / Notes**|**Price (gp)**|
+|---|---|---|
+|Dragon Heart (Young)|Guild-licensed reagent|8,000 gp|
+|Kraken Tentacle|Forbidden substance|7,000 gp|
+|Phoenix Feather|Immortality rituals|9,000 gp|
+|Roc Eggshell (Intact)|Rarely found|6,000 gp|
+|Storm Giant Heart|Weather magic|9,000 gp|
+|Ancient Dragon Tooth|High ritual reagent|8,000 gp|
+|Celestial Essence (Solar)|Divine alchemy|10,000 gp|
+|Tarrasque Scale|Legendary relic|10,000 gp|
+
+# Legendary
+| **Item**                    | **Description / Notes** | **Price (gp)** |
+| --------------------------- | ----------------------- | -------------- |
+| Tarrasque Carapace Fragment | Indestructible material | 30,000 gp      |
+| Ancient Dragon Heart        | Legendary alchemy       | 25,000 gp      |
+| Demilich Skull              | Artifact-grade reagent  | 20,000 gp      |
+| Kraken Beak (Full)          | Abyssal trophy          | 18,000 gp      |
+| Celestial Heart (Solar)     | Pure divine power       | 35,000 gp      |
+| Phoenix Heart               | Rebirth catalyst        | 30,000 gp      |
+| Elder Brain Fragment        | Psionic reagent         | 28,000 gp      |
+| Primordial Elemental Core   | Creation-grade energy   | 35,000 gp      |
+| Great Wyrm Heart            | Deific power source     | 40,000 gp      |
