@@ -22,3 +22,10 @@
 |Spices (exotic)|1 gp per oz|
 |Hardtack (biscuit)|2 sp|
 |Pie (meat or fruit)|5 sp|
+
+### Tavern Meals
+|Meal Type|Price|
+|---|--:|
+|Common Meal (stew, bread, cheese, ale)|2 sp|
+|Fine Meal (multi-course meal, wine)|1 gp|
+|Royal Feast (gourmet fare, rare wine, live music)|10 gp|
