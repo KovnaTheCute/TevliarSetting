@@ -200,8 +200,6 @@
 | Rod of Security                             | 25,000 gp      | 22,500 gp       | Extremely useful; premium retained.                                         |
 | Rod of the Pact Keeper +3                   | 8,000 gp       | 7,000 gp        | Strong but widely available; moderate price reduction.                      |
 | Scimitar of Speed                           | 10,000 gp      | 9,000 gp        | Rare combat item; slight industrial discount.                               |
-| Spell Scroll (6th Level)                    | 5,000 gp       | 4,000 gp        | Consumable; mass-production reduces cost.                                   |
-| Spell Scroll (7th Level)                    | 10,000 gp      | 8,500 gp        | High-level scroll; still cheaper than handcrafted.                          |
 | Spellguard Shield                           | 12,000 gp      | 10,500 gp       | Strong defensive artifact; retains most of value.                           |
 | Staff of Frost                              | 10,000 gp      | 9,000 gp        | Combat staff; industrial cost reduces price slightly.                       |
 | Staff of Power                              | 20,000 gp      | 18,000 gp       | Very versatile, powerful; retains premium.                                  |
