@@ -1,7 +1,6 @@
+# [[Gear and Equipment Prices]]
 
-# [[Gear and Equipment]]
-
-# [[Food]]
+# [[Food Prices]]
 
 # [[Consumables]]
 
