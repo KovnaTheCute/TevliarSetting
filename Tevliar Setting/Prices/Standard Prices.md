@@ -12,7 +12,6 @@
 
 
 ## Monthly Income by Profession
-
 Below is a comprehensive list of professions, categorized by skill level and location, with estimated monthly earnings in gold pieces (gp).
 
 Unskilled Laborers
@@ -83,21 +82,11 @@ Small Town
 City
 - Squalid (poor district): 5–10 gp/month
 - Modest (common district): 15–25 gp/month
-    
 - Comfortable (middle-class district): 30–50 gp/month
-    
 - Wealthy (upscale district): 75–150 gp/month
-    
 
 Capital City
-
 - Squalid: 8–15 gp/month
-    
 - Modest: 20–40 gp/month
-    
 - Comfortable: 50–100 gp/month
-    
 - Wealthy: 150–300 gp/month
-    
-
-**
