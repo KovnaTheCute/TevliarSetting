@@ -1,5 +1,5 @@
 # Common
 
-| Item | Price |
-| ---- | ----- |
-|      |       |
+| Item | Availability | General Use | Price |
+| ---- | ------------ | ----------- | ----- |
+|      |              |             |       |
