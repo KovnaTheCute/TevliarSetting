@@ -110,3 +110,6 @@ Dragons are mostly off-market except for eggs or controlled specimens.
 |Astral Dreadnought|Planar weaponized entity|400,000 gp|
 |Roc (Ancient)|Mountain-scale creature|100,000 gp|
 |Great Wyrm (various colors)|God-tier dragon|150,000–300,000 gp|
+These are **strategic-level assets**.  
+Usually owned by nations, guild consortiums, or divine cults.  
+Their “prices” reflect containment, binding, or transfer value — not open trade.
