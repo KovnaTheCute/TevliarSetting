@@ -2,10 +2,10 @@
 
 # [[Food Prices]]
 
-# [[Consumables]]
+# [[Consumables Prices]]
 
-# [[Monster Parts]]
+# [[Monster Part Prices]]
 
-# [[Live Monsters]]
+# [[Live Monster Prices]]
 
-# [[General Magic Items]]
+# [[Magic Item Prices]]
