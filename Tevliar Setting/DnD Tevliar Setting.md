@@ -15,3 +15,6 @@
 
 [[Standard Prices]]
 - Price tables for standard prices across Tevliar.
+
+[[Quests]]
+- Various Quest information and Quest tables.
