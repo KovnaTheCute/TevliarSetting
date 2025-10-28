@@ -20,7 +20,7 @@ traits:
 - name: Spider Climb.
   desc: "The bell beast can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
 - name: Furled Protection.
-  desc: "When the Bell Beast takes the dodge action instead of imposing disadvantage on attacks it gains +4 to it’s AC until the start of its next turn."
+  desc: "When the Bell Beast takes the dodge action instead of imposing disadvantage on attacks it gains /+4 to it’s AC until the start of its next turn."
 actions: 
 - name: Bite
   desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
