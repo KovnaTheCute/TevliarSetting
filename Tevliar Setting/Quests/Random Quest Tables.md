@@ -1,27 +1,27 @@
 
 ### Copper (Lv 1–4) – Base Gold: 20–100 gp
-| d20 | Quest                                              | Base Gold (gp) |
-| --- | -------------------------------------------------- | -------------- |
-| 1   | Clear out a goblin den in nearby hills             | 20–40          |
-| 2   | Escort a merchant caravan through bandit territory | 25–50          |
-| 3   | Recover a stolen family heirloom from kobolds      | 30–60          |
-| 4   | Deliver a sealed message to a distant village      | 20–35          |
-| 5   | Rescue a kidnapped child from a local gang         | 30–70          |
-| 6   | Hunt and kill a giant wolf threatening farms       | 25–50          |
-| 7   | Investigate strange noises in the sewers           | 20–40          |
-| 8   | Escort a priest to a sacred site safely            | 25–45          |
-| 9   | Collect rare herbs for an alchemist                | 20–40          |
-| 10  | Defend a small village from raiders                | 30–60          |
-| 11  | Help rebuild a bridge washed away by floods        | 20–35          |
-| 12  | Drive away aggressive wildlife threatening crops   | 25–45          |
-| 13  | Map an uncharted section of forest                 | 20–40          |
-| 14  | Recover crates of supplies lost in a river         | 25–50          |
-| 15  | Capture an escaped prisoner without killing them   | 25–45          |
-| 16  | Investigate rumors of a haunted mill               | 20–40          |
-| 17  | Guard a festival from troublemakers                | 25–45          |
-| 18  | Hunt a rare animal for its valuable pelt           | 30–60          |
-| 19  | Assist local militia with training drills          | 20–35          |
-| 20  | Escort a noble’s child to a neighboring town       | 25–50          |
+| d20 | Quest                                              | Base Gold (gp) |     |
+| --- | -------------------------------------------------- | -------------- | --- |
+| 1   | Clear out a goblin den in nearby hills             | 20–40          |     |
+| 2   | Escort a merchant caravan through bandit territory | 25–50          |     |
+| 3   | Recover a stolen family heirloom from kobolds      | 30–60          |     |
+| 4   | Deliver a sealed message to a distant village      | 20–35          |     |
+| 5   | Rescue a kidnapped child from a local gang         | 30–70          |     |
+| 6   | Hunt and kill a giant wolf threatening farms       | 25–50          |     |
+| 7   | Investigate strange noises in the sewers           | 20–40          |     |
+| 8   | Escort a priest to a sacred site safely            | 25–45          |     |
+| 9   | Collect rare herbs for an alchemist                | 20–40          |     |
+| 10  | Defend a small village from raiders                | 30–60          |     |
+| 11  | Help rebuild a bridge washed away by floods        | 20–35          |     |
+| 12  | Drive away aggressive wildlife threatening crops   | 25–45          |     |
+| 13  | Map an uncharted section of forest                 | 20–40          |     |
+| 14  | Recover crates of supplies lost in a river         | 25–50          |     |
+| 15  | Capture an escaped prisoner without killing them   | 25–45          |     |
+| 16  | Investigate rumors of a haunted mill               | 20–40          |     |
+| 17  | Guard a festival from troublemakers                | 25–45          |     |
+| 18  | Hunt a rare animal for its valuable pelt           | 30–60          |     |
+| 19  | Assist local militia with training drills          | 20–35          |     |
+| 20  | Escort a noble’s child to a neighboring town       | 25–50          |     |
 
 ### Silver (Lv 5–9) – Base Gold: 100–500 gp
 | d20 | Quest                                                       | Base Gold (gp) |
