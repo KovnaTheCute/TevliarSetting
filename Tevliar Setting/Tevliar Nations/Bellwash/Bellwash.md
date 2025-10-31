@@ -15,9 +15,10 @@
 ##### Apothecaries:
 [[Plants and Potions]]
 [[Warpdust Dispensery]]
-##### Blacksmiths
+##### Blacksmiths:
 [[Hammer an Sweat]]
 [[Tooth and Nail]]
 ##### Misc:
 [[Monster Emporium]]
 [[Information Vault]]
+[[Library]]
