@@ -5,7 +5,6 @@
 [[Dragon Den]]
 [[Silver Fiddle]]
 [[Bens Bedhouse]]
-[[The Workshop]]
 ### Shops:
 ##### General:
 [[General Market]]
@@ -18,6 +17,7 @@
 ##### Blacksmiths:
 [[Hammer an Sweat]]
 [[Tooth and Nail]]
+[[The Workshop]]
 ##### Misc:
 [[Monster Emporium]]
 [[Information Vault]]
