@@ -2,6 +2,7 @@
 # Notable Shops and Inns
 ### Inns:
 [[Musty Goblet]]
-[[Dragons Den]]
+[[Dragon Den]]
 [[Silver Fiddle]]
+[[Bens Bedhouse]]
 [[]]
