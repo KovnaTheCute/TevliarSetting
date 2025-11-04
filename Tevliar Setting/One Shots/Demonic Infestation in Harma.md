@@ -12,7 +12,11 @@
 - Through a general sweep of the city. Several hours of searching will reveal a shadowy figure that they can follow. If they all search as one large group it takes 12 hours. Individually that time is divided by the number of searching parties. This will make the combat significantly harder as the cult will have finished summoning a pack of lesser demons AND a large demon.
 
 # Part 2
-The cultists are not accepting new members, all the fanatics in the group are aware of this fact however the lesser members are not and are easier to deceive. The cult is in the act of summoning a group of demons and needs to do it within the city for easy access to sacrifices. They have very specific criteria, requiring both steam spirits and pure individuals whom have never killed or lied. Their goal is to amass a large amount of demons and set them loose within the city, distracting the military for long enough to slink into deeper sectors.
+**Infiltration of the Cult:** The cultists are not accepting new members, all the fanatics in the group are aware of this fact however the lesser members are not and are easier to deceive. The cult is in the act of summoning a group of demons and needs to do it within the city for easy access to sacrifices. They have very specific criteria, requiring both steam spirits and pure individuals whom have never killed or lied. Their goal is to amass a large amount of demons and set them loose within the city, distracting the military for long enough to slink into deeper sectors.
 
 They are in a constant state of summoning, 4 cultists must be chanting uninterrupted at all times for the summoning's to work. Depending on how the players discovered the cult will determine what stage of the summoning order the cultists are in.
 - The pack of lesser demons takes 3 rounds to summon
+- The larger demon takes 4 rounds to summon
+- The greater demon takes 6 rounds to summon and is the last to be summoned
+
+**Pack of Lesser Demons:**
