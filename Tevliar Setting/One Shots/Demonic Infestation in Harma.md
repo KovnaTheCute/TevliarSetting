@@ -14,4 +14,4 @@
 # Part 2
 **Infiltration of the Cult:** The cultists are not accepting new members, all the fanatics in the group are aware of this fact however the lesser members are not and are easier to deceive. The cult is in the act of summoning a group of demons and needs to do it within the city for easy access to sacrifices. They have very specific criteria, requiring both steam spirits and pure individuals whom have never killed or lied. Their goal is to amass a large amount of demons and set them loose within the city, distracting the military for long enough to slink into deeper sectors.
 
-They are in a constant state of  maintaining an abyssal portal.
+They are in a constant state of  maintaining an abyssal portal. It takes 4 cultist fanatics to maintain the portal and the other cultists will sacrifice themselves to protect these fanatics 
