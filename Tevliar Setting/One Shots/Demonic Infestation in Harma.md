@@ -16,12 +16,16 @@
 
 They are in a constant state of  maintaining an abyssal portal. It takes 4 cultist fanatics to maintain the portal and the other cultists will sacrifice themselves to protect these fanatics at any cost. Demons pour through the portal at the end of each round as determined by the table below.
 
-| Round | Demons               |
-| ----- | -------------------- |
-| 1     |                      |
-| 2     | 4 Abyssal Scavengers |
-| 3     |                      |
-| 4     | 2 Maw Demons         |
-| 5     |                      |
-| 6     | 2 Shoosuva           |
+| Round | Demons                  |
+| ----- | ----------------------- |
+| 1     | 1 Maw Demon             |
+| 2     | 2 Quasits               |
+| 3     | 2 Abyssal Scavengers    |
+| 4     | 3 Abyssal Scavengers    |
+| 5     | The portal grows larger |
+| 6     | Corrupter               |
+
+**Behavior of Demons:**
+
+
 
