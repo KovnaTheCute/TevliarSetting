@@ -18,3 +18,5 @@
 
 [[Quests]]
 - Various Quest information and Quest tables.
+
+[[One Shots]]

@@ -1,0 +1,1 @@
+The capital of the [[Dwarven Nation of Stonewrought]]. A militaristic steampunk nation of dwarves whom have harnessed the art of creating artificial spirits from steam that work under their servitude.
