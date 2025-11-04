@@ -10,3 +10,5 @@
 - By getting the information from the inn keep, many rumors swirl through the taverns and the one they're at has heard a few about the cult they're tracking. This is the fastest way of finding the cult but is difficult to get out of the traditionalist inn keep.
 - By investigating one of the sacrifice scenes and tracking some of the evidence left behind (Dagger, Hair, Blood, Etc.). This will make the combat slightly more difficult as the cult will have finished summoning a pack of lesser demons.
 - Through a general sweep of the city. Several hours of searching will reveal a shadowy figure that they can follow. If they all search as one large group it takes 12 hours. Individually that time is divided by the number of searching parties. This will make the combat significantly harder as the cult will have finished summoning a pack of lesser demons AND a large demon.
+
+# Part 2
