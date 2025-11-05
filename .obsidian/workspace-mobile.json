@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Races/Boulderbugs.md",
+                "file": "Tevliar Setting/Statblocks/Miniature Bell Beast (Hollow Knight).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Boulderbugs"
+              "title": "Miniature Bell Beast (Hollow Knight)"
             },
             "group": "8ddba9d477e7d8c0"
           },
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Races/Boulderbugs.md",
+                "file": "Tevliar Setting/Statblocks/Miniature Bell Beast (Hollow Knight).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -235,11 +235,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "4e2a067ca9146561",
+  "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
+    "Tevliar Setting/Statblocks/Monsters.md",
+    "Tevliar Setting/Statblocks/Statblocks.md",
+    "Tevliar Setting/Races/Boulderbugs.md",
     "Tevliar Setting/Races/Races.md",
     "Tevliar Setting/DnD Tevliar Setting.md",
-    "Tevliar Setting/Statblocks/Statblocks.md",
     "Tevliar Setting/Statblocks/Miniature Bell Beast (Hollow Knight).md",
     "Tevliar Setting/Tevliar Nations/Harma/Harma.md",
     "Tevliar Setting/Tevliar Nations/Harma",
@@ -262,8 +264,6 @@
     "/Tevliar Setting/One Shots",
     "/Tevliar Setting/Tevliar Nations",
     "/Tevliar Setting",
-    "Tevliar Setting/Statblocks/Monsters.md",
-    "Tevliar Setting/Races/Boulderbugs.md",
     "Tevliar Setting/Tevliar Nations/Bellwash.md",
     "Tevliar Setting/Tevliar Nations/City Notes.md",
     "Tevliar Setting/Tevliar Nations/Isrick.md",
