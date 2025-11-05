@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Miniature Bell Beast (Hollow Knight).md",
+                "file": "Tevliar Setting/Races/Boulderbugs.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Miniature Bell Beast (Hollow Knight)"
+              "title": "Boulderbugs"
             },
             "group": "8ddba9d477e7d8c0"
           },
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Miniature Bell Beast (Hollow Knight).md",
+                "file": "Tevliar Setting/Races/Boulderbugs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -81,7 +81,7 @@
                   "repelStrength": 9.89247311827957,
                   "linkStrength": 1,
                   "linkDistance": 376,
-                  "scale": 0.3844490069564557,
+                  "scale": 0.31534098095021357,
                   "close": true
                 }
               },
@@ -235,8 +235,20 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "50921e6ddb6640e3",
+  "active": "4e2a067ca9146561",
   "lastOpenFiles": [
+    "Tevliar Setting/Races/Races.md",
+    "Tevliar Setting/DnD Tevliar Setting.md",
+    "Tevliar Setting/Statblocks/Statblocks.md",
+    "Tevliar Setting/Statblocks/Miniature Bell Beast (Hollow Knight).md",
+    "Tevliar Setting/Tevliar Nations/Harma/Harma.md",
+    "Tevliar Setting/Tevliar Nations/Harma",
+    "Tevliar Setting/Tevliar Nations/Bellwash/Dragon Den.md",
+    "Tevliar Setting/Tevliar Nations/Bellwash/Bellwash.md",
+    "Tevliar Setting/Tevliar Nations/Bellwash",
+    "Tevliar Setting/One Shots/Demonic Infestation in Harma.md",
+    "Tevliar Setting/One Shots/One Shots.md",
+    "Tevliar Setting/One Shots",
     "/Tevliar Setting/Tevliar Nations/Harma/Harma.md",
     "/Tevliar Setting/Tevliar Nations/Bellwash/Bellwash.md",
     "/Tevliar Setting/Quests/Random Quest Tables.md",
@@ -260,18 +272,6 @@
     "Tevliar Setting/Statblocks/Twisting Abomination.md",
     "Tevliar Setting/Statblocks/Wendid.md",
     "Tevliar Setting/Statblocks/NPC's.md",
-    "Tevliar Setting/Statblocks/Cultists of the Untethered.md",
-    "Tevliar Setting/Statblocks/Characters.md",
-    "Tevliar Setting/Quests/Random Quest Tables.md",
-    "Tevliar Setting/Quests/Quests.md",
-    "Tevliar Setting/Quests",
-    "Tevliar Setting/Statblocks/Blentir Drikrilifulosagry, The Velvet Bloodletter.md",
-    "Tevliar Setting/Statblocks/Beasts.md",
-    "Tevliar Setting/Statblocks/Grafted Zombie.md",
-    "Tevliar Setting/Statblocks/Acolytes.md",
-    "Tevliar Setting/Magic Items/Magic Items.md",
-    "Tevliar Setting/Magic Items/Master Hunters Box.md",
-    "Tevliar Setting/Magic Items",
-    "Tevliar Setting/Spells"
+    "Tevliar Setting/Statblocks/Cultists of the Untethered.md"
   ]
 }
