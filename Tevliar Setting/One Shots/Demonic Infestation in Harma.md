@@ -18,7 +18,7 @@ They are in a constant state of  maintaining an abyssal portal. It takes 4 culti
 
 | Round | Demons                  |
 | ----- | ----------------------- |
-| 1     | 1 Maw Demon             |
+| 1     | 2 Maw Demon             |
 | 2     | 2 Quasits               |
 | 3     | 2 Abyssal Scavengers    |
 | 4     | 3 Abyssal Scavengers    |
