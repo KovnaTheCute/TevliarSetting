@@ -14,7 +14,7 @@
 # Part 2
 **Infiltration of the Cult:** The cultists are not accepting new members, all the fanatics in the group are aware of this fact however the lesser members are not and are easier to deceive. The cult is in the act of summoning a group of demons and needs to do it within the city for easy access to sacrifices. They have very specific criteria, requiring both steam spirits and pure individuals whom have never killed or lied. Their goal is to amass a large amount of demons and set them loose within the city, distracting the military for long enough to slink into deeper sectors.
 
-**Number of Cultists:** The time at which the cult is discovered determines the number of cultists and the stage of summoning. Finding the cult quickly (Through the Inn Keep) discovers the cult as they 
+**Number of Cultists:** The time at which the cult is discovered determines the number of cultists and the stage of summoning. Finding the cult quickly (Through the Inn Keep) discovers the cult as they are preparing. Only 4 fanatics, the leader, and roughly 10 cultists are present. Finding the cult at a moderate time discovers the cult during the summoning. This is the largest gathering and finds 4 fanatics, the leader, and around 20 cultists in attendance. Finding the cult after the summoning leads to the corruptor being settled in. The 
 
 They are in a constant state of  maintaining an abyssal portal. It takes 4 cultist fanatics to maintain the portal and the other cultists will sacrifice themselves to protect these fanatics at any cost. Demons pour through the portal at the end of each round as determined by the table below.
 
