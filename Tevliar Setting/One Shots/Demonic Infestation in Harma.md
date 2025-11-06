@@ -22,8 +22,8 @@
 
 | Round | Demons                  |
 | ----- | ----------------------- |
-| 1     | 2 Maw Demon             |
-| 2     | 2 Quasits               |
+| 1     | 6 Maw Demon             |
+| 2     | The Portal Grows Larger |
 | 3     | 2 Abyssal Scavengers    |
 | 4     | 3 Abyssal Scavengers    |
 | 5     | The portal grows larger |
@@ -32,8 +32,6 @@
 **Behavior of Demons:**
 - The maw demons attack the nearest prey, regardless of what it is.
 	- Upon escaping the summoning room they simply rampage through the streets, quickly attracting the attention of guards. They alert the party to the cultists lair.
-- Quasits are intelligent enough to target the party and will defend the fanatics keeping the portal open
-	- Upon escaping the summoning room they disappear into the streets to cause mischief, they are almost impossible to find once they've escaped
 - The abyssal scavengers are intelligent enough to not attack the fanatics but once they start attacking they wont discriminate between cultist and adventurer
 	- They do not leave the summoning room, instead working with the corruptor, laying eggs and building a nest in a nearby room.
 - The corrupter is intelligent enough to specifically target the players however the first beings that it corrupts are the fanatics keeping the portal open which closes the portal and cuts off additional demons
