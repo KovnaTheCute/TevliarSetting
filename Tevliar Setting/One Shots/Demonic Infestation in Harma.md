@@ -1,7 +1,6 @@
-- Three parts to the quest
+- Two parts to the quest
 	- Part 1: Role Play to find the cult
 	- Part 2: Infiltrate and Slaughter of the cult (Potential Role play/Combat)
-	- Part 3: Optional, Hunting down the escaped demons/cultists
 
 # Part 1
 **The Beginning:** The Players find themselves inside one of the many taverns inside of the city of [[Harma]]. As adventurers they have basic access to the city, the upper floors. They have received a request to seek out a suspected cult that is taking place somewhere within the city. Their goal is to discover where and to snuff it out.
@@ -31,10 +30,6 @@
 
 **Behavior of Demons:**
 - The maw demons attack the nearest prey, regardless of what it is.
-	- Upon escaping the summoning room they simply rampage through the streets, quickly attracting the attention of guards. They alert the party to the cultists lair.
 - The abyssal scavengers are intelligent enough to not attack the fanatics but once they start attacking they wont discriminate between cultist and adventurer
-	- They do not leave the summoning room, instead working with the corruptor, laying eggs and building a nest in a nearby room.
 - The corrupter is intelligent enough to specifically target the players however the first beings that it corrupts are the fanatics keeping the portal open which closes the portal and cuts off additional demons
-	- The corruptor does not leave the summoning room until the next day, instead fortifying its lair.
-
 
