@@ -16,9 +16,9 @@
 
 **Number of Cultists:** The time at which the cult is discovered determines the number of cultists and the stage of summoning. Finding the cult quickly (Through the Inn Keep) discovers the cult as they are preparing. Only 4 fanatics, the leader, and roughly 10 cultists are present, however they also have the help of a clockwork hulk as they haven't harvested the steam spirit yet. Finding the cult at a moderate time discovers the cult during the summoning. This is the largest gathering and finds 4 fanatics, the leader, and around 20 cultists in attendance. Finding the cult after the summoning leads to the corruptor being settled in. The cultists are either slaughtered or corrupted and the room is pitch dark.
 
-**Before the Summoning:** Until the portal is opened there is a reprogramed 
+**Before the Summoning:** Until the portal is opened there is a reprogramed clockwork hulk at standby, it follows all commands from the fanatics or leader. Once the portal is activated the stream spirit within the hulk is destroyed and the hulk is deactivated. A new steam spirit could inhabit the hulk as it is still operational.
 
-**During the summoning:** They are in a constant state of  maintaining an abyssal portal. It takes 4 cultist fanatics to maintain the portal and the other cultists will sacrifice themselves to protect these fanatics at any cost. Demons pour through the portal at the end of each round as determined by the table below.
+**During the summoning:** The fanatics are in a constant state of  maintaining an abyssal portal. It takes 4 cultist fanatics to maintain the portal through verbal chant and the other cultists will sacrifice themselves to protect these fanatics at any cost. Demons pour through the portal at the end of each round as determined by the table below.
 
 | Round | Demons                  |
 | ----- | ----------------------- |
