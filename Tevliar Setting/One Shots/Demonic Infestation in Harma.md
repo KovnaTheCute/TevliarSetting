@@ -4,7 +4,7 @@
 	- Part 3: Discovery of Larger External Cult (If there's time this can be sought out and stopped
 
 # Part 1
-**The Beginning:** The Players find themselves inside one of the many taverns inside of the city of [[Harma]]. As adventurers they have basic access to the city, the basic floors. They have received a request to seek out a suspected cult that is taking place somewhere within the city. Their goal is to discover where and to snuff it out.
+**The Beginning:** The Players find themselves inside one of the many taverns inside of the city of [[Harma]]. As adventurers they have basic access to the city, the upper floors. They have received a request to seek out a suspected cult that is taking place somewhere within the city. Their goal is to discover where and to snuff it out.
 
 **Sources of Information:** There are three main ways the players may be able to find the cult.
 - By getting the information from the inn keep, many rumors swirl through the taverns and the one they're at has heard a few about the cult they're tracking. This is the fastest way of finding the cult but is difficult to get out of the traditionalist inn keep.
@@ -29,7 +29,9 @@
 
 **Behavior of Demons:**
 - The maw demons attack the nearest prey, regardless of what it is.
+	- Upon escaping the summoning room they simply rampage through the streets, quickly attracting the attention of guards
 - Quasits are intelligent enough to target the party and will defend the fanatics keeping the portal open
+	- They disappear into th estreets to cause mischieve, they are almost impossible to find once they
 - The abyssal scavengers are intelligent enough to not attack the fanatics but once they start attacking they wont discriminate between cultist and adventurer
 - The corrupter is intelligent enough to specifically target the players however the first beings that it corrupts are the fanatics keeping the portal open which closes the portal and cuts off additional demons
 
