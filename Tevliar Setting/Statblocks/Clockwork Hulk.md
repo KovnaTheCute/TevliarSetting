@@ -6,8 +6,8 @@ size: Medium
 type: Construct
 alignment: Unaligned
 ac: 15 (Plated brass armor)
-hp: Number
-hit_dice: 
+hp: 60
+hit_dice: 8d8 + 24
 speed: 
 stats: 
 saves: 
