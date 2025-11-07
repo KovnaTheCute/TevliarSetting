@@ -9,14 +9,14 @@ alignment: Chaotic Evil
 ac: 14
 hp: Number
 hit_dice: 
-speed: 
-stats: 
+speed: 30ft., fly 30 ft. (Hover)
+stats: [12, 11, 14, 16, 17, 10]
 saves: 
 - dash: 
 - potato: 
 - stew: 
 skillsaves: 
-- fake-skill: 
+- Intimidation: +
 - turtle: 
 damage_vulnerabilities: 
 damage_resistances: 
