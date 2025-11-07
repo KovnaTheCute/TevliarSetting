@@ -6,6 +6,7 @@
 [[Cleaning Ooze]]
 [[Cloudskimmer]]
 [[Colossal Warforged Titan]]
+[[Corrupter]]
 
 # D
 [[Deathrattles]]
