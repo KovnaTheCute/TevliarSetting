@@ -1,6 +1,6 @@
-- Two parts to the quest
-	- Part 1: Role Play to find the cult
-	- Part 2: Infiltrate and Slaughter of the cult (Potential Role play/Combat)
+Two parts to the quest
+- Part 1: Role Play to find the cult
+- Part 2: Infiltrate and Slaughter of the cult (Potential Role play/Combat)
 
 # Part 1
 **The Beginning:** The Players find themselves inside one of the many taverns inside of the city of [[Harma]]. As adventurers they have basic access to the city, the upper floors. They have received a request to seek out a suspected cult that is taking place somewhere within the city. Their goal is to discover where and to snuff it out.
