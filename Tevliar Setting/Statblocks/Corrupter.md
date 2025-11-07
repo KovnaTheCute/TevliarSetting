@@ -17,14 +17,15 @@ saves:
 skillsaves: 
 - Deception: +7
 - Insight: +5
-- : +6
+- Persuasion: +7
+- Arcana: +7
 damage_vulnerabilities: Radiant
-damage_resistances: Necrotic
-damage_immunities: 
-condition_immunities: 
-senses: string
-languages: string
-cr: Number
+damage_resistances: cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+damage_immunities: necrotic, poison
+condition_immunities: charmed, frightened, poisoned
+senses: truesight 60 ft., passive perception 12
+languages: Abyssal, tlepathy 120 ft.
+cr: 9
 spells: 
 - 
 - 
