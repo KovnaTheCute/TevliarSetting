@@ -38,14 +38,11 @@ actions:
   desc: "Melee Spell Attack: +7 to hit, reach 5 ft., one target. Hit: 21 (6d6) necrotic damage, and the target must succeed on a DC 15 Charisma saving throw or gain 1 level of Possession."
 - name: Whispers of Madness (Recharge 5-6).
   desc: "Each creature of the Corrupter’s choice within 30 ft. must make a DC 15 Wisdom saving throw or take 18 (4d8) psychic damage and gain 1 level of Possession."
-legendary_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+- name: Consume the Weak (1/Day).
+  desc: "The Corrupter targets up to three creatures with at least 1 level of Possession within 30 ft. Each must make a DC 16 Constitution saving throw. On a failure, the creature becomes a Twisted Servant."
 bonus_actions: 
-- name: 
-  desc: 
+- name: Phase Through Shadoes.
+  desc: "The Corrupter magically teleports up to 30 feet to an unoccupied space it can see that is in dim light or darkness."
 - name: 
   desc: 
 reactions: 
