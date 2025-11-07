@@ -32,10 +32,10 @@ traits:
 - name: Aura of Possession
   desc: "Any creature that starts its turn within 30 feet of the Corrupter must make a DC 15 Charisma saving throw. On a failure, the Corrupter’s influence burrows into their mind, granting them 1 level of Possession. On a success, nothing happens. <br> When a creature gains a level of Possession, roll a d4 or choose one of the following effects: <br> - 1. The creature hears whispering voices urging it to harm others or itself (disadvantage on its next Wisdom saving throw). <br> - 2. Its shadow writhes independently. Until the end of its next turn, it cannot regain hit points. <br> - 3. Its eyes briefly glow with the Corrupter’s grin — the creature must succeed on a DC 13 Wisdom saving throw or attack the nearest creature once. <br> - 4. The creature feels a rush of ecstasy and dread. It gains advantage on one attack roll or ability check of its choice before the end of its next turn, but takes 7 (2d6) necrotic damage. <br> A creature can remove one level of Possession with a Lesser Restoration spell, a successful DC 15 Wisdom saving throw made after finishing a long rest, or through roleplay (e.g. reaffirming bonds, acts of purity, holy ground). If the Corrupter is slain or banished, any possessed creature immediately loses one level of Possession per round until fully freed."
 - name: Ethereal Vermin.
-  desc: 
+  desc: "At the start of its turn, spectral rats pour from beneath the Corrupter’s cloak. Each creature of its choice within 15 feet must succeed on a DC 15 Constitution saving throw or take 9 (2d8) necrotic damage and gain 1 level of Possession as the spirits gnaw at their mind."
 actions: 
-- name: 
-  desc: 
+- name: Corrupting touch
+  desc: _Melee Spell Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 21 (6d6) necrotic damage, and the target must succeed on a DC 15 Charisma saving throw or gain 1 level of Possession."
 - name: 
   desc: 
 legendary_actions: 
