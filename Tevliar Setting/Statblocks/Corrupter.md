@@ -35,9 +35,9 @@ traits:
   desc: "At the start of its turn, spectral rats pour from beneath the Corrupter’s cloak. Each creature of its choice within 15 feet must succeed on a DC 15 Constitution saving throw or take 9 (2d8) necrotic damage and gain 1 level of Possession as the spirits gnaw at their mind."
 actions: 
 - name: Corrupting touch
-  desc: _Melee Spell Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 21 (6d6) necrotic damage, and the target must succeed on a DC 15 Charisma saving throw or gain 1 level of Possession."
-- name: 
-  desc: 
+  desc: "Melee Spell Attack: +7 to hit, reach 5 ft., one target. Hit: 21 (6d6) necrotic damage, and the target must succeed on a DC 15 Charisma saving throw or gain 1 level of Possession."
+- name: Whispers of Madness (Recharge 5-6).
+  desc: "Each creature of the Corrupter’s choice within 30 ft. must make a DC 15 Wisdom saving throw or take 18 (4d8) psychic damage and gain 1 level of Possession."
 legendary_actions: 
 - name: 
   desc: 
