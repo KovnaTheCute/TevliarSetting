@@ -7,7 +7,7 @@ type: Fiend
 subtype: (Demon)
 alignment: Chaotic Evil
 ac: 16
-hp: 136
+hp: 134
 hit_dice: 16d10 + 48
 speed: 0ft., fly 30 ft. (Hover)
 stats: [10, 14, 16, 18, 15, 19]
