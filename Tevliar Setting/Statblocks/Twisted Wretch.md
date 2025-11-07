@@ -17,22 +17,19 @@ saves:
 skillsaves: 
 - Perception: +2
 damage_vulnerabilities: radiant 
-damage_resistances: cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+damage_resistances: cold, fire, lightning, psychic; bludgeoning, piercing, and slashing from nonmagical attacks
 damage_immunities: necrotic, poison
 condition_immunities: charmed, frightened, posioned
 senses: darkvision 60 ft., passive perception 12
-languages: st
-cr: Number
-spells: 
-- 
-- 
-- 
--
+languages: understands Abyssal and any languages it knew in life but can't speak coherently
+cr: 3
 traits: 
-- name: 
-  desc:
-- name: 
-  desc: 
+- name: Twisted Form.
+  desc: "The Twisted Wretches body writhes with abyssal energy. Whenever a creature hits it with a melee attack, that creature takes 4 (1d8) necrotic damage as black ichor splashes from its wounds."
+- name: Hollow Mind.
+  desc: "The Twisted Wretch has advantage on saving throws against psychic damage and can not be possessed or controled."
+- name: Abyssal Husk.
+  desc: "When reduced to 0 hit points, the Twisted Wretch's body ruptures, releasing a burst of ethereal rats. Each creature within 10 feet must make a DC 13 Constitution saving throw or take 9 (2d8) necrotic damage."
 actions: 
 - name: 
   desc: 
