@@ -41,6 +41,7 @@
 [[Smilester]]
 
 # T
+[[Twisted Wretch]]
 [[Twisting Abomination]]
 
 # W
