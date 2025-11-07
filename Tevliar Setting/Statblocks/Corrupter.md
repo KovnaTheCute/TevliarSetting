@@ -19,8 +19,8 @@ skillsaves:
 - Intimidation: +3
 - Persuasion: +3
 - Insight: +6
-damage_vulnerabilities: 
-damage_resistances: 
+damage_vulnerabilities: Radiant
+damage_resistances: Necrotic
 damage_immunities: 
 condition_immunities: 
 senses: string
