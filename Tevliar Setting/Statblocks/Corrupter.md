@@ -48,3 +48,14 @@ bonus_actions:
 ```
 
 ### Description:
+At first glance, a Corrupter might seem almost passive compared to other demons. It drifts soundlessly through the air, draped in a tattered black cloak that seems to drink the light around it. Yet beneath that cloak lies no flesh — only void. From that emptiness pour spectral rats that scatter through the air, phantasmal carriers of madness and disease. And beneath the hood, there is only a grin: wide, white, and impossibly still.
+
+**Sowers of Madness:** Unlike most demons, Corrupters do not rampage openly. They are patient predators of the mind. When they enter a mortal settlement, they hide in the shadows, whispering to the lonely, the angry, and the desperate. Their words are promises — _“They don’t understand you. You deserve better. You could be free.”_ — and their whispers gnaw like vermin, feeding on guilt and fear until their victims are hollowed out from within.
+
+Those who listen too long begin to change. Their shadows twist unnaturally, their smiles linger too wide, and eventually their bodies warp as the Corrupter’s essence claims them. These broken beings, known as Twisted Servants, become living extensions of the demon’s will — hollow shells of what they once were.
+
+**Temptation as a Weapon:** Corrupters are known to offer _boons_ to mortals who accept their presence willingly. A whisper of power, a fleeting surge of strength — all in exchange for a moment of surrender. The willing are taken first, their souls willingly pried open, for consent makes corruption all the sweeter.
+
+Even adventurers can feel the pull — promises of forbidden strength, of control, of peace from the pain of their mortal lives. Many a hero’s downfall began not with a blade, but with a whisper.
+
+**Feeding on Despair:** Corrupters delight in suffering. When they invade a community, they strike from the shadows, turning friend against friend, sowing paranoia until the survivors are forced to witness their loved ones’ transformation. Only when all hope is gone does the Corrupter reveal itself fully — a towering shape wreathed in shrieking shadows, its grin the last thing its victims see before they join its swarm.
