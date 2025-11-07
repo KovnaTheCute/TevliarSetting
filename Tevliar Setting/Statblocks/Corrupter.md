@@ -59,3 +59,11 @@ Those who listen too long begin to change. Their shadows twist unnaturally, thei
 Even adventurers can feel the pull — promises of forbidden strength, of control, of peace from the pain of their mortal lives. Many a hero’s downfall began not with a blade, but with a whisper.
 
 **Feeding on Despair:** Corrupters delight in suffering. When they invade a community, they strike from the shadows, turning friend against friend, sowing paranoia until the survivors are forced to witness their loved ones’ transformation. Only when all hope is gone does the Corrupter reveal itself fully — a towering shape wreathed in shrieking shadows, its grin the last thing its victims see before they join its swarm.
+
+**DM’s Note:**
+The Corrupter is best used as a psychological horror villain, the unseen manipulator behind a village’s downfall, or the voice in the adventurers’ dreams. Its real strength lies not in combat, but in slow corruption over time.
+- Introduce it through atmosphere first: dead rats, strange laughter, friends acting oddly.
+- Let players slowly accrue Possession levels over several sessions — not just encounters — using dreams, whispers, and fleeting hallucinations.
+- Give them the choice to resist or give in. Maybe the Corrupter offers real help once or twice (“I can save them… just say _yes_.”).
+- When they finally confront it, make the battle feel personal — each player fighting not only the fiend, but the shadow of their own fears.
+If you want to emphasize tragedy, allow one NPC or even a former ally to have become a Twisted Servant, recognizable only by a broken grin and eyes that no longer see.
