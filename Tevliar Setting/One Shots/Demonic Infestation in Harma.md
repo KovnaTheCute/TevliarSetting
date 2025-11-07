@@ -17,16 +17,7 @@ Two parts to the quest
 
 **Before the Summoning:** Until the portal is opened there is a reprogramed clockwork hulk at standby, it follows all commands from the fanatics or leader. Once the portal is activated the stream spirit within the hulk is destroyed and the hulk is deactivated. A new steam spirit could inhabit the hulk as it is still operational.
 
-**During the summoning:** The fanatics are in a constant state of  maintaining an abyssal portal. It takes 4 cultist fanatics to maintain the portal through verbal chant and the other cultists will sacrifice themselves to protect these fanatics at any cost. Demons pour through the portal at the end of each round as determined by the table below.
-
-| Round | Demons                  |
-| ----- | ----------------------- |
-| 1     | 6 Maw Demon             |
-| 2     | The Portal Grows Larger |
-| 3     | 2 Abyssal Scavengers    |
-| 4     | 3 Abyssal Scavengers    |
-| 5     | The portal grows larger |
-| 6     | Corrupter               |
+**During the summoning:** The fanatics are in a constant state of  maintaining an abyssal portal. 4 Fanatics stand chanting, if even one is left alive the portal stays open. At the start of each round each fanatic accrues 1 summoning token towards the total. Once the total reaches 12 the portal is substancial enough for demons to make their way through. At this time,
 
 **Behavior of Demons:**
 - The maw demons attack the nearest prey, regardless of what it is.
