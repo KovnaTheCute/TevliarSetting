@@ -6,15 +6,14 @@ size: Large
 type: Fiend
 subtype: (Demon)
 alignment: Chaotic Evil
-ac: 14
-hp: Number
-hit_dice: 
-speed: 30ft., fly 30 ft. (Hover)
-stats: [12, 11, 14, 16, 17, 10]
+ac: 16
+hp: 136
+hit_dice: 16d10 + 48
+speed: 0ft., fly 30 ft. (Hover)
+stats: [10, 14, 16, 18, 15, 19]
 saves: 
-- dash: 
-- potato: 
-- stew: 
+- Wisdom: +5
+- Charisma: +7
 skillsaves: 
 - Intimidation: +3
 - Persuasion: +3
