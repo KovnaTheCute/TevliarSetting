@@ -4,6 +4,7 @@
 
 # C
 [[Cleaning Ooze]]
+[[Clockwork Hulk]]
 [[Cloudskimmer]]
 [[Colossal Warforged Titan]]
 [[Corrupter]]
