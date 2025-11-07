@@ -29,25 +29,12 @@ traits:
 - name: Hollow Mind.
   desc: "The Twisted Wretch has advantage on saving throws against psychic damage and can not be possessed or controled."
 - name: Abyssal Husk.
-  desc: "When reduced to 0 hit points, the Twisted Wretch's body ruptures, releasing a burst of ethereal rats. Each creature within 10 feet must make a DC 13 Constitution saving throw or take 9 (2d8) necrotic damage."
+  desc: "When reduced to 0 hit points, the Twisted Wretch's body ruptures, releasing a burst of ethereal rats. Each creature within 10 feet must make a DC 13 Constitution saving throw or take 9 (2d8) necrotic damage and have disadvantage on wisdom saves until the end of their next turn."
 actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-legendary_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-bonus_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-reactions: 
-- name: 
-  desc:
+- name: Multiattack.
+  desc: "The Twisted Servant makes two Claw attacks."
+- name: Claw.
+  desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage plus 4 (1d8) necrotic damage."
 ```
 
 ### Description:
