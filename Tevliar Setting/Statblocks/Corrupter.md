@@ -43,11 +43,8 @@ actions:
 bonus_actions: 
 - name: Phase Through Shadoes.
   desc: "The Corrupter magically teleports up to 30 feet to an unoccupied space it can see that is in dim light or darkness."
-- name: 
-  desc: 
-reactions: 
-- name: 
-  desc:
+- name: Corruption.
+  desc: "When a creature reaches 3 levels of Possession, the Corrupter may use a bonus action to attempt to seize full control. The victim must make a DC 16 Charisma saving throw. On a success the creature resists but is stunned until the end of its next turn as their body spasms. On a failure the Corrupter’s shadow engulfs them the creature becomes a Twisted Servant, an undead-fiend hybrid under the Corrupter’s control."
 ```
 
 ### Description:
