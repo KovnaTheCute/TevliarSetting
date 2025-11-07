@@ -16,8 +16,9 @@ saves:
 - potato: 
 - stew: 
 skillsaves: 
-- Intimidation: +
-- turtle: 
+- Intimidation: +3
+- Persuasion: +3
+- Insight: +6
 damage_vulnerabilities: 
 damage_resistances: 
 damage_immunities: 
