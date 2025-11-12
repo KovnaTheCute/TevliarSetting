@@ -22,3 +22,5 @@
 [[Monster Emporium]]
 [[Information Vault]]
 [[Library]]
+[[Bubbles and Robes]] - Laundry run by wizards
+[[Bottle Depot]] - Potion bottle recovery and sale
