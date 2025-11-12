@@ -67,3 +67,7 @@ The Corrupter is best used as a psychological horror villain, the unseen manipul
 - Give them the choice to resist or give in. Maybe the Corrupter offers real help once or twice (“I can save them… just say _yes_.”).
 - When they finally confront it, make the battle feel personal — each player fighting not only the fiend, but the shadow of their own fears.
 If you want to emphasize tragedy, allow one NPC or even a former ally to have become a Twisted Servant, recognizable only by a broken grin and eyes that no longer see.
+
+The corruptor is extremely dangerous due to its possession mechanic and should only be used when you are prepared to have a PC die. If you want to run the stat block without that risk simply build possession without possessing the players.
+
+With the possession trait of whispers passing the player characters notes or actually giving them lines from the corruptor offering help, power, or promises is a really powerful narrative hook and could potentially turn the players against one another. The corruptor is willing to grant these promises however it savors the twisted fulfilment like a genie (Offers to help a cleric find those who need healing, fulfils this by turning the cleric into a blood thirsty twisted wretch. Helping the cleric find those in need of healing through creating the wounds that need to be healed)
