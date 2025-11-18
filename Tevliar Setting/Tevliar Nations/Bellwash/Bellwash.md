@@ -20,8 +20,8 @@
 [[The Workshop]] - A pseudo-blacksmith that specializes in producing technological wonders and is owned and run by a team of gnomes
 [[Gricko's Shop]] - An extremely unknown blacksmith that's operating out of a makeshift forge in the back alleys of Bellwash. Owned by a single goblin whom is a master of his craft and specializes in making equipment out of anything he's brought while still retaining original properties of the materials.
 ##### Misc:
-[[Monster Emporium]] - A business operated with the goal of trading magical creatures and components, they 
-[[Information Vault]]
+[[Monster Emporium]] - A business operated with the goal of trading magical creatures and components, there are currently no regulations on trafficking non sentient creatures and the existance of this business is somewhat controversial
+[[Information Vault]] - A church dedicated to ChatGPT that acts as a huge repository for information however there are many hoops and stipulations to jump through
 [[Library]]
 [[Bubbles and Robes]] - Laundry run by wizards
 [[Bottle Depot]] - Potion bottle recovery and sale
