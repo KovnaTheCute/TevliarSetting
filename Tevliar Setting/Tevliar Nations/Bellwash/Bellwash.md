@@ -15,9 +15,10 @@
 [[Plants and Potions]] -  A general apothecary controlled and regulated by the empire, they sell approved potions and herbs that are considered safe for adventurers to purchase. Shopping here requires an adventurer guild certificate.
 [[Warpdust Dispensery]] - This apothecary specializes in poisons and drugs, often addictive. They are operating underneath Bellwash's gaze and work in the shadows through dealers and proxies.
 ##### Blacksmiths:
-[[Hammer an Sweat]] - Large Blacksmithing warehouse in Bellwash that manufactures the majority of adventurer gear that is sold
-[[Tooth and Nail]]
+[[Hammer an Sweat]] - Large Blacksmithing warehouse in Bellwash that manufactures the majority of adventurer gear that is sold in and around bellwash.
+[[Tooth and Nail]] - 
 [[The Workshop]]
+[[Gricko's Shop]]
 ##### Misc:
 [[Monster Emporium]]
 [[Information Vault]]
