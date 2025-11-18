@@ -8,7 +8,7 @@
 ### Shops:
 ##### General:
 [[General Market]] - Bellwash's main streets are bustling and competitive, hundreds of market stalls fight for good spots and are constantly changing and moving around, nearly anything can be found here 
-[[Shop Shop Enterprise]]
+[[Shop Shop Enterprise]] - A business enterprise run by half elves that bulk produces adventuring gear and general products, owning business in nearly every Capital city in and bordering the Belldonia empire
 ##### Baubles and Odds:
 [[Trinko's Tinkets]]
 ##### Apothecaries:
