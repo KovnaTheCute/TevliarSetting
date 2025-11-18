@@ -1,9 +1,9 @@
 #City
 # Notable Shops and Inns
 ### Inns:
-[[Musty Goblet]]
-[[Dragon Den]]
-[[Silver Fiddle]]
+[[Musty Goblet]] - Inn at the center of Bellwash, it's location and reputation makes it an adventurer hotspot, and it's almost always full because of it
+[[Dragon Den]] - Prestigious Inn located in the noble sector of bellwash, although high ranking and successful adventurers do stay here it's mainly used by wealthy merchants and members of large crime organizations
+[[Silver Fiddle]] - An Inn located in the back streets of bellwash it is of lesser renown however the inn keep i
 [[Bens Bedhouse]]
 ### Shops:
 ##### General:
