@@ -16,7 +16,7 @@
 [[Warpdust Dispensery]] - This apothecary specializes in poisons and drugs, often addictive. They are operating underneath Bellwash's gaze and work in the shadows through dealers and proxies.
 ##### Blacksmiths:
 [[Hammer an Sweat]] - Large Blacksmithing warehouse in Bellwash that manufactures the majority of adventurer gear that is sold in and around Bellwash.
-[[Tooth and Nail]] - 
+[[Tooth and Nail]] - A small blacksmith shop run by a small team of tieflings. They specialize in enhancing equipment through magical means
 [[The Workshop]]
 [[Gricko's Shop]]
 ##### Misc:
