@@ -13,7 +13,7 @@
 [[Trinko's Tinkets]] - A shop run by a kenku that sells minor magical items and novelty gadgets
 ##### Apothecaries:
 [[Plants and Potions]] -  A general apothecary controlled and regulated by the empire, they sell approved potions and herbs that are considered safe for adventurers to purchase. Shopping here requires an adventurer guild certificate.
-[[Warpdust Dispensery]]
+[[Warpdust Dispensery]] - This apothecary specializes in poisons and drugs, often addictive. They are operating underneath Bellwash's gaze and work in the shadows through dealers and proxies.
 ##### Blacksmiths:
 [[Hammer an Sweat]]
 [[Tooth and Nail]]
