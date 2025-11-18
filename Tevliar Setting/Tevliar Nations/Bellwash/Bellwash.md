@@ -10,9 +10,9 @@
 [[General Market]] - Bellwash's main streets are bustling and competitive, hundreds of market stalls fight for good spots and are constantly changing and moving around, nearly anything can be found here 
 [[Shop Shop Enterprise]] - A business enterprise run by half elves that bulk produces adventuring gear and general products, owning business in nearly every Capital city in and bordering the Belldonia empire
 ##### Baubles and Odds:
-[[Trinko's Tinkets]]
+[[Trinko's Tinkets]] - A shop run by a kenku that sells minor magical items and novelty gadgets
 ##### Apothecaries:
-[[Plants and Potions]]
+[[Plants and Potions]] -  A general apothecary controlled and regulated by the empire, they sell approved potions and herbs that are considered safe for adventurers to purchase. Shopping here requires an adventurer guild certificate.
 [[Warpdust Dispensery]]
 ##### Blacksmiths:
 [[Hammer an Sweat]]
