@@ -14,10 +14,9 @@
 - Items with various magical properties.
 
 [[Standard Prices]]
-- Price tables for standard market prices across Tevliar.
+- Price tables for standard prices across Tevliar.
 
 [[Quests]]
 - Various Quest information and Quest tables.
 
 [[One Shots]]
-- Short Adventurers that can be run in one or two sessions and resolve around a single point

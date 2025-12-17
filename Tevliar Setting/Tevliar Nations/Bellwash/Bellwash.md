@@ -1,27 +1,24 @@
 #City
 # Notable Shops and Inns
 ### Inns:
-[[Musty Goblet]] - Inn at the center of Bellwash, it's location and reputation makes it an adventurer hotspot, and it's almost always full because of it
-[[Dragon Den]] - Prestigious Inn located in the noble sector of Bellwash, although high ranking and successful adventurers do stay here it's mainly used by wealthy merchants and members of large crime organizations
-[[Silver Fiddle]] - An Inn located in the back streets of Bellwash it is of lesser renown however the inn keep is a bard whom always has a story to tell.
-[[Bens Bedhouse]] - Occupied primarily by adventurers, this inn is significantly larger on the inside however its maintenance is rather poor, leading patrons to be treated more as warehouse supply then actual guests
+[[Musty Goblet]]
+[[Dragon Den]]
+[[Silver Fiddle]]
+[[Bens Bedhouse]]
 ### Shops:
 ##### General:
-[[General Market]] - Bellwash's main streets are bustling and competitive, hundreds of market stalls fight for good spots and are constantly changing and moving around, nearly anything can be found here 
-[[Shop Shop Enterprise]] - A business enterprise run by half elves that bulk produces adventuring gear and general products, owning business in nearly every Capital city in and bordering the Belldonia empire
+[[General Market]]
+[[Shop Shop Enterprise]]
 ##### Baubles and Odds:
-[[Trinko's Tinkets]] - A shop run by a kenku that sells minor magical items and novelty gadgets
+[[Trinko's Tinkets]]
 ##### Apothecaries:
-[[Plants and Potions]] -  A general apothecary controlled and regulated by the empire, they sell approved potions and herbs that are considered safe for adventurers to purchase. Shopping here requires an adventurer guild certificate.
-[[Warpdust Dispensery]] - This apothecary specializes in poisons and drugs, often addictive. They are operating underneath Bellwash's gaze and work in the shadows through dealers and proxies.
+[[Plants and Potions]]
+[[Warpdust Dispensery]]
 ##### Blacksmiths:
-[[Hammer an Sweat]] - Large Blacksmithing warehouse in Bellwash that manufactures the majority of adventurer gear that is sold in and around Bellwash.
-[[Tooth and Nail]] - A small blacksmith shop run by a small team of Tieflings. They specialize in enhancing equipment through magical means
-[[The Workshop]] - A pseudo-blacksmith that specializes in producing technological wonders and is owned and run by a team of gnomes
-[[Gricko's Shop]] - An extremely unknown blacksmith that's operating out of a makeshift forge in the back alleys of Bellwash. Owned by a single goblin whom is a master of his craft and specializes in making equipment out of anything he's brought while still retaining original properties of the materials.
+[[Hammer an Sweat]]
+[[Tooth and Nail]]
+[[The Workshop]]
 ##### Misc:
-[[Monster Emporium]] - A business operated with the goal of trading magical creatures and components, there are currently no regulations on trafficking non sentient creatures and the existance of this business is somewhat controversial
-[[Information Vault]] - A church dedicated to ChatGPT that acts as a huge repository for information however there are many hoops and stipulations to jump through to get access to much of the more selective information
-[[Library]] - A huge library filled with nearly every book ever written, they work closely with the information vault despite not having a direct connection to religion
-[[Bubbles and Robes]] - Laundry run by wizards
-[[Bottle Depot]] - Potion bottle recovery and sale
+[[Monster Emporium]]
+[[Information Vault]]
+[[Library]]
