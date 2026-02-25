@@ -12,4 +12,4 @@ The players begin the campaign by arriving at the circus entrance. Through the c
 	Join our charade and you'll surely have fun.
 	Leave if you will but know it's fruitless to run!
 
-Upon reading the note the players have an urge to investigate the circus further, failure to do so
+Upon reading the note the players have an urge to investigate the circus further, failure to do so results in physical illness.
