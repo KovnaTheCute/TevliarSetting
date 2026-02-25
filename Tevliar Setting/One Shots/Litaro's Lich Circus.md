@@ -12,4 +12,7 @@ The players begin the campaign by arriving at the circus entrance. Through the c
 	Join our charade and you'll surely have fun.
 	Leave if you will but know it's fruitless to run!
 
-Upon reading the note the players have an urge to investigate the circus further, failure to do so results in physical illness.
+Upon reading the note the players have an urge to investigate the circus further, failure to do so results in physical illness until the Lich is defeated.
+
+#### Entering the Circus 1.1
+Once the players decide to open the gate it swings open, almost willingly, with a creak. The circus remains silent until the last player enters the circus grounds. Once they do the gates slam shut
