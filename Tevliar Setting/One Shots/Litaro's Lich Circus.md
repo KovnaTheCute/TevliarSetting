@@ -28,4 +28,4 @@ Note: The Flesh puppets utilize the zombie statblock with the added regeneration
 The Flesh Puppets will continue their attack until the players enter one of the three circus tents, there are two smaller ones and one huge one.
 
 #### Choosing a tent 2.0
-The players have three options as to where to escape the flesh puppets
+The players have three options as to where to escape the flesh puppets. The [[Undead Strongman]]s tent is one of the two smaller ones. It is lit up, light spilling out of the entrance. The twins tent is the other of the smaller two and is completely dark, a symbol of two hands intertwining over the entrance
