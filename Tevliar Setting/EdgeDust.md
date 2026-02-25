@@ -43,18 +43,18 @@ Edgedust is ingested in a variety of ways, it can be consumed, snorted, and inje
 
 #### Injected Effects
 
-| d12 | Effect                                                                                            |
-| --- | ------------------------------------------------------------------------------------------------- |
-| 1   | The user's strength score doubles for one minute, afterwards they suffer two levels of exhaustion |
-| 2   | The users limbs bend and stretch unnaturally. They gain 10 ft extra                               |
-| 3   |                                                                                                   |
-| 4   |                                                                                                   |
-| 5   |                                                                                                   |
-| 6   |                                                                                                   |
-| 7   |                                                                                                   |
-| 8   |                                                                                                   |
-| 9   |                                                                                                   |
-| 10  |                                                                                                   |
-| 11  |                                                                                                   |
-| 12  |                                                                                                   |
+| d12 | Effect                                                                                                                                                                                                                       |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | The user's strength score doubles for one minute, afterwards they suffer two levels of exhaustion                                                                                                                            |
+| 2   | The users limbs bend and stretch unnaturally. They gain 10 ft extra melee reach for 1 minute. Afterwards they take 4d6 necrotic damage as their limbs snap back into place.                                                  |
+| 3   | The user regains 4d10 HP instantly. Any HP that would increase the users health beyond their hit point maximum become temporary hit points. The user gains a permanent visual mutation (silver veins, shifting pupils, etc.) |
+| 4   | Each time the user is struck during the next minute they teleport 5ft in a random direction.                                                                                                                                 |
+| 5   | For the next 3 rounds all creatures within 10 ft must make a DC 15 CON save or be pulled 5 ft towards you.                                                                                                                   |
+| 6   |                                                                                                                                                                                                                              |
+| 7   |                                                                                                                                                                                                                              |
+| 8   |                                                                                                                                                                                                                              |
+| 9   |                                                                                                                                                                                                                              |
+| 10  |                                                                                                                                                                                                                              |
+| 11  |                                                                                                                                                                                                                              |
+| 12  |                                                                                                                                                                                                                              |
 
