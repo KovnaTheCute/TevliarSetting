@@ -26,20 +26,20 @@ Edgedust is ingested in a variety of ways, it can be consumed, snorted, and inje
 
 #### Snorted Effects
 
-| d12 | Effect                                                                                                                                                                         |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | For the next 10 minutes the user can see hidden magical auras and invisible creatures. Afterwards they have disadvantage on all wisdom saves and checks for 1 hour.            |
-| 2   | The room around the user seems to unfold into impossible geometry. The user randomly teleports to a space within 30ft at the start of each of their turns for the next minute. |
-| 3   |                                                                                                                                                                                |
-| 4   |                                                                                                                                                                                |
-| 5   |                                                                                                                                                                                |
-| 6   |                                                                                                                                                                                |
-| 7   |                                                                                                                                                                                |
-| 8   |                                                                                                                                                                                |
-| 9   |                                                                                                                                                                                |
-| 10  |                                                                                                                                                                                |
-| 11  |                                                                                                                                                                                |
-| 12  |                                                                                                                                                                                |
+| d12 | Effect                                                                                                                                                                                                                                   |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | For the next 10 minutes the user can see hidden magical auras and invisible creatures. Afterwards they have disadvantage on all wisdom saves and checks for 1 hour.                                                                      |
+| 2   | The room around the user seems to unfold into impossible geometry. The user randomly teleports to a space within 30ft at the start of each of their turns for the next minute.                                                           |
+| 3   | For the next minute the player may ask "What happens if I do this?" and receive a brief vision of the immediate consequences.                                                                                                            |
+| 4   | The user perceives 2 - 3 branching realities and shifts between them. They gain an additional turn in initiative that is either 1d4 above or below (flip a coin) their current initiative. At the end of each turn they take 4d6 damage. |
+| 5   |                                                                                                                                                                                                                                          |
+| 6   |                                                                                                                                                                                                                                          |
+| 7   |                                                                                                                                                                                                                                          |
+| 8   |                                                                                                                                                                                                                                          |
+| 9   |                                                                                                                                                                                                                                          |
+| 10  |                                                                                                                                                                                                                                          |
+| 11  |                                                                                                                                                                                                                                          |
+| 12  |                                                                                                                                                                                                                                          |
 
 #### Injected Effects
 
