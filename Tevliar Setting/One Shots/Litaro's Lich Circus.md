@@ -7,4 +7,9 @@ Level 8 One Shot
 	- 2.3) The players go straight to the ringleaders tent. Inside the players encounter the ringleader, the lich that runs the circus.
 
 #### The entrance. 1.0
-The players begin the campaign by arriving at the circus entrance. Through the closed gate is a grizzly scene. Corpses litter the ground, most mutilated beyond recognition. The circus is silent, the only movement being pinwheels slowly spinning in the breeze. 
+The players begin the campaign by arriving at the circus entrance. Through the closed gate is a grizzly scene. Corpses litter the ground, most mutilated beyond recognition. The circus is silent, the only movement being pinwheels slowly spinning in the breeze. The putrid stench of rot and decay radiates from the circus, overwhelming and unavoidable. The ticket booth contains a corpse, strung up with hooks with a smile nailed into their face. In front of the corpse, on the counter facing the players, are a number of tickets equivalent to the number of players along with a note that reads:
+
+	Join our charade and you'll surely have fun.
+	Leave if you will but know it's fruitless to run!
+
+Upon reading the note the players have an urge to investigate the circus further, failure to do so
