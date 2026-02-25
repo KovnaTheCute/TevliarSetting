@@ -36,25 +36,25 @@ Edgedust is ingested in a variety of ways, it can be consumed, snorted, and inje
 | 6   | The user gains an extra action for the next 3 rounds, afterwards they are incapacitated for 1 round.                                                                                                                                     |
 | 7   | The user perfectly recalls one forgotten memory, and permanently forgets one as well.                                                                                                                                                    |
 | 8   | For 1 minute the user is immune to all illusions and charm effects.                                                                                                                                                                      |
-| 9   | The user gains advantage on insight checks but                                                                                                                                                                                           |
-| 10  |                                                                                                                                                                                                                                          |
-| 11  |                                                                                                                                                                                                                                          |
-| 12  |                                                                                                                                                                                                                                          |
+| 9   | The user gains advantage on insight checks but makes uncontrollable alien commentary for the next minute.                                                                                                                                |
+| 10  | Abstract concepts become tangible. Lies smell like smoke and fear tastes like metal.                                                                                                                                                     |
+| 11  | Roll twice on this table, both effects occur.                                                                                                                                                                                            |
+| 12  | For one round the user perceives the edge beyond reality, understanding their existence as a fictional character. They then immediately suffer long term madness.                                                                        |
 
 #### Injected Effects
 
-| d12 | Effect |
-| --- | ------ |
-| 1   |        |
-| 2   |        |
-| 3   |        |
-| 4   |        |
-| 5   |        |
-| 6   |        |
-| 7   |        |
-| 8   |        |
-| 9   |        |
-| 10  |        |
-| 11  |        |
-| 12  |        |
+| d12 | Effect                                                                                            |
+| --- | ------------------------------------------------------------------------------------------------- |
+| 1   | The user's strength score doubles for one minute, afterwards they suffer two levels of exhaustion |
+| 2   |                                                                                                   |
+| 3   |                                                                                                   |
+| 4   |                                                                                                   |
+| 5   |                                                                                                   |
+| 6   |                                                                                                   |
+| 7   |                                                                                                   |
+| 8   |                                                                                                   |
+| 9   |                                                                                                   |
+| 10  |                                                                                                   |
+| 11  |                                                                                                   |
+| 12  |                                                                                                   |
 
