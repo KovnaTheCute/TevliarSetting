@@ -26,20 +26,20 @@ Edgedust is ingested in a variety of ways, it can be consumed, snorted, and inje
 
 #### Snorted Effects
 
-| d12 | Effect |
-| --- | ------ |
-| 1   |        |
-| 2   |        |
-| 3   |        |
-| 4   |        |
-| 5   |        |
-| 6   |        |
-| 7   |        |
-| 8   |        |
-| 9   |        |
-| 10  |        |
-| 11  |        |
-| 12  |        |
+| d12 | Effect                                                                                                                                                                         |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | For the next 10 minutes the user can see hidden magical auras and invisible creatures. Afterwards they have disadvantage on all wisdom saves and checks for 1 hour.            |
+| 2   | The room around the user seems to unfold into impossible geometry. The user randomly teleports to a space within 30ft at the start of each of their turns for the next minute. |
+| 3   |                                                                                                                                                                                |
+| 4   |                                                                                                                                                                                |
+| 5   |                                                                                                                                                                                |
+| 6   |                                                                                                                                                                                |
+| 7   |                                                                                                                                                                                |
+| 8   |                                                                                                                                                                                |
+| 9   |                                                                                                                                                                                |
+| 10  |                                                                                                                                                                                |
+| 11  |                                                                                                                                                                                |
+| 12  |                                                                                                                                                                                |
 
 #### Injected Effects
 
