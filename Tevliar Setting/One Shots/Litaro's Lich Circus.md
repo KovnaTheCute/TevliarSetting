@@ -17,6 +17,6 @@ Upon reading the note the players have an urge to investigate the circus further
 #### Entering the Circus 1.1
 Once the players decide to open the gate it swings open, almost willingly, with a creak. The circus remains silent until the last player enters the circus grounds. Once they do the gates slam shut and loose ropes snake out from numerous cracks and crevasses, wrapping themselves around hooks imbedded in numerous corpses and lifting those corpses up. Unless the players run, combat then ensues between the 20 Flesh Puppets and the players.
 
-At the start of each turn each flesh puppet will regain 2d6 hit points, even if the flesh puppet is dead, as the 
+At the start of each turn each flesh puppet will regain 2d6 hit points, even if the flesh puppet is dead, as the ropes pulling them to fight stitch and tie them back together. The ropes controlling them can be cut however they immediately reconnect themselves. The following spells permanently dispel the magic that reanimates the flesh puppets: Anti-magic Sphere, Remove Curse, Dispel Magic, 
 
-Note: The Flesh puppets utilize the zombie statblock.
+Note: The Flesh puppets utilize the zombie statblock with the added regeneration effect.
