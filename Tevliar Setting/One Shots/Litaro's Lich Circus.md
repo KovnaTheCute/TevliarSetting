@@ -7,4 +7,4 @@ Level 8 One Shot
 	- 2.3) The players go straight to the ringleaders tent. Inside the players encounter the ringleader, the lich that runs the circus.
 
 #### The entrance. 1.0
-The players begin the campaign by arriving at the circus enterance 
+The players begin the campaign by arriving at the circus entrance. Through the closed gate is a grizzly scene. Corpses litter the ground, most mutilated beyond recognition. The circus is silent, the only movement being pinwheels slowly spinning in the breeze. 
