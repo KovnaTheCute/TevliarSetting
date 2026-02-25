@@ -1,0 +1,1 @@
+Edge dust is a widespread highly addictive drug
