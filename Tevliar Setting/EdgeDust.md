@@ -9,20 +9,14 @@ Edgedust is ingested in a variety of ways, it can be consumed, snorted, and inje
 
 #### Consumed Effects 
 
-| d12 | Effect |
-| --- | ------ |
-| 1   |        |
-| 2   |        |
-| 3   |        |
-| 4   |        |
-| 5   |        |
-| 6   |        |
-| 7   |        |
-| 8   |        |
-| 9   |        |
-| 10  |        |
-| 11  |        |
-| 12  |        |
+| d12 | Effect                                              |
+| --- | --------------------------------------------------- |
+| 1   | For 1 minute the user exists slightly out of sync.  |
+| 2   |                                                     |
+| 3   |                                                     |
+| 4   |                                                     |
+|     |                                                     |
+|     |                                                     |
 
 #### Snorted Effects
 
