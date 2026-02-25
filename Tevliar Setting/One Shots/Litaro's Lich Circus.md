@@ -15,4 +15,4 @@ The players begin the campaign by arriving at the circus entrance. Through the c
 Upon reading the note the players have an urge to investigate the circus further, failure to do so results in physical illness until the Lich is defeated.
 
 #### Entering the Circus 1.1
-Once the players decide to open the gate it swings open, almost willingly, with a creak. The circus remains silent until the last player enters the circus grounds. Once they do the gates slam shut
+Once the players decide to open the gate it swings open, almost willingly, with a creak. The circus remains silent until the last player enters the circus grounds. Once they do the gates slam shut and loose ropes snake out from numerous cracks and crevasses, wrapping themselves around hooks imbedded in numerous corpses and lifting those corpses up. Unless the players run, combat then ensues between the Flesh Puppets and the players.
