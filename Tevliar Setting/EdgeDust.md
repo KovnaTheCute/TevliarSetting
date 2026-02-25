@@ -46,7 +46,7 @@ Edgedust is ingested in a variety of ways, it can be consumed, snorted, and inje
 | d12 | Effect                                                                                            |
 | --- | ------------------------------------------------------------------------------------------------- |
 | 1   | The user's strength score doubles for one minute, afterwards they suffer two levels of exhaustion |
-| 2   |                                                                                                   |
+| 2   | The users limbs bend and stretch unnaturally. They gain 10 ft extra                               |
 | 3   |                                                                                                   |
 | 4   |                                                                                                   |
 | 5   |                                                                                                   |
