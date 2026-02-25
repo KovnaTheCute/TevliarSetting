@@ -1,8 +1,6 @@
 # Common
 [[Hunters Box]]
-
-# Uncommon
-[[Fake Moustache of Charisma]]
+[[Fake Moustache]]
 
 # Rare
 [[Master Hunters Box]]
