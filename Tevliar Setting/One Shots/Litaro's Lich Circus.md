@@ -33,7 +33,7 @@ The players have three options as to where to escape the flesh puppets. The [[Un
 #### The Undead Strongman's Tent 2.1
 Upon entering the strongman's tent the players are confronted with three zombie ogres, each wielding a heavy barbell (2d12 Bludgeoning Damage, Two Handed). Their hands are seared onto the barbells, they are unable to let them go. The tent itself is open, a performance tent. The stands contain dozens of corpses, all with their faces nailed into a smile, propped up to 'Watch' the show. Upon defeating the Ogres the lights go out, spotlights focusing on the back of the tent, Where the [[Undead Strongman]] bursts from the back curtains.
 
-Once the players defeat the strongman they may loot the tent. The strongman himself has a Belt of Giant Strength and a [[Fake Moustache]]. In the back room of the tent with a successful DC 12 investigation check the players are able to find a hidden crate with 4 Potions of Strength and 6 pouches of [[WarpDust]].
+Once the players defeat the strongman they may loot the tent. The strongman himself has a Belt of Giant Strength and a [[Fake Moustache]]. In the back room of the tent with a successful DC 12 investigation check the players are able to find a hidden crate with 4 Potions of Strength and 6 pouches of [[EdgeDust]].
 
 #### The Twin Contortionists Tent 2.2
 
