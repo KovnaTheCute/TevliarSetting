@@ -9,14 +9,14 @@ Edgedust is ingested in a variety of ways, it can be consumed, snorted, and inje
 
 #### Consumed Effects 
 
-| d12 | Effect                                              |
-| --- | --------------------------------------------------- |
-| 1   | For 1 minute the user exists slightly out of sync.  |
-| 2   |                                                     |
-| 3   |                                                     |
-| 4   |                                                     |
-|     |                                                     |
-|     |                                                     |
+| d12 | Effect                                                                                                                                        |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | For 1 minute the user exists slightly out of sync. They may re-roll their next failed save however they are immediately stunned afterwards.   |
+| 2   | The users weight fluctuates. For the next minute, at the start of each round the user rolls a d4. If the result is even their gravity is doub |
+| 3   |                                                                                                                                               |
+| 4   |                                                                                                                                               |
+|     |                                                                                                                                               |
+|     |                                                                                                                                               |
 
 #### Snorted Effects
 
