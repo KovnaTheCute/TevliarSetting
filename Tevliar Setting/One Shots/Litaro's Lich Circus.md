@@ -1,4 +1,6 @@
 #### Rough Event timeline
 - 1) The players enter the circus grounds, they are immediately attacked by a handful of masked ghouls.
 - 2) The players travel to one of the three circus tents
-	- 2.1) The players choose the strongmans tent. Inside the players encounter the Undead Strongman, his posse of buff ghouls
+	- 2.1) The players choose the strongmans tent. Inside the players encounter the Undead Strongman and his undead pets, Bearyl and Lianon.
+	- 2.2) The players enter the contortionist twins tent. Inside the players encounter the two contortionist twins whom are masters of gymnastics.
+	- 2.3) The players go straight to the ringleaders tent
