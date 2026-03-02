@@ -81,7 +81,7 @@
                   "repelStrength": 9.89247311827957,
                   "linkStrength": 1,
                   "linkDistance": 376,
-                  "scale": 0.8394650078978846,
+                  "scale": 0.22637876803362864,
                   "close": true
                 }
               },
@@ -238,7 +238,15 @@
   "active": "4e2a067ca9146561",
   "lastOpenFiles": [
     "/Tevliar Setting/One Shots/One Shots.md",
+    "/Tevliar Setting/One Shots/Litaro's Lich Circus.md",
+    "Tevliar Setting/One Shots/Litaro's Lich Circus.md",
     "/Tevliar Setting/One Shots",
+    "/Tevliar Setting/Magic Items/Magic Items.md",
+    "/Tevliar Setting/Magic Items/Fake Moustache.md",
+    "Tevliar Setting/Magic Items/Fake Moustache.md",
+    "/Tevliar Setting/Magic Items",
+    "/Tevliar Setting/EdgeDust.md",
+    "Tevliar Setting/EdgeDust.md",
     "/Tevliar Setting",
     "Tevliar Setting/Statblocks/Twisted Wretch.md",
     "Tevliar Setting/Statblocks/Corrupter.md",
@@ -261,16 +269,9 @@
     "Tevliar Setting/Tevliar Nations/Bellwash/Bellwash.md",
     "Tevliar Setting/Tevliar Nations/Bellwash",
     "Tevliar Setting/One Shots/Demonic Infestation in Harma.md",
-    "Tevliar Setting/One Shots/One Shots.md",
     "Tevliar Setting/One Shots",
-    "/Tevliar Setting/Tevliar Nations/Harma/Harma.md",
-    "/Tevliar Setting/Tevliar Nations/Bellwash/Bellwash.md",
-    "/Tevliar Setting/Quests/Random Quest Tables.md",
     "/Tevliar Setting/Quests",
-    "/Tevliar Setting/DnD Tevliar Setting.md",
-    "/Tevliar Setting/Tevliar Nations/Bellwash/Dragon Den.md",
     "/Tevliar Setting/Tevliar Nations/Harma",
-    "/Tevliar Setting/Tevliar Nations/Bellwash",
-    "/Tevliar Setting/Tevliar Nations"
+    "/Tevliar Setting/Tevliar Nations/Bellwash"
   ]
 }
