@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Avatars.md",
+                "file": "Tevliar Setting/One Shots/Litaro's Lich Circus.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Avatars"
+              "title": "Litaro's Lich Circus"
             },
             "group": "8ddba9d477e7d8c0"
           },
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Avatars.md",
+                "file": "Tevliar Setting/One Shots/Litaro's Lich Circus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -235,8 +235,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "4e2a067ca9146561",
+  "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
+    "Tevliar Setting/Statblocks/Avatars.md",
     "/Tevliar Setting/One Shots/One Shots.md",
     "/Tevliar Setting/One Shots/Litaro's Lich Circus.md",
     "Tevliar Setting/One Shots/Litaro's Lich Circus.md",
@@ -268,7 +269,6 @@
     "Tevliar Setting/Tevliar Nations/Bellwash/Dragon Den.md",
     "Tevliar Setting/Tevliar Nations/Bellwash/Bellwash.md",
     "Tevliar Setting/Tevliar Nations/Bellwash",
-    "Tevliar Setting/One Shots/Demonic Infestation in Harma.md",
     "Tevliar Setting/One Shots",
     "/Tevliar Setting/Quests",
     "/Tevliar Setting/Tevliar Nations/Harma",
