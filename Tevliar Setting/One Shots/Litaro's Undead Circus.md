@@ -2,8 +2,8 @@ Level 8 One Shot
 #### Rough Event timeline
 - 1) The players enter the circus grounds, they are immediately attacked by a handful of flesh puppets.
 - 2) The players travel to one of the three circus tents
-	- 2.1) The players choose the Strongmans tent. Inside the players encounter a posse of zombie ogres. After they are defeated the [[Undead Strongman]] and his undead pets, Bearyl and Lianon, confront the players.
-	- 2.2) The players enter the contortionist twins tent. Inside the players encounter the two contortionist twins whom are masters of gymnastics. They are joined by a group of shadows.
+	- 2.1) The players choose the Strongman's tent. Inside the players encounter a posse of zombie ogres. After they are defeated the [[Undead Strongman]] and his undead pets, Bearyl and Lianon, confront the players.
+	- 2.2) The players enter the contortionist twins tent. Inside the players encounter the two contortionist twins whom are masters of gymnastics and twist into the shadows as much as each other.
 	- 2.3) The players go straight to the ringleaders tent. Inside the players encounter the ringleader, the [[Smilester]] that runs the circus.
 
 #### The entrance. 1.0
@@ -23,12 +23,12 @@ At the start of each turn each flesh puppet will regain 2d6 hit points, even if 
 - Greater Restoration: Forces the hooks out of the flesh, however the hooks remain cursed and usable.
 - Any other spells can be used through DM discretion
 
-Note: The Flesh puppets utilize the zombie statblock with the added regeneration effect.
+Note: The Flesh puppets utilize the zombie stat block with the added regeneration effect, removed undead constitution, and HP reduced to 10.
 
-The Flesh Puppets will continue their attack until the players enter one of the three circus tents, there are two smaller ones and one huge one.
+The Flesh Puppets will continue their attack until the players enter one of the three circus tents, of which there are two smaller ones and one huge one.
 
 #### Choosing a tent 2.0
-The players have three options as to where to escape the flesh puppets. The [[Undead Strongman]]s tent is one of the two smaller ones. It is lit up, light spilling out of the entrance, with a symbol of a barbell hanging over the entrance. The twins tent is the other of the smaller two and is completely dark, a symbol of two hands intertwining over the entrance. The center tent, the largest one, is the ringleaders tent. A large welcome sign hangs off center and tilted over then entrance. Faint laughter fills the mind of anyone who so much as looks at it.
+The players have three options as to where to escape the flesh puppets. The [[Undead Strongman]]'s tent is one of the two smaller ones. It is lit up, light spilling out of the entrance, with a symbol of a barbell hanging over the entrance. The twins tent is the other of the smaller two and is completely dark, a symbol of two hands intertwining over the entrance. The center tent, the largest one, is the ringleaders tent. A large welcome sign hangs off center and tilted over then entrance. Faint laughter fills the mind of anyone who so much as looks at it.
 
 #### The Undead Strongman's Tent 2.1
 Upon entering the strongman's tent the players are confronted with five zombie ogres, each wielding a heavy barbell (2d12 Bludgeoning Damage, Two Handed). Their hands are seared onto the barbells, they are unable to let them go. The tent itself is open, a performance tent. The stands contain dozens of corpses, all with their faces nailed into a smile, propped up to 'Watch' the show. Upon defeating the Ogres the lights go out, spotlights focusing on the back of the tent, Where the [[Undead Strongman]] bursts from the back curtains.
@@ -40,9 +40,9 @@ Once the players defeat the strongman they may loot the tent. The strongman hims
 #### The Twin Contortionists Tent 2.2
 Upon entering the contortionists tent the players are greeted by complete darkness until the tent opening closes. If the players have light with them they may (With a passive perception of 12 or higher) notice that two shadows, with wide smiles carved into their forms, are the ones closing the door.
 
-Once the door is closed a spotlight illuminates the center of the tent, with the twins in the center. The twins are erratic in their speech, their words imitating their form, their sentences twisting together as their bodies do. They welcome the players to their tent, and they thank the players for the entertainment they are about to provide.
+Once the door is closed a 20ft spotlight illuminates the center of the tent, with the twins in the center. The twins are erratic in their speech, their words imitating their form, their sentences twisting together as their bodies do. They welcome the players to their tent, and they thank the players for the entertainment they are about to provide.
 
-The spotlight then shifts, it moves in a clockwise circle around the tent and moves to a new quarter at the start of each round. Players may use their own lights to the same effect as the spotlight. Players that end their turn in darkness suffer an attack from a shadow's strength drain that automatically hits. Creatures can not be killed by having their strength reduced this way and they regain all lost strength when they leave the contortionists tent.
+The spotlight then shifts, it moves in a clockwise circle around the tent and moves to a new quarter at the start of each round. Players may use their own lights to the same effect as the spotlight. Players that end their turn in darkness suffer an attack from a shadow's strength drain that automatically hits. Creatures can not be killed by having their strength reduced this way (Will not reduce a creatures strength lower then 1) and they regain all lost strength when they leave the contortionists tent.
 
-Every second round a spotlight illuminating the center of the tent turns on until the end of the round, and the contortionists appear in the center, Intertwined with one another in a kiss. If they finish the round without taking any damage both spotlights go out during the next round, and they regain health equal to the damage the darkness deals.
+Every fourth round (4, 8, 12, 16, etc.) a spotlight illuminating the center of the tent turns on until the end of the round, and the contortionists appear in the center, Intertwined with one another in a kiss. If they finish the round without taking any damage both spotlights go out during the next round, and they regain health equal to the damage the darkness deals.
 #### The Ringleaders Tent 3.0
