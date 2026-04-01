@@ -42,5 +42,7 @@ Upon entering the contortionists tent the players are greeted by complete darkne
 
 Once the door is closed a spotlight illuminates the center of the tent, with the twins in the center. The twins are erratic in their speech, their words imitating their form, their sentences twisting together as their bodies do. They welcome the players to their tent, and they thank the players for the entertainment they are about to provide.
 
-The spotlight then shifts, it moves in a clockwise circle around the tent and moves to a new quarter at the start of each round. Players may use their own lights to the same effect as the spotlight. Players that end their turn in darkness suffer an attack from a shadow
+The spotlight then shifts, it moves in a clockwise circle around the tent and moves to a new quarter at the start of each round. Players may use their own lights to the same effect as the spotlight. Players that end their turn in darkness suffer an attack from a shadow's strength drain that automatically hits. Creatures can not be killed by having their strength reduced this way and they regain all lost strength when they leave the contortionists tent.
+
+Every second round a spotlight illuminating the center of the tent turns on until the end of the round, and the contortionists appear in the center, Intertwined with one another in a kiss. If they finish the round without taking any damage both spotlights go out during the next round, and they regain health equal to the damage the darkness deals.
 #### The Ringleaders Tent 3.0
