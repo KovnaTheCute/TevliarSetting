@@ -46,3 +46,4 @@ The spotlight then shifts, it moves in a clockwise circle around the tent and mo
 
 Every fourth round (4, 8, 12, 16, etc.) a spotlight illuminating the center of the tent turns on until the end of the round, and the contortionists appear in the center, Intertwined with one another in a kiss. If they finish the round without taking any damage both spotlights go out during the next round, and they regain health equal to the damage the darkness deals.
 #### The Ringleaders Tent 3.0
+There's a clown car inside with just like, 30 shadows. Womp womp to the players if they don't have spirit guardians.
