@@ -4,7 +4,7 @@ Level 8 One Shot
 - 2) The players travel to one of the three circus tents
 	- 2.1) The players choose the Strongmans tent. Inside the players encounter a posse of zombie ogres. After they are defeated the [[Undead Strongman]] and his undead pets, Bearyl and Lianon, confront the players.
 	- 2.2) The players enter the contortionist twins tent. Inside the players encounter the two contortionist twins whom are masters of gymnastics. They are joined by a group of shadows.
-	- 2.3) The players go straight to the ringleaders tent. Inside the players encounter the ringleader, the lich that runs the circus.
+	- 2.3) The players go straight to the ringleaders tent. Inside the players encounter the ringleader, the [[Smilester]] that runs the circus.
 
 #### The entrance. 1.0
 The players begin the campaign by arriving at the circus entrance. Through the closed gate is a grizzly scene. Corpses litter the ground, most mutilated beyond recognition. The circus is silent, the only movement being pinwheels slowly spinning in the breeze. The putrid stench of rot and decay radiates from the circus, overwhelming and unavoidable. The ticket booth contains a corpse, strung up with hooks with a smile nailed into their face. In front of the corpse, on the counter facing the players, are a number of tickets equivalent to the number of players along with a note that reads:
@@ -12,7 +12,7 @@ The players begin the campaign by arriving at the circus entrance. Through the c
 	Join our charade and you'll surely have fun.
 	Leave if you will but know it's fruitless to run!
 
-Upon reading the note the players have an urge to investigate the circus further, failure to do so results in physical illness until the Lich is defeated.
+Upon reading the note the players have an urge to investigate the circus further, failure to do so results in physical illness until the Circus [[Smilester]] is defeated.
 
 #### Entering the Circus 1.1
 Once the players decide to open the gate it swings open, almost willingly, with a creak. The circus remains silent until the last player enters the circus grounds. Once they do the gates slam shut and loose ropes snake out from numerous cracks and crevasses, wrapping themselves around hooks imbedded in numerous corpses and lifting those corpses up. Unless the players run, combat then ensues between the 20 Flesh Puppets and the players.

@@ -2,4 +2,4 @@
 [[Demonic Infestation in Harma]]
 
 # L
-[[Litaro's Lich Circus]]
+[[Litaro's Undead Circus]]
