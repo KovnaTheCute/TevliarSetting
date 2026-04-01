@@ -40,7 +40,7 @@ Once the players defeat the strongman they may loot the tent. The strongman hims
 #### The Twin Contortionists Tent 2.2
 Upon entering the contortionists tent the players are greeted by complete darkness until the tent opening closes. If the players have light with them they may (With a passive perception of 12 or higher) notice that two shadows, with wide smiles carved into their forms, are the ones closing the door.
 
-Once the door is closed a 20ft spotlight illuminates the center of the tent, with the twins in the center. The twins are erratic in their speech, their words imitating their form, their sentences twisting together as their bodies do. They welcome the players to their tent, and they thank the players for the entertainment they are about to provide.
+Once the door is closed a 20ft spotlight illuminates the center of the tent, with the [[Contortionist Twins]] in the center. The twins are erratic in their speech, their words imitating their form, their sentences twisting together as their bodies do. They welcome the players to their tent, and they thank the players for the entertainment they are about to provide.
 
 The spotlight then shifts, it moves in a clockwise circle around the tent and moves to a new quarter at the start of each round. Players may use their own lights to the same effect as the spotlight. Players that end their turn in darkness suffer an attack from a shadow's strength drain that automatically hits. Creatures can not be killed by having their strength reduced this way (Will not reduce a creatures strength lower then 1) and they regain all lost strength when they leave the contortionists tent.
 
