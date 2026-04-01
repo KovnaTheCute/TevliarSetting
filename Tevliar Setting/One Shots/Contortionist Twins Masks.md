@@ -1,12 +1,13 @@
 #MagicItem 
 Wondrous item (Mask Pair), Legendary, 
-Cost: 100,000 gp
+Cost: 100,000gp
+Requires special attunement from two creatures.
 
 These two masks are forged from a bond between two twisted, horrid twins. So lost in one another's love that they care not for what is distorted and twisted around them. The masks resemble stage masks, both white with black mouths twisted into a smile. 
 
 Wearing one on it's own is mundane, and even when two creatures are wearing them no magical effects are activated until the key phrase is spoken. In order to attune to the masks, two different creatures must put them on, and then, while looking at one another, speak the key phrase in unison:
 
-	Till death do us part, even then we are forever.
+	Till death do us part, even then it will take us together.
 
 When this happens the magic of the masks takes effect and the two creatures gain the following benefits and curses. 
 
