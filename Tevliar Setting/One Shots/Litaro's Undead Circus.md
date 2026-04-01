@@ -38,5 +38,8 @@ The strongman is a very straight forward fight, as his fighting style relies sol
 Once the players defeat the strongman they may loot the tent. The strongman himself has a Belt of Giant Strength and a [[Fake Moustache]]. In the back room of the tent with a successful DC 12 investigation check the players are able to find a hidden crate with 4 Potions of Strength and 6 syringes of [[EdgeDust]].
 
 #### The Twin Contortionists Tent 2.2
+Upon entering the contortionists tent the players are greeted by complete darkness until the tent opening closes. If the players have light with them they may (With a passive perception of 12 or higher) notice that two shadows, with wide smiles carved into their forms, are the ones closing the door.
+
+Once the door is closed a spotlight illuminates the center of the tent, with the twins in the center. The twins are erratic in their speech, their words imitating their form
 
 #### The Ringleaders Tent 3.0
