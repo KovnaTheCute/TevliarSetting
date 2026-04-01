@@ -45,5 +45,7 @@ Once the door is closed a 20ft spotlight illuminates the center of the tent, wit
 The spotlight then shifts, it moves in a clockwise circle around the tent and moves to a new quarter at the start of each round. Players may use their own lights to the same effect as the spotlight. Players that end their turn in darkness suffer an attack from a shadow's strength drain that automatically hits. Creatures can not be killed by having their strength reduced this way (Will not reduce a creatures strength lower then 1) and they regain all lost strength when they leave the contortionists tent.
 
 Every fourth round (4, 8, 12, 16, etc.) a spotlight illuminating the center of the tent turns on until the end of the round, and the contortionists appear in the center, Intertwined with one another in a kiss. If they finish the round without taking any damage both spotlights go out during the next round, and they regain health equal to the damage the darkness deals.
+
+Once the players defeat the twins they may loot the tent. The twins themselves have both of the [[Contortionist Twins Masks]] 
 #### The Ringleaders Tent 3.0
 There's a clown car inside with just like, 30 shadows. Womp womp to the players if they don't have spirit guardians.
