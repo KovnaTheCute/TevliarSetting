@@ -14,3 +14,5 @@ When this happens the magic of the masks takes effect and the two creatures gain
 - Each wearer can always sense the rough location of the second wearer, even across planes, and can telepathically communicate with the other wearer. 
 - If one of the wearers dies they will resurrect after 24 hours as if the revivify spell was used as long as the second wearer remains alive for the entire period.
 - If the wearers are within 5ft of one another they may freely transfer Hit Points between the two of them at will. If they are further then 300ft from one another they become violent, and attack any and all creatures nearby.
+- The wearers can't remove the masks, as they are fused to their very souls. The only way the masks 
+- Mask keeper from e33???
