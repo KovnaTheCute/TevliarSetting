@@ -13,20 +13,12 @@ stats: [11, 20, 14, 15, 16, 17]
 saves: 
 - Dexterity: +8
 skillsaves: 
-- fake-skill: 
-- turtle: 
-damage_vulnerabilities: 
-damage_resistances: 
-damage_immunities: 
-condition_immunities: 
-senses: string
-languages: string
+- Stealth: +8 
+- Acrobatics: +8    
+condition_immunities: prone 
+senses: passive Perception 13
+languages: Common
 cr: 7
-spells: 
-- 
-- 
-- 
--
 traits: 
 - name: 
   desc:
