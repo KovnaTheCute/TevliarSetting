@@ -48,7 +48,7 @@ Every fourth round (4, 8, 12, 16, etc.) a spotlight illuminating the center of t
 
 Once the players defeat the twins they may loot the tent. The twins themselves have both of the [[Contortionist Twins Masks]], along with lockets with portraits of one another in them.
 #### The Ringleaders Tent 3.0
-The ringleaders tent is where Litaro, the ring leader of the circus, resides. The fight with Litaro is a show in and of itself, with an order of events that occurs across phases.
+The ringleaders tent is where Litaro, the ring leader of the circus, resides. The fight with Litaro is a show in and of itself, with an order of events that occurs across phases. Within the tent is the main performing stage, an arena of sorts with two tight rope towers in the center. The stands are filled with flesh puppets 
 ##### Phase 1
 Litaro introduces himself and welcomes the party to the show. The lights go out and when they return, a flesh puppet on a unicycle appears on one of the two tight rope pillars. If the flesh puppet is knocked off the hooks rip it back to the start of the tight rope, where it must restart its stunt across. To progress the phase the flesh puppet must merely make it across to the other side undisturbed. However there is a flock of 10 flesh puppets, their skin torn and pulled into gruesome wings, that are fairly constantly trying to stop the puppets attempt. Once the flesh puppet makes it to the other side of the rope (It moves at 10ft per round), the next phase occurs.
 ##### Phase 2
