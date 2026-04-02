@@ -28,23 +28,10 @@ traits:
 - name: Undead Fortitude.
   desc: If damage reduces the Undead Strongman to 0 hit points, it must make a constitution saving throw with a DC of 5 + the damage taken or 20, whichever is lower, unless the damage is radiant or froma  critical hit. Ona  success, the Undead Strongman drops to 1 hit point instead.
 actions: 
-- name: Multiattack
+- name: Multiattack.
   desc: The undead Strongman makes two slam attacks
 - name: Slam.
-  desc: "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit:  (4d12 + 7) bludgeoning damage."
-legendary_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-bonus_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-reactions: 
-- name: 
-  desc:
+  desc: "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 33 (4d12 + 7) bludgeoning damage."
 ```
 
 ### Description:
