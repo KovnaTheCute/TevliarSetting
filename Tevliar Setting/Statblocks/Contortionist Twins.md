@@ -35,8 +35,8 @@ bonus_actions:
 - name: 
   desc: 
 reactions: 
-- name: 
-  desc:
+- name: Folded Form.
+  desc:"When the twin takes damage it is reduced by 1d10 + 5 and the twin may move up to 10 ft without triggering opportunity attacks."
 ```
 
 ### Description:
