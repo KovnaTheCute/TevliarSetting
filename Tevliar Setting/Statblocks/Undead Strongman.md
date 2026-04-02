@@ -10,11 +10,10 @@ ac: 12 (Natural Armor)
 hp: 100 - 150
 hit_dice: 10d12
 speed: 30 ft.
-stats: [25, 12, 21, 8, ]
+stats: [25, 12, 21, 8, 6, 14]
 saves: 
-- dash: 
-- potato: 
-- stew: 
+- Constitution: +8
+- Strength: +10
 skillsaves: 
 - fake-skill: 
 - turtle: 
@@ -24,7 +23,7 @@ damage_immunities:
 condition_immunities: 
 senses: string
 languages: string
-cr: Number
+cr: 6
 spells: 
 - 
 - 
