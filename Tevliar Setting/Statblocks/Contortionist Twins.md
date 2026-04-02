@@ -5,10 +5,10 @@ name: Contortionist Twin
 size: Medium
 type: Humanoid
 alignment: Chaotic Evil
-ac: 
-hp: Number
-hit_dice: 
-speed: 
+ac: 17 (Leather Armor)
+hp: 78
+hit_dice: (12d8 + 24)
+speed: 40 ft.
 stats: [11, 20, 14, 15, 16, 17]
 saves: 
 - Dexterity: +8
@@ -25,11 +25,6 @@ traits:
 - name: 
   desc: 
 actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
-legendary_actions: 
 - name: 
   desc: 
 - name: 
