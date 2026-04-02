@@ -21,19 +21,17 @@ languages: Common
 cr: 7
 traits: 
 - name: 
-  desc:
+  desc: 
 - name: 
   desc: 
 actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+- name: Multiattack.
+  desc: The twin makes two Lashing Strikes.
+- name: Lashing Strike
+  desc: "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage."
 bonus_actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+- name: Twisted Shadows.
+  desc: If the twin is in dim light or darkness they may use a bonus action to teleport up to 15 ft.
 reactions: 
 - name: Folded Form.
   desc:"When the twin takes damage it is reduced by 1d10 + 5 and the twin may move up to 10 ft without triggering opportunity attacks."
