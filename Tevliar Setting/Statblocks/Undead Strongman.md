@@ -18,18 +18,13 @@ skillsaves:
 - Intimidation: +5 
 damage_resistances: bludgeoning, piercing, and slashing made with non-magical weapons.
 damage_immunities: poison
-condition_immunities: 
-senses: string
-languages: string
+condition_immunities: poison, stunned
+senses: darkvision 120 ft.
+languages: common
 cr: 6
-spells: 
-- 
-- 
-- 
--
 traits: 
-- name: 
-  desc:
+- name: Trained Showoff.
+  desc: Once per day the Undead Strongman may cast the spell enlarge/reduce on itself
 - name: 
   desc: 
 actions: 
