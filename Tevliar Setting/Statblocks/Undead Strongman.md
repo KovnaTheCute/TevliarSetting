@@ -24,9 +24,9 @@ languages: common
 cr: 6
 traits: 
 - name: Trained Showoff.
-  desc: Once per day the Undead Strongman may cast the spell enlarge/reduce on itself
-- name: 
-  desc: 
+  desc: Once per day the Undead Strongman may cast the spell enlarge/reduce on itself. The spell does not require concentration and it can only be used to enlarge the Undead Strongman.
+- name: Undead Fortitude.
+  desc: If damage reduces the Undead Strongman to 0 hit points 
 actions: 
 - name: 
   desc: 
