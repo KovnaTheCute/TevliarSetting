@@ -26,9 +26,9 @@ traits:
 - name: Trained Showoff.
   desc: Once per day the Undead Strongman may cast the spell enlarge/reduce on itself. The spell does not require concentration and it can only be used to enlarge the Undead Strongman.
 - name: Undead Fortitude.
-  desc: If damage reduces the Undead Strongman to 0 hit points, it must make a constitution saving throw with a DC of 5 + the damage taken or 20, whichever is lower.
+  desc: If damage reduces the Undead Strongman to 0 hit points, it must make a constitution saving throw with a DC of 5 + the damage taken or 20, whichever is lower, unless the damage is radiant or froma  critical hit. Ona  success, the Undead Strongman drops to 1 hit point instead.
 actions: 
-- name: 
+- name: Multiattack
   desc: 
 - name: 
   desc: 
