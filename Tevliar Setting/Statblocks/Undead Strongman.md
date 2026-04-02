@@ -15,11 +15,9 @@ saves:
 - Constitution: +8
 - Strength: +10
 skillsaves: 
-- fake-skill: 
-- turtle: 
-damage_vulnerabilities: 
-damage_resistances: 
-damage_immunities: 
+- Intimidation: +5 
+damage_resistances: bludgeoning, piercing, and slashing made with non-magical weapons.
+damage_immunities: poison
 condition_immunities: 
 senses: string
 languages: string
