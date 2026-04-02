@@ -48,4 +48,7 @@ Every fourth round (4, 8, 12, 16, etc.) a spotlight illuminating the center of t
 
 Once the players defeat the twins they may loot the tent. The twins themselves have both of the [[Contortionist Twins Masks]], along with lockets with portraits of one another in them.
 #### The Ringleaders Tent 3.0
-The ringleaders tent is where Litaro the ring lead
+The ringleaders tent is where Litaro, the ring leader of the circus, resides. The fight with Litaro is a show in and of itself, with an order of events that occurs across rounds.
+
+##### Round 1
+The lights go out and when they return, a flesh puppet on a unicycle appears on one of the two tight rope pillars. when this happens
