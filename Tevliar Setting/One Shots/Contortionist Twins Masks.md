@@ -9,7 +9,7 @@ Wearing one on it's own is mundane, and even when two creatures are wearing them
 
 	Till death do us part, even then it will take us together.
 
-When this happens the magic of the masks takes effect and the two creatures gain the following benefits and curses. 
+When this happens the magic of the masks takes effect and the two creatures gain the following effects. 
 
 - The two wearers gain +5 to their dexterity as their bodies become loose and fluid. 
 - Each wearer can always sense the rough location of the second wearer, even across planes, and can telepathically communicate with the other wearer. 

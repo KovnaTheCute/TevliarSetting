@@ -48,4 +48,4 @@ Every fourth round (4, 8, 12, 16, etc.) a spotlight illuminating the center of t
 
 Once the players defeat the twins they may loot the tent. The twins themselves have both of the [[Contortionist Twins Masks]], along with lockets with portraits of one another in them.
 #### The Ringleaders Tent 3.0
-There's a clown car inside with just like, 30 shadows. Womp womp to the players if they don't have spirit guardians.
+The ringleaders tent is where Litaro the ring lead
