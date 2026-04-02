@@ -7,6 +7,7 @@
 [[Clockwork Hulk]]
 [[Cloudskimmer]]
 [[Colossal Warforged Titan]]
+[[Contortionist Twins]]
 [[Corrupter]]
 
 # D
