@@ -7,8 +7,8 @@ type: Undead
 subtype: (Giant)
 alignment: Chaotic Evil
 ac: 12 (Natural Armor)
-hp: 100 - 150
-hit_dice: 10d12
+hp: 115
+hit_dice: 10d12 (65 + 50)
 speed: 30 ft.
 stats: [25, 12, 21, 8, 6, 14]
 saves: 
