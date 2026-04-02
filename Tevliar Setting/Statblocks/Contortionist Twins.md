@@ -20,8 +20,8 @@ senses: passive Perception 13
 languages: Common
 cr: 7
 traits: 
-- name: Shadow Contortion
-  desc: 
+- name: Shadow Contortion.
+  desc: "While in dim light the twin may move through other creatures spaces as if they weren't there, opportunity attacks made against the twin are made with disadvantage, and the twins movement speed is increased by 10 ft."
 - name: 
   desc: 
 actions: 
@@ -33,10 +33,10 @@ actions:
   desc: "If both twins are in dim light or darkness both twins may teleport to spaces within 5 ft. of a creature they can see within 30 ft. and each twin may make a Lashing Strike with advantage. If both attacks hit then the twins grapple the target, wrapping around them."
 bonus_actions: 
 - name: Twisted Shadows.
-  desc: If the twin is in dim light or darkness they may use a bonus action to teleport up to 15 ft.
+  desc: "If the twin is in dim light or darkness they may use a bonus action to teleport up to 15 ft."
 reactions: 
 - name: Folded Form.
-  desc:"When the twin takes damage it is reduced by 1d10 + 5 and the twin may move up to 10 ft without triggering opportunity attacks."
+  desc: "When the twin takes damage it is reduced by 1d10 + 5 and the twin may move up to 10 ft without triggering opportunity attacks."
 ```
 
 ### Description:
