@@ -7,3 +7,5 @@
 - 5 Counters: Creature is Poisoned and Stunned until end of its turn
 
 A creature can repeat a Constitution save at the end of each turn, removing one counter on a success.
+
+DC 20 Save
