@@ -22,4 +22,4 @@
 [[One Shots]]
 
 [[Mechanics]]
-- Various Game mechanics kinda like Xanathers guide to everything
+- Various Game mechanics kind of like Xanathers guide to everything
