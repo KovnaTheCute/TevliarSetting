@@ -12,4 +12,8 @@
 
 	On a night when the celestial bodies aligned a particular faction of elves is said to have tried to create a connection, a portal of sorts, to the realm beyond gods. The edge. This was the night that Tupai was born, and taken in by the elves.
 
-	Tupai was a satyr, not uncommon to find as pests in the regions of elves. However, Tupai possessed female biology a
+	Tupai was a satyr, not uncommon to find as pests in the regions of elves. However, Tupai possessed female biology unlike any satyr ever born before. She was raised as a child of this faction of elves whom were eccentric even amongst their peers.
+
+	She faced much discrimination as an abomination, an abborhance somehow evene further beneath the elves then the rest of things that live. This didn't bother her however as she was in agreement. To her, the only perfection is found not in life but in death. The only thing one can be perfect at was death. She found a beauty in the rot and decay, the end that everything in existance shares. No god is free from death, no imortal isn't surpased by a jealous underling.
+
+	A view the elves detested as a thought so disgusting that the
