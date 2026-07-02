@@ -8,4 +8,4 @@
 
 A creature can repeat a Constitution save at the end of each turn, removing one counter on a success.
 
-DC 20 Save
+DC 20 Save?

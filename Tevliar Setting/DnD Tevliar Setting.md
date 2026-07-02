@@ -23,3 +23,6 @@
 
 [[Mechanics]]
 - Various Game mechanics kind of like Xanathers guide to everything
+
+[[Folklore and Myths]]
+- Myths and Folklore from all around Tevliar. Some true, some legend, some both.
