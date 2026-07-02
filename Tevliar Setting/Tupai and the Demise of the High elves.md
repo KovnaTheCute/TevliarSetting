@@ -16,4 +16,6 @@
 
 	She faced much discrimination as an abomination, an abborhance somehow evene further beneath the elves then the rest of things that live. This didn't bother her however as she was in agreement. To her, the only perfection is found not in life but in death. The only thing one can be perfect at was death. She found a beauty in the rot and decay, the end that everything in existance shares. No god is free from death, no imortal isn't surpased by a jealous underling.
 
-	A view the elves detested as a thought so disgusting that the
+	A view the elves detested as a thought so disgusting that other factions would do everything in their power to kill her. Tupai, despite her desire to do so being stronger then all else, could not die. Wounds would heal at speeds unmatched. A removed organ would continue to live even when seperated. She could articulate her limbs from a distance and they would nearly immediately reatach on contact.
+
+	This disgusted Tupai as much as the idea of death disgusted the elves. Unlike the elves, whom desires were self centered, Tupai found immmense satisfaction in granting others the perfection of death. She found so many beautiful ways to lay those around her to rest. The 
