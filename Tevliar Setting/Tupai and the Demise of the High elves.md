@@ -10,4 +10,6 @@
 
 	One elf, that had risen to the pinacle of all others, is said to have even challenged the primordial god of death. His failure weakened the god enough for Turial to finish the job, shifting the balance of the gods against the elves as Soluna did not take kindly to her sibling being killed.
 
-	
+	On a night when the celestial bodies aligned a particular faction of elves is said to have tried to create a connection, a portal of sorts, to the realm beyond gods. The edge. This was the night that Tupai was born, and taken in by the elves.
+
+	Tupai was a satyr, not uncommon to find as pests in the regions of elves. However, Tupai possessed female biology a
