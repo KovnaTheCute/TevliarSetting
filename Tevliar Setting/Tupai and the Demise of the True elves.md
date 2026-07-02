@@ -24,4 +24,6 @@
 
 	The elves did everything in their power to seal Tupai away, and they were successful. For thousands of years Tupai remained in pieces stored across the continent. Generations of elves dedicated to studying her body and what made it unkillable. None could figure it out.
 
-	This was until something freed her, and gave her power. Tupai lashed out at the elves. Her hatred at being starved of death, and her contempt at 
+	This was until something freed her, and gave her power. Tupai lashed out at the elves. Her hatred at being starved of death, and her contempt at their rejection of it's beauty compelling her into a rage that lasted weeks. She tore across the land, seeking out and destroying every elf she came across. Only one faction survived, the one that managed to seal her away in a pocket dimension of their own creation. The faction that created her in the first place. 
+	
+	Her rampage coexisted with the great slaughter. This is what earned her the title of one of the 6 slaughterers.

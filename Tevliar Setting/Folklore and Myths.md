@@ -1,2 +1,2 @@
-[[Tupai and the Demise of the High elves]]
+[[Tupai and the Demise of the True elves]]
 
