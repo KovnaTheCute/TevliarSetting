@@ -18,4 +18,10 @@
 
 	A view the elves detested as a thought so disgusting that other factions would do everything in their power to kill her. Tupai, despite her desire to do so being stronger then all else, could not die. Wounds would heal at speeds unmatched. A removed organ would continue to live even when seperated. She could articulate her limbs from a distance and they would nearly immediately reatach on contact.
 
-	This disgusted Tupai as much as the idea of death disgusted the elves. Unlike the elves, whom desires were self centered, Tupai found immmense satisfaction in granting others the perfection of death. She found so many beautiful ways to lay those around her to rest. The 
+	This disgusted Tupai as much as the idea of death disgusted the elves. Unlike the elves, whom desires were self centered, Tupai found immmense satisfaction in granting others the perfection of death. She found so many beautiful ways to lay those around her to rest. The color of blood satified her, and the knowledge that she was able to spread this kindness was enough to supress her disgust at her own perfect imortality.
+
+	The only ones whom were not given this kindness were those who fled death. The undead especially, as those who would reject the perfection of death were discusting scum in Tupai's eyes.
+
+	The elves did everything in their power to seal Tupai away, and they were successful. For thousands of years Tupai remained in pieces stored across the continent. Generations of elves dedicated to studying her body and what made it unkillable. None could figure it out.
+
+	This was until something freed her, and gave her power. Tupai lashed out at the elves. Her hatred at being starved of death, and her contempt at 
