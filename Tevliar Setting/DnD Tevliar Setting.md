@@ -20,6 +20,7 @@
 - Various Quest information and Quest tables.
 
 [[One Shots]]
+- Short campaign segments that can be run as sta
 
 [[Mechanics]]
 - Various Game mechanics kind of like Xanathers guide to everything
