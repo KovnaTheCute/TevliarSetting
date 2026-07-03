@@ -1,1 +1,1 @@
-[[Player Race Info/Options]]
+[[Player Race Options]]
