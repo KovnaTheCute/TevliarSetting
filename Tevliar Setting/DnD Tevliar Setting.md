@@ -20,10 +20,13 @@
 - Various Quest information and Quest tables.
 
 [[One Shots]]
-- Short campaign segments that can be run as sta
+- Short campaign segments that can be run as stand alone modules
 
 [[Mechanics]]
 - Various Game mechanics kind of like Xanathers guide to everything
 
 [[Folklore and Legends]]
 - Myths and Folklore from all around Tevliar. Some true, some legend, some both.
+
+[[Player Information]]
+- Information specifically pertaining to players
