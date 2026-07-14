@@ -1,3 +1,3 @@
 ### One Shot Ideas
 - A necromancer that keeps bringing villagers of a town back to life. The villagers see this as a village curse, and several of them have continually attempted suicide to try and escape as after being risen there have been strange effects (They no longer need to eat or sleep, wounds close at an abnormal rate, and they have markings on their bodies that expand after each death). The Necromancer believes themself a saint, and sees the revival of the townsfolk as his duty. They genuinely believe that they are helping the village and they remain hidden as they don't want the praise of the people they're "Helping".
-- 7 Witches each embodying one of the 7 sins with minions 
+- 7 Witches each embodying one of the 7 sins with minions that reflect that. They serve the demigod of sin whom is far stronger then the 10 gods if only they could manifest in this reality. Unfortunately the demigod is trapped in the edge.
