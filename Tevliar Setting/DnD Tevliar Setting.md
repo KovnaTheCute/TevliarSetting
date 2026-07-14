@@ -30,3 +30,6 @@
 
 [[Player Information]]
 - Information specifically pertaining to players
+
+[[Misc Ideas]]
+- Miscellanies ideas that have not been fleshed out

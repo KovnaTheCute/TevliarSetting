@@ -1,0 +1,2 @@
+### One Shot Ideas
+- A necromancer that keeps bringing villagers of a town back to life. The villagers see this as a village curse, and several of them have continually attempted suicide to try and escape as after being risen there have been strange effects (They no longer need to eat or sleep, wounds close at an abnormal rate, and they feel a desire to consume flesh despite being able to live with no foo)
