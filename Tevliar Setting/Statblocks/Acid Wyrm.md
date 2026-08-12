@@ -32,7 +32,7 @@ actions:
 - name: Bite
   desc: "Melee Attack Roll: +5, reach 5 ft. Hit: 4 (1d4 + 2) piercing damage plus 2 (1d4) acid damage."
 - name: Acid Spit
-  desc: "Ranged Attack Roll: +5, range 30/60 ft. Hit: 5 (1d6 + 2) acid damage. If another creature is within 5 feet of the target, the acid splashes onto the creature, and it takes 2 (1d4) acid damage."
+  desc: "Ranged Attack Roll: +5, range 30/60 ft. Hit: 5 (1d6 + 2) acid damage."
 ```
 
 ```statblock
@@ -84,7 +84,8 @@ legendary_actions:
 - name: Slither 
   desc: "The matriarch moves up to half its speed without provoking opportunity attacks." 
 - name: Acid Spit 
-  desc: "The matriarch makes one Acid Spit attack." bonus_actions: 
+  desc: "The matriarch makes one Acid Spit attack."
+bonus_actions: 
 - name: Call the Brood 
   desc: "Up to three Acid Wyrms within 60 feet of the matriarch can immediately move up to their speed toward a hostile creature the matriarch can see. This movement does not provoke opportunity attacks." 
 reactions: 
