@@ -58,7 +58,7 @@ damage_immunities: Acid
 condition_immunities: 
 senses: blindsight 20 ft., darkvision 60 ft., passive Perception 14 
 languages: — 
-cr: 3 
+cr: 5 
 spells: 
 traits: 
 - name: Acidic Blood 
