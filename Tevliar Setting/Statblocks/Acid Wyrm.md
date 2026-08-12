@@ -66,7 +66,7 @@ traits:
 - name: Wyrm Matriarch 
   desc: "The matriarch can sense Acid Wyrms within 120 feet of it. Acid Wyrms within 30 feet of the matriarch have advantage on saving throws against being frightened, and their Swarming Wyrms trait does not require another Acid Wyrm to be within 5 feet of their target." 
 - name: Swarming Brood 
-  desc: "Acid Wyrms may move through and occupy the same space as the Acid Wyrm Matriarch however they may not end their turns in the same s. Any time the matriarch is dealt damage from a non psychic attack she may redistribute damage to Acid Wyrms within 5 feet of her." 
+  desc: "Acid Wyrms may move through and occupy the same space as the Acid Wyrm Matriarch, but they can't end their turns there. Whenever the matriarch takes damage from a non-psychic attack that targets only her, she can choose an Acid Wyrm within 5 feet of her. The chosen Acid Wyrm takes damage equal to up to half the damage the matriarch would have taken, and the matriarch takes the remaining damage. This damage can't be reduced or transferred further." 
 - name: Corrosive Hide 
   desc: "A creature that starts its turn grappling the matriarch or while grappled by it takes 5 (1d10) acid damage." 
 actions: 
@@ -78,13 +78,8 @@ actions:
   desc: "Melee Attack Roll: +6, reach 10 ft. Hit: 8 (1d8 + 4) bludgeoning damage, and the target must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked Prone." 
 - name: Acid Spit 
   desc: "The matriarch sprays acid in a 15-foot cone. Each creature in the area must make a DC 15 Dexterity saving throw, taking 21 (6d6) acid damage on a failed save, or half as much damage on a successful one." 
-- name: Brood Burst 
-  desc: "The matriarch expels a mass of unstable acid and embryonic wyrms at a point it can see within 30 feet. Each creature in a 10-foot-radius sphere centered on that point must make a DC 14 Dexterity saving throw, taking 14 (4d6) acid damage on a failed save, or half as much damage on a successful one. The area remains coated in acidic slime until the end of the matriarch's next turn. A creature that enters the area for the first time on a turn or starts its turn there takes 3 (1d6) acid damage." 
-legendary_actions: 
-- name: Slither 
-  desc: "The matriarch moves up to half its speed without provoking opportunity attacks." 
-- name: Acid Spit 
-  desc: "The matriarch makes one Acid Spit attack."
+- name: Brood Burst (Recharge 4-6)
+  desc: "The matriarch expels a mass of unstable acid and embryonic wyrms at a point it can see within 30 feet. Each creature in a 10-foot-radius sphere centered on that point must make a DC 14 Dexterity saving throw, taking 14 (4d6) acid damage on a failed save, or half as much damage on a successful one. The area remains coated in acidic slime until the end of the matriarch's next turn. At that time, 2d4 Acid Wyrms emerge from the slime in unoccupied spaces within the area. A creature that enters the area for the first time on a turn or starts its turn there takes 3 (1d6) acid damage." 
 bonus_actions: 
 - name: Call the Brood 
   desc: "The matriarch emits a shrill hiss that can be heard by Acid Wyrms within 120 feet. Up to three Acid Wyrms that can hear the matriarch can immediately move up to half their speed without provoking opportunity attacks." 
