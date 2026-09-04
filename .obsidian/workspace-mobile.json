@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Quests/Random Quest Tables.md",
+                "file": "Tevliar Setting/Tevliar Nations/City Notes.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Random Quest Tables"
+              "title": "City Notes"
             },
             "group": "8ddba9d477e7d8c0"
           },
@@ -37,8 +37,7 @@
               "title": "Cleaning Ooze"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "35788891655b203b",
@@ -51,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Quests/Random Quest Tables.md",
+                "file": "Tevliar Setting/Tevliar Nations/City Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,6 +69,27 @@
                         "a": 1,
                         "rgb": 14820352
                       }
+                    },
+                    {
+                      "query": "Tag:#MagicItem  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "Tag:#Spell  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 116732
+                      }
+                    },
+                    {
+                      "query": "Tag:#City  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431378
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -78,11 +98,11 @@
                   "nodeSizeMultiplier": 1.23279569892473,
                   "lineSizeMultiplier": 5,
                   "collapse-forces": false,
-                  "centerStrength": 0.112903225806452,
-                  "repelStrength": 9.89247311827957,
+                  "centerStrength": 0.65183752417795,
+                  "repelStrength": 20,
                   "linkStrength": 1,
-                  "linkDistance": 376,
-                  "scale": 0.47350040552860906,
+                  "linkDistance": 500,
+                  "scale": 0.48642783813779417,
                   "close": true
                 }
               },
@@ -236,8 +256,19 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "b4c3c5674f4db120",
+  "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
+    "Tevliar Setting/Magic Items/Contortionist Twins Masks.md",
+    "Tevliar Setting/Magic Items/Master Hunters Box.md",
+    "Tevliar Setting/Magic Items/Magic Items.md",
+    "Tevliar Setting/DnD Tevliar Setting.md",
+    "Tevliar Setting/Quests/Random Quest Tables.md",
+    "Tevliar Setting/Statblocks/Cleaning Ooze.md",
+    "Tevliar Setting/One Shots/Freeing the Elder Gargoyle.md",
+    "Tevliar Setting/Player Information.md",
+    "Tevliar Setting/Folklore and Legends/Folklore and Legends.md",
+    "Tevliar Setting/Folklore and Legends/Tupai and the Demise of the True elves.md",
+    "Tevliar Setting/Folklore and Legends",
     "Tevliar Setting/Statblocks/Contortionist Twins.md",
     "Tevliar Setting/One Shots/Litaro's Undead Circus.md",
     "Tevliar Setting/Misc Ideas.md",
@@ -246,7 +277,6 @@
     "Tevliar Setting/Mechanics/Mechanics.md",
     "Tevliar Setting/Mechanics/Progressive Venom.md",
     "Tevliar Setting/Mechanics",
-    "Tevliar Setting/Quests/Random Quest Tables.md",
     "/Tevliar Setting/Mechanics/EdgeDust.md",
     "/Tevliar Setting/Statblocks/Zombies.md",
     "/Tevliar Setting/Statblocks/Undead Strongman.md",
@@ -257,22 +287,12 @@
     "/Tevliar Setting/Statblocks",
     "/Tevliar Setting/Player Information.md",
     "/Tevliar Setting/One Shots/One Shots.md",
-    "/Tevliar Setting/One Shots/Litaro's Undead Circus.md",
-    "/Tevliar Setting/One Shots/Freeing the Elder Gargoyle.md",
-    "/Tevliar Setting/Misc Ideas.md",
-    "/Tevliar Setting/Mechanics/Progressive Venom.md",
-    "/Tevliar Setting/Mechanics/Mechanics.md",
-    "/Tevliar Setting/Magic Items/Magic Items.md",
-    "/Tevliar Setting/Magic Items/Contortionist Twins Masks.md",
-    "Tevliar Setting/Magic Items/Contortionist Twins Masks.md",
     "/Tevliar Setting/Magic Items",
-    "/Tevliar Setting/Folklore and Legends/Tupai and the Demise of the True elves.md",
     "/Tevliar Setting/Mechanics",
     "/Tevliar Setting/Folklore and Legends",
     "/Tevliar Setting/One Shots",
     "/Tevliar Setting",
     "Tevliar Setting/Tevliar Nations/Harma",
-    "Tevliar Setting/Tevliar Nations/Bellwash",
-    "Tevliar Setting/One Shots"
+    "Tevliar Setting/Tevliar Nations/Bellwash"
   ]
 }
