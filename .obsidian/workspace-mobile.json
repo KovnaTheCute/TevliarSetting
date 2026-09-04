@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Tevliar Nations/City Notes.md",
+                "file": "Tevliar Setting/Tevliar Nations/Crime Lords.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "City Notes"
+              "title": "Crime Lords"
             },
             "group": "8ddba9d477e7d8c0"
           },
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Tevliar Nations/City Notes.md",
+                "file": "Tevliar Setting/Tevliar Nations/Crime Lords.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,8 +256,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "50921e6ddb6640e3",
+  "active": "4e2a067ca9146561",
   "lastOpenFiles": [
+    "Tevliar Setting/Tevliar Nations/City Notes.md",
+    "Tevliar Setting/Tevliar Nations/Crime Lords.md",
     "Tevliar Setting/Magic Items/Contortionist Twins Masks.md",
     "Tevliar Setting/Magic Items/Master Hunters Box.md",
     "Tevliar Setting/Magic Items/Magic Items.md",
@@ -285,8 +287,6 @@
     "/Tevliar Setting/Statblocks/Acid Wyrm.md",
     "Tevliar Setting/Statblocks/Acid Wyrm.md",
     "/Tevliar Setting/Statblocks",
-    "/Tevliar Setting/Player Information.md",
-    "/Tevliar Setting/One Shots/One Shots.md",
     "/Tevliar Setting/Magic Items",
     "/Tevliar Setting/Mechanics",
     "/Tevliar Setting/Folklore and Legends",

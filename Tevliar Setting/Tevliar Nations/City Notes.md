@@ -10,7 +10,7 @@
 ## [[Tillery]]
 - Another major city within the Belldonian Empire, Tillery the capital of agriculture. Tillery is located in the eastern plains, just above the swamplands that elves once resided in. It is the largest farming capital on the continent, producing all kinds of raw resources in bulk for the entire Empire and all of its diplomatic allies. Their main exports are food however, wood, various stones, ores, and minerals, are also collected in bulk.
 - Tillery is one of the most diverse societies on the continent, housing nearly every race under the gods reign including a lot of beast folk who once faced discrimination before King Robert brought a tentative end to the empires slavery.
-- Although Tillery is technically under the Empires rule it has nearly complete diplomatic freedom, due to the sheer quantity of food they supply around the continent and the ancient dragons that enforce their diplomacy. Due to this even when the empire goes to war Tillery often still has immunity from the conflict as it has the power to supply both sides.
+- Although Tillery is technically under the Empires rule it has nearly complete diplomatic freedom, due to the sheer quantity of food they supply around the continent and the ancient dragons that enforce their diplomacy. Due to this even when the empire goes to war Tillery often still has immunity from the conflict while it supplies both sides.
 
 ## [[Ragas]]
 - Major port city of the Belldonian Empire located on the center peninsula of the continent. Ragas is a corrupt city, overrun with lawlessness and illegal trade. The city law partakes in crime just as often as the beggars and guilds that operate here. Labor is cheap and plentiful as the homeless population will do anything for food.
