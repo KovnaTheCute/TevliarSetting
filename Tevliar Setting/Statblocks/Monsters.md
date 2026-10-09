@@ -12,6 +12,7 @@
 [[Corrupter]]
 
 # D
+[[Rotten Stalker]]
 [[Deathrattles]]
 [[Demonic Hydra]]
 [[Devourers of Gravity]]
