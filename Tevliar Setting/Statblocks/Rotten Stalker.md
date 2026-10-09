@@ -12,19 +12,15 @@ hit_dice: 20d10 +
 speed: 0ft., fly 30 ft. (hover)
 stats: [17, 14, 22, 10, 12, 8]
 saves: 
-- dash: 
-- potato: 
-- stew: 
+- Constitution: +10
+- Wisdom: +5
 skillsaves: 
-- fake-skill: 
-- turtle: 
-damage_vulnerabilities: 
-damage_resistances: 
-damage_immunities: 
-condition_immunities: 
-senses: string
-languages: string
-cr: Number
+- Perception: +5 
+damage_immunities: acid
+condition_immunities: prone
+senses: darkvision 120 ft.
+languages: Deep Speech, Undercommon
+cr: 10
 spells: 
 - 
 - 
