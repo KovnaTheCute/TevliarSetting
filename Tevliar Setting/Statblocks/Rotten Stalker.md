@@ -7,8 +7,8 @@ type: Abberation
 subtype: 
 alignment: Neutral Evil
 ac: 12 (Natural Armor)
-hp: 
-hit_dice: 20d10 + 
+hp: 230
+hit_dice: 20d10 + 120
 speed: 0ft., fly 30 ft. (hover)
 stats: [17, 14, 22, 10, 12, 8]
 saves: 
