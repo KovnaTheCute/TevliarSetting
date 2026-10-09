@@ -28,7 +28,7 @@ actions:
 - name: Multiattack.
   desc: "The rotten stalker makes three tentacle attacks. Up to three of these attacks can be replaced by Acid Injection, one replacement per tentacle grappling a creature."
 - name: Tentacle.
-  desc: "Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 14 (3d6+4) piercing damage, and the target is grappled (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends, the target is restrained, and the rotten stalker can’t use the same tentacle on another target. The death kiss has ten tentacles."
+  desc: "Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 14 (3d6+4) piercing damage, and the target is grappled (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends, the target is restrained, and the rotten stalker can’t use the same tentacle on another target. The rotten stalker has ten tentacles."
 - name: Acid Injection.
   desc: "One creature grappled by a tentacle of the rotten stalker must make a DC 16 Constitution saving throw. On a failed save, the target takes 22 (4d10) acid damage and is poisoned. While a creature is poisoned this way they take 6 (1d10) poison damage  The poisoned creature may reattempt a DC 16 constitution save at the end of each of their turns to end the poisoned condition."
 ```
