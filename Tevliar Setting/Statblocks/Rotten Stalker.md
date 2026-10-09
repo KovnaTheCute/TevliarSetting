@@ -25,10 +25,10 @@ traits:
 - name: Acid Blood.
   desc: "A creature within 5 feet of the rotten stalker takes 5 (1d10) acid damage whenever it hits the rotten stalker with a melee attack that deals piercing, slashing, or bludgeoning damage."
 actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+- name: Multiattack.
+  desc: "The rotten stalker makes three tentacle attacks. Up to three of these attacks can be replaced by Acid Injection, one replacement per tentacle grappling a creature."
+- name: Tentacle.
+  desc: "Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 14 (3d6+4) piercing damage, and the target is grappled (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends, the target is restrained, and the death kiss can’t use the same tentacle on another target. The death kiss has ten tentacles."
 legendary_actions: 
 - name: 
   desc: 
