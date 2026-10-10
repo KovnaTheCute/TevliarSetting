@@ -23,7 +23,7 @@ languages: Deep Speech, Undercommon
 cr: 10
 traits: 
 - name: Acid Blood.
-  desc: "A creature within 5 feet of the rotten stalker takes 5 (1d10) acid damage whenever it hits the rotten stalker with a melee attack that deals piercing, slashing, or bludgeoning damage."
+  desc: "A creature within 5 feet of the rotten stalker takes 5 (1d10) acid damage whenever it hits the rotten stalker with a attacnk that deals piercing, slashing, or bludgeoning damage."
 actions: 
 - name: Multiattack.
   desc: "The rotten stalker makes three tentacle attacks. Up to three of these attacks can be replaced by Acid Injection, one replacement per tentacle grappling a creature."
