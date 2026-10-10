@@ -16,8 +16,8 @@ saves:
 - Wisdom: +5
 skillsaves: 
 - Perception: +5 
-damage_immunities: acid
-condition_immunities: prone
+damage_immunities: acid, poison
+condition_immunities: prone, poisoned
 senses: darkvision 120 ft.
 languages: Deep Speech, Undercommon
 cr: 10
