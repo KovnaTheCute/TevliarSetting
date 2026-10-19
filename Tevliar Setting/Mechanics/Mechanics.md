@@ -1,2 +1,3 @@
 [[EdgeDust]]
 [[Progressive Venom]]
+[[Death]] 
