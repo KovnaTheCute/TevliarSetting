@@ -6,4 +6,4 @@ A player that dies (fails three death saving throws or faces instant death in a 
 
 When a player enters their final heroism they and they alone can see the Death Collector assigned to them. The player has exactly three rounds of actions left to do what they please. During this time the Death Collector will gradually approach the player, reaching them after the end of exactly their third turn. The player gains inspiration and regains all of their hit points and all expended charges (with the exception of magic item charges).
 
-Once the Death Collector reaches the player the players life is over and their soul is taken to its 
+Once the Death Collector reaches the player the players life is over and their soul is taken to its respective destination, as all souls are whether that be a plane, a gods control, back to the material plane as a spirit, total destruction, etc.. 
