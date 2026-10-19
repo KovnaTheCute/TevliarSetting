@@ -4,4 +4,4 @@ The players are a special case in this regard, due to their unnatural ties to pu
 
 A player that dies (fails three death saving throws or faces instant death in a manner that allows them to retain control) enters a bout of final heroism while death closes the shears on the players connection.
 
-When a player enters 
+When a player enters their final heroism they and they alone can see the Death Collector assigned to them. The player has exactly three rounds of actions left to do what they please. During this time the Death Collector will gradually approach 
