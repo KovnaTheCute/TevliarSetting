@@ -6,7 +6,7 @@
       {
         "id": "d41e7ccb473d6028",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 62.926829268292686,
         "children": [
           {
             "id": "50921e6ddb6640e3",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Tevliar Nations/Crime Lords.md",
-                "mode": "source",
+                "file": "Tevliar Setting/Statblocks/Rotten Stalker.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Crime Lords"
+              "title": "Rotten Stalker"
             },
             "group": "8ddba9d477e7d8c0"
           },
@@ -42,7 +42,7 @@
       {
         "id": "35788891655b203b",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 37.073170731707314,
         "children": [
           {
             "id": "4e2a067ca9146561",
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Tevliar Nations/Crime Lords.md",
+                "file": "Tevliar Setting/Statblocks/Rotten Stalker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +127,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": true,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -256,15 +258,20 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "4e2a067ca9146561",
+  "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
+    "/Tevliar Setting/Mechanics/Mechanics.md",
+    "/Tevliar Setting/Mechanics/Death.md",
+    "Tevliar Setting/Mechanics/Death.md",
+    "/Tevliar Setting/Mechanics",
+    "/Tevliar Setting",
+    "Tevliar Setting/Statblocks/Monsters.md",
+    "Tevliar Setting/Tevliar Nations/Crime Lords.md",
     "Tevliar Setting/Statblocks/Rotten Stalker.md",
     "/Tevliar Setting/Statblocks/Rotten Stalker.md",
     "/Tevliar Setting/Statblocks/Monsters.md",
     "/Tevliar Setting/Statblocks",
-    "/Tevliar Setting",
     "Tevliar Setting/Statblocks/Cleaning Ooze.md",
-    "Tevliar Setting/Tevliar Nations/Crime Lords.md",
     "Tevliar Setting/Tevliar Nations/City Notes.md",
     "Tevliar Setting/Magic Items/Contortionist Twins Masks.md",
     "Tevliar Setting/Magic Items/Master Hunters Box.md",
@@ -284,12 +291,7 @@
     "Tevliar Setting/Mechanics/Mechanics.md",
     "Tevliar Setting/Mechanics/Progressive Venom.md",
     "Tevliar Setting/Mechanics",
-    "/Tevliar Setting/Mechanics/EdgeDust.md",
-    "/Tevliar Setting/Statblocks/Zombies.md",
-    "/Tevliar Setting/Statblocks/Undead Strongman.md",
-    "/Tevliar Setting/Statblocks/Contortionist Twins.md",
     "/Tevliar Setting/Magic Items",
-    "/Tevliar Setting/Mechanics",
     "/Tevliar Setting/Folklore and Legends",
     "/Tevliar Setting/One Shots",
     "Tevliar Setting/Tevliar Nations/Harma",

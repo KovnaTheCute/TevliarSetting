@@ -12,7 +12,6 @@
 [[Corrupter]]
 
 # D
-[[Rotten Stalker]]
 [[Deathrattles]]
 [[Demonic Hydra]]
 [[Devourers of Gravity]]
@@ -37,6 +36,7 @@
 
 # R
 [[Raptagon]]
+[[Tevliar Setting/Statblocks/Rotten Stalker|Rotten Stalker]]
 [[Rotting Watcher]]
 
 # S
