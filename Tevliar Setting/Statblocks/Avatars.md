@@ -7,4 +7,4 @@
 [[Avatar of John Mcmuffin, God of Agriculture]]
 [[Avatar of Soluna, God of Cycles]]
 [[Avatar of Tiacat, God of Dragons]]
-[[Avatar of Turial, God of Death]]
+[[Death Collector’s]]

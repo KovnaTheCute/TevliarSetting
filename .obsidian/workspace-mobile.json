@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Rotten Stalker.md",
-                "mode": "preview",
+                "file": "Tevliar Setting/Statblocks/Death Collector’s.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rotten Stalker"
+              "title": "Death Collector’s"
             },
             "group": "8ddba9d477e7d8c0"
           },
@@ -50,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tevliar Setting/Statblocks/Rotten Stalker.md",
+                "file": "Tevliar Setting/Statblocks/Death Collector’s.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -102,7 +102,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 500,
-                  "scale": 0.48642783813779417,
+                  "scale": 0.4501599147079524,
                   "close": true
                 }
               },
@@ -190,7 +190,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tevliar Setting/Statblocks/Miniature Bell Beast (Hollow Knight).md",
+            "file": "Tevliar Setting/Statblocks/Death Collector’s.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -260,14 +260,19 @@
   },
   "active": "50921e6ddb6640e3",
   "lastOpenFiles": [
+    "Tevliar Setting/Statblocks/Avatars.md",
+    "Tevliar Setting/Statblocks/Monsters.md",
+    "Tevliar Setting/Mechanics/Death.md",
+    "Tevliar Setting/Mechanics/Mechanics.md",
+    "Tevliar Setting/Mechanics/Progressive Venom.md",
+    "Tevliar Setting/DnD Tevliar Setting.md",
+    "Tevliar Setting/Statblocks/Death Collector’s.md",
+    "Tevliar Setting/Statblocks/Rotten Stalker.md",
     "/Tevliar Setting/Mechanics/Mechanics.md",
     "/Tevliar Setting/Mechanics/Death.md",
-    "Tevliar Setting/Mechanics/Death.md",
     "/Tevliar Setting/Mechanics",
     "/Tevliar Setting",
-    "Tevliar Setting/Statblocks/Monsters.md",
     "Tevliar Setting/Tevliar Nations/Crime Lords.md",
-    "Tevliar Setting/Statblocks/Rotten Stalker.md",
     "/Tevliar Setting/Statblocks/Rotten Stalker.md",
     "/Tevliar Setting/Statblocks/Monsters.md",
     "/Tevliar Setting/Statblocks",
@@ -276,7 +281,6 @@
     "Tevliar Setting/Magic Items/Contortionist Twins Masks.md",
     "Tevliar Setting/Magic Items/Master Hunters Box.md",
     "Tevliar Setting/Magic Items/Magic Items.md",
-    "Tevliar Setting/DnD Tevliar Setting.md",
     "Tevliar Setting/Quests/Random Quest Tables.md",
     "Tevliar Setting/One Shots/Freeing the Elder Gargoyle.md",
     "Tevliar Setting/Player Information.md",
@@ -286,10 +290,6 @@
     "Tevliar Setting/Statblocks/Contortionist Twins.md",
     "Tevliar Setting/One Shots/Litaro's Undead Circus.md",
     "Tevliar Setting/Misc Ideas.md",
-    "Tevliar Setting/Statblocks/Undead Strongman.md",
-    "Tevliar Setting/Mechanics/EdgeDust.md",
-    "Tevliar Setting/Mechanics/Mechanics.md",
-    "Tevliar Setting/Mechanics/Progressive Venom.md",
     "Tevliar Setting/Mechanics",
     "/Tevliar Setting/Magic Items",
     "/Tevliar Setting/Folklore and Legends",
