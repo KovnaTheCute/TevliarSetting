@@ -14,16 +14,11 @@ stats: [25, 10, 19, 2, 12, 9]
 skillsaves: 
 - Perception: +4
 senses: passive perception 14
-languages: 
-cr: 
-spells: 
-- 
-- 
-- 
--
+languages: --
+cr: 8
 traits: 
-- name: 
-  desc:
+- name: Flutter
+  desc: "The Bee-rex may use a bonus action while moving to flutter off of the ground. The Bee-rex "
 - name: 
   desc: 
 actions: 
