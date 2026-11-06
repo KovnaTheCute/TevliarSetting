@@ -4,10 +4,9 @@ layout: Basic 5e
 image: 
 name: Bee-rex
 size: Gargantuan
-type: 
-subtype: 
+type: Monstrosity
 alignment: 
-ac: Number
+ac: 
 hp: Number
 hit_dice: 
 speed: 
