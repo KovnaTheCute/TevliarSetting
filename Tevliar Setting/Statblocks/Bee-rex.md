@@ -5,16 +5,12 @@ image:
 name: Bee-rex
 size: Gargantuan
 type: Monstrosity
-alignment: 
-ac: 
+alignment: Unalighned
+ac: 18
 hp: Number
-hit_dice: 
-speed: 
-stats: 
-saves: 
-- dash: 
-- potato: 
-- stew: 
+hit_dice: 13d12
+speed: 50 ft.
+stats: [25, 10, 19, 2, 12, 9]
 skillsaves: 
 - fake-skill: 
 - turtle: 
