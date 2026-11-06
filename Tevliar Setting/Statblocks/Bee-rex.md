@@ -18,7 +18,7 @@ languages: --
 cr: 8
 traits: 
 - name: Flutter
-  desc: "The Bee-rex may use a bonus action while moving to flutter off of the ground. The Bee-rex "
+  desc: "The Bee-rex may use a bonus action while moving to flutter off of the ground. The Bee-rex gains "
 - name: 
   desc: 
 actions: 
