@@ -18,14 +18,12 @@ languages: --
 cr: 8
 traits: 
 - name: Flutter
-  desc: "The Bee-rex may use a bonus action while moving to flutter off of the ground. The Bee-rex gains "
-- name: 
-  desc: 
+  desc: "The Bee-rex may use a bonus action to flutter off of the ground. The Bee-rex gains a fly speed of its remaining movement this round. At the end of the Bee-rex's turn it loses this fly speed."
 actions: 
-- name: 
-  desc: 
-- name: 
-  desc: 
+- name: Multiattack.
+  desc: "The Bee-rex makes two bite attacks."
+- name: Bite.
+  desc: ""
 legendary_actions: 
 - name: 
   desc: 
