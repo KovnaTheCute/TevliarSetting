@@ -12,15 +12,10 @@ hit_dice: 13d12
 speed: 50 ft.
 stats: [25, 10, 19, 2, 12, 9]
 skillsaves: 
-- fake-skill: 
-- turtle: 
-damage_vulnerabilities: 
-damage_resistances: 
-damage_immunities: 
-condition_immunities: 
-senses: string
-languages: string
-cr: Number
+- Perception: +4
+senses: passive perception 14
+languages: 
+cr: 
 spells: 
 - 
 - 
