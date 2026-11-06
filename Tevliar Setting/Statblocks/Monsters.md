@@ -3,6 +3,9 @@
 [[Avatars]]
 [[Arcane Hydra]]
 
+# B
+[[Bee-rex]]
+
 # C
 [[Cleaning Ooze]]
 [[Clockwork Hulk]]
