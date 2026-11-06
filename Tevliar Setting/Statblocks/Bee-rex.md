@@ -25,7 +25,7 @@ actions:
 - name: Bite.
   desc: "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 33 (4d12 + 7) piercing damage. If the target is a large or smaller creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the Bee-rex can't bite another target."
 - name: Sting.
-  desc: "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: "
+  desc: "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: (10d12) poison damge"
 ```
 
 ### Description:
