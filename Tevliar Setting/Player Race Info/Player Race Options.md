@@ -1,0 +1,14 @@
+## Humans
+Humans are widespread across the continent of Tevliar and can be found in more or less any climate and profession consistently. They are one of the dominant races, being what fills most of the wealthy class in the [[Kingdom of Belldonia]]. Humans are also very common in interspecies relationships, being responsible for a large portion of half elves, half dragons, half orcs, and most other split species.
+
+## Dwarves
+Dwarves are not nearly as prolific as the human despite their significant presence in the north of the continent. Dwarves are very military focused, with most of their politics revolving around demon hunting in the wastes. A proud dwarf is a dangerous one, and a dangerous dwarf is often crafty. Dwarves are split into three groups: 
+- Traditional dwarves whom fight with martial weapons and stick to traditional smithing techniques. These dwarves dislike the other groups of dwarves as they've "lost their way" and are no longer deemed true dwarves. This group is primarily derived of elderly dwarves.
+- Technical dwarves whom have abandoned traditional smithing and fighting in favor of steam spirits, constructs, and firearms. These are the more prominent group of dwarves whom work closely with the Gnomes to produce new runic technologies.
+- The Duergar of the underdark, dwarves that are despised by the other groups of dwarves for their abandonment of smithing all together. The duergar utilize psionic power and dark magics to live highly isolated lifestyles in small groups. They do not get along well with anyone and are prohibited from most Belldonia cities and all Stonewrought Nation fortresses. 
+
+## Elves
+The only elves that still live on the continent of Tevliar are half elves, due to their unique reproduction allowing any children born from a half elf to also be a half elf, regardless of how removed from the original true elf the bloodline is. True elves (high elves and wood elves) are completely extinct and can not be played without a very very specific exception or reason. Half elves are fairly common throughout the villages and cities of Belldonia and can be found in more or less any role, though they more often tend towards aristocrat and merchant roles, as well as spellcasting roles. Very few half elves are religious as they share similar views to the true elves they share blood with ([[Tupai and the Demise of the True elves]])
+
+## Halflings
+Halflings are sparse throughout the continent of Tevliar. As they originate from a small island to the west of the continent there aren't many of them to begin with and the number of them that get abducted and brought to the mainland are in the single digits.
