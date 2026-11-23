@@ -1,1 +1,1 @@
-Initiative in this system is not rolled, instead players and monsters will take turns choosing who goes in a round 
+Initiative in this system is not rolled, instead players and monsters will take turns choosing who goes in a round. 
