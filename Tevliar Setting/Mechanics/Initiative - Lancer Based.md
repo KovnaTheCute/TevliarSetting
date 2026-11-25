@@ -19,4 +19,7 @@ Mixing creatures/characters is trickier to justify. Although hobgoblins may comm
 Lmao skill issue
 
 ### But all of my players took the Alert feat and my rogue really wants to go first in initiative
-Alright fine I'll cover a few POTENTIAL adjustments that may satiate the players lust for metagaming. Depending on the edition you're using rules may shift and be different. This system does make quite a
+Alright fine I'll cover a few POTENTIAL adjustments that may satiate the players lust for metagaming. Depending on the edition you're using rules may shift and be different. This system does make quite a few obsolete and since I am absolutely not covering all of them here I'll go over a few common traits/abilities that should be revised.
+
+- Dexterity modifier and Bonuses
+	First off with the obvious. Having a high initiative bonus allows you to win the roll off which is the only thing initiative bonus's are actually good for in DnD 5e because after the first round turns become circular, assuming players are killing and not being killed each turn a player takes is the same length away (or shorter) to their next as it was their last. Does the barbarian neccesarily deserve to go first? Nah, but the rogue has a really fast response time (and averages consistently over 20) and wins the roll off, shouting a command/warning to the barbarian allowing them to react a little quicker. It gets hazy when you remember that each combat round happens in the same 6 seconds and all the turns technicall 
