@@ -4,7 +4,7 @@ To decide who's team goes first in the initiative order each side chooses one ch
 
 The winner of the roll off earns the first turn of combat for their side. The creature (or another allied creature) takes their turn as usual, followed by an opposing creatures turn, and the turn order alternates back and forth. 
 
-If one side has more characters then the other then once one side is out of characters the other side may take turns for all remaining characters. Once all characters haven taken a turn the round ends and the next round begins. Whichever side had more characters (usually the side that took the last turn in the prior round) goes second in the new round. Characters whom are unconscious may not be declared for a turn.
+If one side has more characters then the other then once one side is out of characters the other side may take turns for all remaining characters. Once all characters haven taken a turn the round ends and the next round begins. Whichever side took the last turn goes second in the new round. Characters whom are unconscious may not be declared for a turn.
 
 ### Oh no there's 20 goblins and 4 players
 Oh no, as forementioned there's 20 goblins but only 4 players. That throws this initiative system for a little bit of a loop (as it was designed for a system where sides are usually roughly equal). A solution that you, presumably an aspiring DM (or an experienced one looking for easy notes), may have already thought of is grouping similar creatures together.
@@ -33,4 +33,10 @@ Alright fine I'll cover a few POTENTIAL adjustments that may satiate the players
 - until your next turn effects
 	Well what if I end the effect early by taking my turn first? Awesome, you had to end your turn though and if you managed to convince the four other players who were chomping at the bit that it was worth letting Gilgorath the Unfathomable go before all of them so you could see a lil better then good for you. If you (the DM) really want to maintain a bit of balance you could rule these effects as ending "At the end of the next round" instead. Just be prepared for all the dice rolling for 7 different effects at the same time from each player.
 - Bleeding out players
-	This also works for players whom are bleeding out. They may make their death saves at the end of each round as opposed to being part of the initiative order. This includes the round they are dropped in if they haven't taken their turn yet, otherwise it starts at the end of the next round.
+	The above also works for players whom are bleeding out. They may make their death saves at the end of each round as opposed to being part of the initiative order. This includes the round they are dropped in if they haven't taken their turn yet, otherwise it starts at the end of the next round.
+
+### You talk about surprise round like it's not 5e
+Bad habit of mine because I rule the surprise round as a separate round where not all creatures have turns but if you're looking for the proper ruling it's here. Creatures with the surprised condition do not lose it until the end of their next turn. This follows the DnD 5e ruling of it being a condition for creatures (usually within the first round). It more or less works as it usually does.
+
+### My single awesome boss is still getting dogpiled
+Yeah that's a problem with DnD and its reliance on action economy already. If the legendary actions just aren't doing it for you then you can just give the boss a second turn each r
