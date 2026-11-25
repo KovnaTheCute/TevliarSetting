@@ -31,4 +31,6 @@ Alright fine I'll cover a few POTENTIAL adjustments that may satiate the players
 - Initiative 20 (Lair actions and a few niche rules)
 	When does initiative count 20 take place in this system? Actually a decent question, it can be ruled as the start of each round. 
 - until your next turn effects
-	Well what if I end the effect early by taking my turn first? Awesome, you had to end your turn though and if you managed to convince the four other players who were chomping at the bit that it was worth letting Gilgorath the Unfathomable go before all of them so you could see a lil better then good for you. If you (the DM)
+	Well what if I end the effect early by taking my turn first? Awesome, you had to end your turn though and if you managed to convince the four other players who were chomping at the bit that it was worth letting Gilgorath the Unfathomable go before all of them so you could see a lil better then good for you. If you (the DM) really want to maintain a bit of balance you could rule these effects as ending "At the end of the next round" instead. Just be prepared for all the dice rolling for 7 different effects at the same time from each player.
+- Bleeding out players
+	This also works for players whom are bleeding out. They may make their death saves at the end of each round as opposed to being part of the initiative order. This includes the round the are put into this condition in.
