@@ -2,4 +2,4 @@ Initiative in this system is not rolled, instead players and monsters will take 
 
 To decide who's team goes first in the initiative order each side chooses one character to roll off, adding any initiative bonuses the creatures have. This occurs at the start of the first round, but after any occurring surprise round.
 
-The winner of the roll off earns the first turn of combat to them or any allies creatures that would like to go.
+The winner of the roll off earns the first turn of combat for their side. The creature (or another allied creature)
