@@ -30,3 +30,5 @@ Alright fine I'll cover a few POTENTIAL adjustments that may satiate the players
 	Ok they have advantage during the roll off? Seems pretty simple. If you really need to give them something more then figure something out.
 - Initiative 20 (Lair actions and a few niche rules)
 	When does initiative count 20 take place in this system? Actually a decent question, it can be ruled as the start of each round. 
+- until your next turn effects
+	Well what if I end the effect early by taking my turn first? Awesome, you had to end your turn though and if you managed to convince the four other players who were chomping at the bit that it was worth letting Gilgorath the Unfathomable go before all of them so you could see a lil better then good for you. If you (the DM)
