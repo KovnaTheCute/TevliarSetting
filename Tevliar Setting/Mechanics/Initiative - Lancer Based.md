@@ -39,4 +39,7 @@ Alright fine I'll cover a few POTENTIAL adjustments that may satiate the players
 Bad habit of mine because I rule the surprise round as a separate round where not all creatures have turns but if you're looking for the proper ruling it's here. Creatures with the surprised condition do not lose it until the end of their next turn. This follows the DnD 5e ruling of it being a condition for creatures (usually within the first round). It more or less works as it usually does.
 
 ### My single awesome boss is still getting dogpiled
-Yeah that's a problem with DnD and its reliance on action economy already. If the legendary actions just aren't doing it for you then you can just give the boss a second turn each r
+Yeah that's a problem with DnD and its reliance on action economy already. If the legendary actions just aren't doing it for you then you can just give the boss a second turn each round. This can be a dangerous thing to do, but it's even scarier if the players don't know it's coming. You may wish to attach the second turn to a Recharge 4 - 6 to help keep balance while still benefiting the turn economy. A boss taking a second turn this way can choose to activate it whenever a turn for their side can be declared but they do not have to. This allows you to space them out and take turns between different players. The second turn does not recharge legendary actions (unless you're feeling mean)
+
+### I play in 5e and my druid just summoned 36 cows.
+Then they act on the druids initiative. If they are under the druids control, otherwise they may come in as a third side (Going on turn three as a group).
